@@ -52,19 +52,6 @@
     "genre": "フレンチ"
   },
   {
-    "rank": 43,
-    "id": "23063362",
-    "name": "野嵯和",
-    "url": "https://tabelog.com/aichi/A2301/A230109/23063362/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/105289/320x320_rect_105289441.jpg",
-    "address": "愛知県-名古屋市",
-    "rating": 4.37,
-    "ratingCount": 182,
-    "lat": 0,
-    "lng": 0,
-    "genre": "日本料理"
-  },
-  {
     "rank": 94,
     "id": "23023439",
     "name": "鮨旬美西川",
@@ -988,19 +975,6 @@
     "genre": "日本料理"
   },
   {
-    "rank": 26,
-    "id": "23066675",
-    "name": "焼鳥 かん田",
-    "url": "https://tabelog.com/aichi/A2301/A230109/23066675/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/305261/640x640_rect_f0ecc25e0033237759bd9283c05fd0aa.jpg",
-    "address": "愛知県-名古屋市",
-    "rating": 3.8,
-    "ratingCount": 71,
-    "lat": 0,
-    "lng": 0,
-    "genre": "焼き鳥"
-  },
-  {
     "rank": 35,
     "id": "23074282",
     "name": "Itsuki",
@@ -1024,19 +998,6 @@
     "ratingCount": 59,
     "lat": 35.17568138812166,
     "lng": 136.89190564129288,
-    "genre": "日本料理"
-  },
-  {
-    "rank": 27,
-    "id": "23008421",
-    "name": "出雲",
-    "url": "https://tabelog.com/aichi/A2301/A230103/23008421/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/141874/640x640_rect_141874102.jpg",
-    "address": "愛知県名古屋市東区",
-    "rating": 3.79,
-    "ratingCount": 60,
-    "lat": 0,
-    "lng": 0,
     "genre": "日本料理"
   },
   {

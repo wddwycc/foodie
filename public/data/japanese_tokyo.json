@@ -360,18 +360,6 @@
     "lng": 139.76319115257107
   },
   {
-    "rank": 31,
-    "id": "13178685",
-    "name": "六寛",
-    "url": "https://tabelog.com/tokyo/A1313/A131301/13178685/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/145134/640x640_rect_145134721.jpg",
-    "address": "東京都中央区",
-    "rating": 3.8,
-    "ratingCount": 108,
-    "lat": 0,
-    "lng": 0
-  },
-  {
     "rank": 32,
     "id": "13124391",
     "name": "松川",
@@ -406,18 +394,6 @@
     "ratingCount": 211,
     "lat": 35.68527638871843,
     "lng": 139.78206863441434
-  },
-  {
-    "rank": 35,
-    "id": "13030881",
-    "name": "井雪",
-    "url": "https://tabelog.com/tokyo/A1301/A130101/13030881/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/121875/640x640_rect_121875767.jpg",
-    "address": "東京都中央区",
-    "rating": 4.31,
-    "ratingCount": 255,
-    "lat": 0,
-    "lng": 0
   },
   {
     "rank": 36,
@@ -888,18 +864,6 @@
     "lng": 139.73886988299947
   },
   {
-    "rank": 75,
-    "id": "13118721",
-    "name": "さ行",
-    "url": "https://tabelog.com/tokyo/A1308/A130801/13118721/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/19452/640x640_rect_19452506.jpg",
-    "address": "東京都港区赤坂",
-    "rating": 3.74,
-    "ratingCount": 211,
-    "lat": 0,
-    "lng": 0
-  },
-  {
     "rank": 76,
     "id": "13115557",
     "name": "ぎんざ 一二岐",
@@ -1116,18 +1080,6 @@
     "lng": 139.7223738830312
   },
   {
-    "rank": 94,
-    "id": "13002772",
-    "name": "もりかわ",
-    "url": "https://tabelog.com/tokyo/A1308/A130801/13002772/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/121875/640x640_rect_121875451.jpg",
-    "address": "東京都港区",
-    "rating": 3.77,
-    "ratingCount": 104,
-    "lat": 0,
-    "lng": 0
-  },
-  {
     "rank": 95,
     "id": "13020781",
     "name": "新ばし 笹田",
@@ -1174,18 +1126,6 @@
     "ratingCount": 392,
     "lat": 35.689236218696976,
     "lng": 139.72259400449602
-  },
-  {
-    "rank": 99,
-    "id": "13259485",
-    "name": "末冨",
-    "url": "https://tabelog.com/tokyo/A1303/A130301/13259485/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/195672/640x640_rect_43ea53f4f279e54b516600619e8861bb.jpg",
-    "address": "東京都渋谷区",
-    "rating": 4.49,
-    "ratingCount": 194,
-    "lat": 0,
-    "lng": 0
   },
   {
     "rank": 100,

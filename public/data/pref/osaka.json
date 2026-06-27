@@ -442,19 +442,6 @@
     "genre": "日本料理"
   },
   {
-    "rank": 2,
-    "id": "27124954",
-    "name": "mikami limited50",
-    "url": "https://tabelog.com/osaka/A2701/A270201/27124954/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/281988/640x640_rect_49ad677850bdcce3175d33398c87be1c.jpg",
-    "address": "大阪府-大阪市",
-    "rating": 4.1,
-    "ratingCount": 96,
-    "lat": 0,
-    "lng": 0,
-    "genre": "寿司"
-  },
-  {
     "rank": 28,
     "id": "27118905",
     "name": "鮨 実紀",
@@ -5486,19 +5473,6 @@
     "genre": "焼き鳥"
   },
   {
-    "rank": 6,
-    "id": "27113322",
-    "name": "天太",
-    "url": "https://tabelog.com/osaka/A2701/A270101/27113322/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/130080/640x640_rect_130080078.jpg",
-    "address": "大阪府大阪市北区曽根崎新地",
-    "rating": 3.68,
-    "ratingCount": 105,
-    "lat": 0,
-    "lng": 0,
-    "genre": "アジア・エスニック"
-  },
-  {
     "rank": 52,
     "id": "27056190",
     "name": "ロッダグループ",
@@ -6679,19 +6653,6 @@
     "ratingCount": 776,
     "lat": 34.67419233718978,
     "lng": 135.49452827604512,
-    "genre": "アジア・エスニック"
-  },
-  {
-    "rank": 93,
-    "id": "27125082",
-    "name": "天波",
-    "url": "https://tabelog.com/osaka/A2701/A270101/27125082/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/165886/640x640_rect_10466093d892cdd5a9b0db4d895ed438.jpg",
-    "address": "大阪府大阪市北区",
-    "rating": 3.66,
-    "ratingCount": 84,
-    "lat": 0,
-    "lng": 0,
     "genre": "アジア・エスニック"
   },
   {

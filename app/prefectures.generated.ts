@@ -78,7 +78,7 @@ export const PREFECTURE_GROUPS: PrefectureGroup[] = [
       {
         "key": "tokyo",
         "ja": "東京都",
-        "count": 2039
+        "count": 2031
       },
       {
         "key": "kanagawa",
@@ -113,7 +113,7 @@ export const PREFECTURE_GROUPS: PrefectureGroup[] = [
       {
         "key": "yamanashi",
         "ja": "山梨県",
-        "count": 21
+        "count": 20
       },
       {
         "key": "nagano",
@@ -133,7 +133,7 @@ export const PREFECTURE_GROUPS: PrefectureGroup[] = [
       {
         "key": "aichi",
         "ja": "愛知県",
-        "count": 529
+        "count": 526
       }
     ]
   },
@@ -153,12 +153,12 @@ export const PREFECTURE_GROUPS: PrefectureGroup[] = [
       {
         "key": "kyoto",
         "ja": "京都府",
-        "count": 434
+        "count": 432
       },
       {
         "key": "osaka",
         "ja": "大阪府",
-        "count": 933
+        "count": 930
       },
       {
         "key": "hyogo",
@@ -168,7 +168,7 @@ export const PREFECTURE_GROUPS: PrefectureGroup[] = [
       {
         "key": "nara",
         "ja": "奈良県",
-        "count": 61
+        "count": 60
       },
       {
         "key": "wakayama",
@@ -203,7 +203,7 @@ export const PREFECTURE_GROUPS: PrefectureGroup[] = [
       {
         "key": "yamaguchi",
         "ja": "山口県",
-        "count": 9
+        "count": 8
       }
     ]
   },

@@ -169,19 +169,6 @@
     "genre": "焼き鳥"
   },
   {
-    "rank": 42,
-    "id": "13246316",
-    "name": "トレイス",
-    "url": "https://tabelog.com/tokyo/A1307/A130703/13246316/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/169015/640x640_rect_11ca2e25aa507850efecd2019bafcba5.jpg",
-    "address": "東京都港区",
-    "rating": 4.52,
-    "ratingCount": 275,
-    "lat": 0,
-    "lng": 0,
-    "genre": "創作料理・イノベーティブ"
-  },
-  {
     "rank": 68,
     "id": "13224635",
     "name": "赤坂 らいもん",
@@ -244,19 +231,6 @@
     "ratingCount": 404,
     "lat": 35.6708981379073,
     "lng": 139.73529008314011,
-    "genre": "日本料理"
-  },
-  {
-    "rank": 99,
-    "id": "13259485",
-    "name": "末冨",
-    "url": "https://tabelog.com/tokyo/A1303/A130301/13259485/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/195672/640x640_rect_43ea53f4f279e54b516600619e8861bb.jpg",
-    "address": "東京都渋谷区",
-    "rating": 4.49,
-    "ratingCount": 194,
-    "lat": 0,
-    "lng": 0,
     "genre": "日本料理"
   },
   {
@@ -871,19 +845,6 @@
     "genre": "創作料理・イノベーティブ"
   },
   {
-    "rank": 10,
-    "id": "13016506",
-    "name": "かわむら",
-    "url": "https://tabelog.com/tokyo/A1301/A130101/13016506/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/121875/640x640_rect_121875619.jpg",
-    "address": "東京都中央区",
-    "rating": 4.34,
-    "ratingCount": 209,
-    "lat": 0,
-    "lng": 0,
-    "genre": "ステーキ・鉄板焼き"
-  },
-  {
     "rank": 88,
     "id": "13289291",
     "name": "参宮橋 あさや",
@@ -1038,19 +999,6 @@
     "lat": 35.647020288716284,
     "lng": 139.69901334408613,
     "genre": "イタリアン"
-  },
-  {
-    "rank": 35,
-    "id": "13030881",
-    "name": "井雪",
-    "url": "https://tabelog.com/tokyo/A1301/A130101/13030881/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/121875/640x640_rect_121875767.jpg",
-    "address": "東京都中央区",
-    "rating": 4.31,
-    "ratingCount": 255,
-    "lat": 0,
-    "lng": 0,
-    "genre": "日本料理"
   },
   {
     "rank": 92,
@@ -6591,19 +6539,6 @@
     "genre": "日本料理"
   },
   {
-    "rank": 31,
-    "id": "13178685",
-    "name": "六寛",
-    "url": "https://tabelog.com/tokyo/A1313/A131301/13178685/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/145134/640x640_rect_145134721.jpg",
-    "address": "東京都中央区",
-    "rating": 3.8,
-    "ratingCount": 108,
-    "lat": 0,
-    "lng": 0,
-    "genre": "日本料理"
-  },
-  {
     "rank": 6,
     "id": "13001469",
     "name": "一番いちばん",
@@ -9097,19 +9032,6 @@
     "ratingCount": 663,
     "lat": 35.672166398722936,
     "lng": 139.7700623242903,
-    "genre": "日本料理"
-  },
-  {
-    "rank": 94,
-    "id": "13002772",
-    "name": "もりかわ",
-    "url": "https://tabelog.com/tokyo/A1308/A130801/13002772/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/121875/640x640_rect_121875451.jpg",
-    "address": "東京都港区",
-    "rating": 3.77,
-    "ratingCount": 104,
-    "lat": 0,
-    "lng": 0,
     "genre": "日本料理"
   },
   {
@@ -12308,19 +12230,6 @@
     "ratingCount": 613,
     "lat": 35.668911137909994,
     "lng": 139.73982548311687,
-    "genre": "日本料理"
-  },
-  {
-    "rank": 75,
-    "id": "13118721",
-    "name": "さ行",
-    "url": "https://tabelog.com/tokyo/A1308/A130801/13118721/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/19452/640x640_rect_19452506.jpg",
-    "address": "東京都港区赤坂",
-    "rating": 3.74,
-    "ratingCount": 211,
-    "lat": 0,
-    "lng": 0,
     "genre": "日本料理"
   },
   {
@@ -25100,19 +25009,6 @@
     "ratingCount": 424,
     "lat": 35.69567584870396,
     "lng": 139.7573701245367,
-    "genre": "ステーキ・鉄板焼き"
-  },
-  {
-    "rank": 68,
-    "id": "13216607",
-    "name": "裏虎",
-    "url": "https://tabelog.com/tokyo/A1317/A131701/13216607/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/312454/640x640_rect_c5772d562a4b57f7f01aa9720521ff32.jpg",
-    "address": "東京都目黒区",
-    "rating": 3.59,
-    "ratingCount": 117,
-    "lat": 0,
-    "lng": 0,
     "genre": "ステーキ・鉄板焼き"
   },
   {

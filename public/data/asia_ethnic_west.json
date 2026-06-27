@@ -60,18 +60,6 @@
     "lng": 135.50408000737428
   },
   {
-    "rank": 6,
-    "id": "27113322",
-    "name": "天太",
-    "url": "https://tabelog.com/osaka/A2701/A270101/27113322/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/130080/640x640_rect_130080078.jpg",
-    "address": "大阪府大阪市北区曽根崎新地",
-    "rating": 3.68,
-    "ratingCount": 105,
-    "lat": 0,
-    "lng": 0
-  },
-  {
     "rank": 7,
     "id": "27091309",
     "name": "カレーや デッカオ",
@@ -1102,18 +1090,6 @@
     "ratingCount": 71,
     "lat": 34.69825421508536,
     "lng": 135.50685959168305
-  },
-  {
-    "rank": 93,
-    "id": "27125082",
-    "name": "天波",
-    "url": "https://tabelog.com/osaka/A2701/A270101/27125082/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/165886/640x640_rect_10466093d892cdd5a9b0db4d895ed438.jpg",
-    "address": "大阪府大阪市北区",
-    "rating": 3.66,
-    "ratingCount": 84,
-    "lat": 0,
-    "lng": 0
   },
   {
     "rank": 94,

@@ -95,6 +95,19 @@ function parseRestaurant(html, url) {
   return null;
 }
 
+// Reject missing coords and bad fixes (Tabelog returns 0,0 for hidden
+// locations); roughly bound to Japan so nothing plots off the map.
+function inJapan(lat, lng) {
+  return (
+    typeof lat === "number" &&
+    typeof lng === "number" &&
+    lat >= 24 &&
+    lat <= 46 &&
+    lng >= 122 &&
+    lng <= 146
+  );
+}
+
 async function main() {
   console.log(`Scraping set: ${SET}`);
   const setHtml = await fetchCached(
@@ -111,11 +124,12 @@ async function main() {
     try {
       const html = await fetchCached(url, id);
       const r = parseRestaurant(html, url);
-      if (r && r.lat != null) {
+      if (r && inJapan(r.lat, r.lng)) {
         out.push({ rank: i + 1, ...r });
         console.log(`  [${i + 1}/${urls.length}] ${r.name} (${r.rating})`);
       } else {
-        console.warn(`  ! no coords: ${url}`);
+        // Tabelog hides coordinates for some reservation-only places (geo 0,0).
+        console.warn(`  ! no/invalid coords: ${url}`);
       }
     } catch (err) {
       console.warn(`  ! failed ${url}: ${err.message}`);

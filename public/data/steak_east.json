@@ -108,18 +108,6 @@
     "lng": 139.7465244542909
   },
   {
-    "rank": 10,
-    "id": "13016506",
-    "name": "かわむら",
-    "url": "https://tabelog.com/tokyo/A1301/A130101/13016506/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/121875/640x640_rect_121875619.jpg",
-    "address": "東京都中央区",
-    "rating": 4.34,
-    "ratingCount": 209,
-    "lat": 0,
-    "lng": 0
-  },
-  {
     "rank": 11,
     "id": "13007536",
     "name": "鉄板焼 赤坂",
@@ -802,18 +790,6 @@
     "ratingCount": 264,
     "lat": 35.67905583791409,
     "lng": 139.77290458319615
-  },
-  {
-    "rank": 68,
-    "id": "13216607",
-    "name": "裏虎",
-    "url": "https://tabelog.com/tokyo/A1317/A131701/13216607/",
-    "image": "https://tblg.k-img.com/restaurant/images/Rvw/312454/640x640_rect_c5772d562a4b57f7f01aa9720521ff32.jpg",
-    "address": "東京都目黒区",
-    "rating": 3.59,
-    "ratingCount": 117,
-    "lat": 0,
-    "lng": 0
   },
   {
     "rank": 69,
