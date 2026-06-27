@@ -68,6 +68,9 @@ function popupHtml(p: Record<string, unknown>): string {
 export default function RestaurantMap() {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
+  // True once the user has picked a set; a late geolocation fix must not then
+  // yank the camera away from the selected set.
+  const hasPickedRef = useRef(false);
 
   const [selected, setSelected] = useState<string | null>(null);
   const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
@@ -110,15 +113,30 @@ export default function RestaurantMap() {
 
     map.addControl(new maplibregl.NavigationControl(), "top-right");
 
+    // Manual recenter button. No continuous tracking — tracking mode kept
+    // re-centering the camera and fought with the selected set's framing.
     const geolocate = new maplibregl.GeolocateControl({
       positionOptions: { enableHighAccuracy: true },
-      trackUserLocation: true,
+      trackUserLocation: false,
       showUserLocation: true,
     });
     map.addControl(geolocate, "top-right");
 
     map.on("load", () => {
-      geolocate.trigger();
+      // One-time recenter on the user's location, but only if no set has been
+      // picked yet — otherwise a slow geolocation fix (notably in Safari)
+      // overrides the chosen set and makes the camera jump back.
+      navigator.geolocation?.getCurrentPosition(
+        (pos) => {
+          if (hasPickedRef.current) return;
+          map.easeTo({
+            center: [pos.coords.longitude, pos.coords.latitude],
+            zoom: 12,
+          });
+        },
+        undefined,
+        { enableHighAccuracy: true, timeout: 8000 },
+      );
 
       map.addSource(SOURCE_ID, {
         type: "geojson",
@@ -238,6 +256,7 @@ export default function RestaurantMap() {
   // Load the selected set's restaurants.
   useEffect(() => {
     if (!selected) return;
+    hasPickedRef.current = true;
     let cancelled = false;
     setLoading(true);
     fetch(`/data/${selected}.json`)
