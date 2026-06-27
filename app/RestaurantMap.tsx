@@ -303,24 +303,6 @@ export default function RestaurantMap() {
                 setSelected(slug);
                 setOpen(false);
               };
-              const single = g.items.length === 1 && !g.items[0].region;
-              if (single) {
-                const s = g.items[0];
-                const active = selected === s.slug;
-                return (
-                  <button
-                    key={s.slug}
-                    onClick={() => choose(s.slug)}
-                    className={`block w-full rounded-lg px-2 py-1.5 text-left text-sm transition-colors ${
-                      active
-                        ? "bg-rose-600 text-white"
-                        : "text-zinc-700 hover:bg-zinc-100 dark:text-zinc-200 dark:hover:bg-zinc-800"
-                    }`}
-                  >
-                    {g.genre}
-                  </button>
-                );
-              }
               return (
                 <div key={g.genre} className="px-1 py-1">
                   <div className="px-1 pb-1 text-xs font-semibold text-zinc-400">
@@ -339,7 +321,7 @@ export default function RestaurantMap() {
                               : "bg-zinc-100 text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-200 dark:hover:bg-zinc-700"
                           }`}
                         >
-                          {s.region}
+                          {s.region || "全国"}
                         </button>
                       );
                     })}
