@@ -18,6 +18,7 @@ export type Restaurant = {
   ratingCount: number | null;
   lat: number;
   lng: number;
+  genre?: string; // present in prefecture-aggregated data
 };
 
 // The registry is generated from the index + scraped data files.

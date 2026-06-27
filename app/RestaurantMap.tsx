@@ -4,10 +4,14 @@ import { useEffect, useRef, useState } from "react";
 import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { SETS, type AwardSet, type Restaurant } from "./sets";
+import { PREFECTURE_GROUPS_LIST } from "./prefectures";
 
 const SAPPORO: [number, number] = [141.3545, 43.0618];
 const SOURCE_ID = "restaurants";
 const ROSE = "#e11d48";
+
+type Mode = "genre" | "pref";
+type Selection = { mode: Mode; key: string };
 
 // Group sets by genre for the picker. `region` is the label with the genre
 // prefix stripped (e.g. "ラーメン 北海道" → "北海道"); empty for national sets.
@@ -25,6 +29,22 @@ const GENRE_GROUPS: { genre: string; items: GroupedSet[] }[] = (() => {
   return groups;
 })();
 
+const PREF_JA = new Map(
+  PREFECTURE_GROUPS_LIST.flatMap((g) => g.items).map((p) => [p.key, p.ja]),
+);
+
+function dataUrl(sel: Selection): string {
+  return sel.mode === "pref"
+    ? `/data/pref/${sel.key}.json`
+    : `/data/${sel.key}.json`;
+}
+
+function selectionLabel(sel: Selection): string | undefined {
+  return sel.mode === "pref"
+    ? PREF_JA.get(sel.key)
+    : SETS.find((s) => s.slug === sel.key)?.label;
+}
+
 function toGeoJSON(
   restaurants: Restaurant[],
 ): GeoJSON.FeatureCollection<GeoJSON.Point> {
@@ -40,6 +60,7 @@ function toGeoJSON(
         address: r.address,
         rating: r.rating,
         ratingCount: r.ratingCount,
+        genre: r.genre ?? null,
       },
     })),
   };
@@ -53,11 +74,16 @@ function popupHtml(p: Record<string, unknown>): string {
           ? ` <span style="color:#888">(${p.ratingCount})</span>`
           : "")
       : "";
+  // In prefecture view, lead with the genre; in a genre set, lead with rank.
+  const lead = p.genre
+    ? `<span style="background:#fce7ef;color:${ROSE};border-radius:4px;padding:0 5px;font-size:11px;margin-right:4px">${p.genre}</span>`
+    : `${p.rank}. `;
   return `
     <div style="font-size:13px;line-height:1.4;max-width:200px">
       <div style="font-weight:600;margin-bottom:2px">
+        ${p.genre ? lead + "<br/>" : ""}
         <a href="${p.url}" target="_blank" rel="noopener" style="color:#111;text-decoration:none">
-          ${p.rank}. ${p.name}
+          ${p.genre ? "" : lead}${p.name}
         </a>
       </div>
       <div>${rating}</div>
@@ -68,18 +94,28 @@ function popupHtml(p: Record<string, unknown>): string {
 export default function RestaurantMap() {
   const containerRef = useRef<HTMLDivElement>(null);
   const mapRef = useRef<maplibregl.Map | null>(null);
-  // True once the user has picked a set; a late geolocation fix must not then
-  // yank the camera away from the selected set.
+  // True once the user has picked something; a late geolocation fix must not
+  // then yank the camera away from the selection.
   const hasPickedRef = useRef(false);
+  // Skip the very first selection→URL sync so the initial URL read isn't undone.
+  const firstSyncRef = useRef(true);
 
-  const [selected, setSelected] = useState<string | null>(null);
+  const [selected, setSelected] = useState<Selection | null>(null);
   const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
   const [loading, setLoading] = useState(false);
   const [mapReady, setMapReady] = useState(false);
   const [open, setOpen] = useState(false);
+  const [mode, setMode] = useState<Mode>("genre");
   const pickerRef = useRef<HTMLDivElement>(null);
 
-  const selectedLabel = SETS.find((s) => s.slug === selected)?.label;
+  const selectedLabel = selected ? selectionLabel(selected) : undefined;
+
+  const choose = (sel: Selection) => {
+    setSelected(sel);
+    setOpen(false);
+  };
+  const isActive = (sel: Selection) =>
+    selected?.mode === sel.mode && selected?.key === sel.key;
 
   // Close the picker when clicking outside it.
   useEffect(() => {
@@ -93,11 +129,50 @@ export default function RestaurantMap() {
     return () => document.removeEventListener("mousedown", onDown);
   }, [open]);
 
-  // Pick up ?set=<slug> from the URL after hydration (client-only).
+  // Sync selection from the URL: on load and on browser back/forward.
   useEffect(() => {
-    const slug = new URLSearchParams(window.location.search).get("set");
-    if (slug && SETS.some((s) => s.slug === slug)) setSelected(slug);
+    const applyUrl = () => {
+      const params = new URLSearchParams(window.location.search);
+      const pref = params.get("pref");
+      const set = params.get("set");
+      if (pref && PREF_JA.has(pref)) {
+        setMode("pref");
+        setSelected({ mode: "pref", key: pref });
+      } else if (set && SETS.some((s) => s.slug === set)) {
+        setMode("genre");
+        setSelected({ mode: "genre", key: set });
+      } else {
+        setSelected(null);
+      }
+    };
+    applyUrl();
+    window.addEventListener("popstate", applyUrl);
+    return () => window.removeEventListener("popstate", applyUrl);
   }, []);
+
+  // Reflect the current selection back into the URL (shareable + history).
+  useEffect(() => {
+    if (firstSyncRef.current) {
+      firstSyncRef.current = false;
+      return;
+    }
+    const url = new URL(window.location.href);
+    const cur = url.searchParams.get("pref")
+      ? `pref:${url.searchParams.get("pref")}`
+      : url.searchParams.get("set")
+        ? `set:${url.searchParams.get("set")}`
+        : "";
+    const next = selected
+      ? `${selected.mode === "pref" ? "pref" : "set"}:${selected.key}`
+      : "";
+    if (cur === next) return; // already in sync (e.g. came from popstate)
+    url.searchParams.delete("set");
+    url.searchParams.delete("pref");
+    if (selected) {
+      url.searchParams.set(selected.mode === "pref" ? "pref" : "set", selected.key);
+    }
+    window.history.pushState(null, "", url);
+  }, [selected]);
 
   // Init map once, and set up the clustered source + layers on style load.
   useEffect(() => {
@@ -114,7 +189,7 @@ export default function RestaurantMap() {
     map.addControl(new maplibregl.NavigationControl(), "top-right");
 
     // Manual recenter button. No continuous tracking — tracking mode kept
-    // re-centering the camera and fought with the selected set's framing.
+    // re-centering the camera and fought with the selection's framing.
     const geolocate = new maplibregl.GeolocateControl({
       positionOptions: { enableHighAccuracy: true },
       trackUserLocation: false,
@@ -123,9 +198,9 @@ export default function RestaurantMap() {
     map.addControl(geolocate, "top-right");
 
     map.on("load", () => {
-      // One-time recenter on the user's location, but only if no set has been
+      // One-time recenter on the user's location, but only if nothing has been
       // picked yet — otherwise a slow geolocation fix (notably in Safari)
-      // overrides the chosen set and makes the camera jump back.
+      // overrides the selection and makes the camera jump back.
       navigator.geolocation?.getCurrentPosition(
         (pos) => {
           if (hasPickedRef.current) return;
@@ -253,13 +328,13 @@ export default function RestaurantMap() {
     };
   }, []);
 
-  // Load the selected set's restaurants.
+  // Load the selected dataset's restaurants.
   useEffect(() => {
     if (!selected) return;
     hasPickedRef.current = true;
     let cancelled = false;
     setLoading(true);
-    fetch(`/data/${selected}.json`)
+    fetch(dataUrl(selected))
       .then((res) => res.json())
       .then((data: Restaurant[]) => {
         if (!cancelled) setRestaurants(data);
@@ -280,7 +355,9 @@ export default function RestaurantMap() {
     const map = mapRef.current;
     if (!map || !mapReady) return;
 
-    const source = map.getSource(SOURCE_ID) as maplibregl.GeoJSONSource | undefined;
+    const source = map.getSource(SOURCE_ID) as
+      | maplibregl.GeoJSONSource
+      | undefined;
     if (!source) return;
     source.setData(toGeoJSON(restaurants));
 
@@ -290,11 +367,27 @@ export default function RestaurantMap() {
     map.fitBounds(bounds, { padding: 60, maxZoom: 14 });
   }, [restaurants, mapReady]);
 
+  const tabClass = (m: Mode) =>
+    `flex-1 rounded-lg px-2 py-1 text-sm font-medium transition-colors ${
+      mode === m
+        ? "bg-rose-600 text-white"
+        : "text-zinc-600 hover:bg-zinc-100 dark:text-zinc-300 dark:hover:bg-zinc-800"
+    }`;
+  const chipClass = (active: boolean) =>
+    `rounded-full px-3 py-1 text-sm transition-colors ${
+      active
+        ? "bg-rose-600 text-white"
+        : "bg-zinc-100 text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-200 dark:hover:bg-zinc-700"
+    }`;
+
   return (
     <div className="relative h-dvh w-full">
       <div ref={containerRef} className="h-full w-full" />
 
-      <div ref={pickerRef} className="absolute left-3 top-3 z-10 w-56 max-w-[calc(100vw-1.5rem)]">
+      <div
+        ref={pickerRef}
+        className="absolute left-3 top-3 z-10 w-60 max-w-[calc(100vw-1.5rem)]"
+      >
         <button
           onClick={() => setOpen((o) => !o)}
           className="flex w-full items-center gap-2 rounded-xl bg-white/90 px-4 py-2.5 text-left shadow-lg backdrop-blur dark:bg-zinc-900/90"
@@ -305,7 +398,6 @@ export default function RestaurantMap() {
           {loading ? (
             <span className="ml-auto text-xs text-zinc-400">読み込み中…</span>
           ) : (
-            !loading &&
             selected &&
             restaurants.length > 0 && (
               <span className="ml-auto text-xs text-zinc-400">
@@ -318,37 +410,53 @@ export default function RestaurantMap() {
 
         {open && (
           <div className="mt-2 max-h-[70vh] overflow-y-auto rounded-xl bg-white/95 p-2 shadow-xl backdrop-blur dark:bg-zinc-900/95">
-            {GENRE_GROUPS.map((g) => {
-              const choose = (slug: string) => {
-                setSelected(slug);
-                setOpen(false);
-              };
-              return (
-                <div key={g.genre} className="px-1 py-1">
-                  <div className="px-1 pb-1 text-xs font-semibold text-zinc-400">
-                    {g.genre}
-                  </div>
-                  <div className="flex flex-wrap gap-1">
-                    {g.items.map((s) => {
-                      const active = selected === s.slug;
-                      return (
+            <div className="mb-1 flex gap-1 rounded-lg bg-zinc-100 p-1 dark:bg-zinc-800">
+              <button onClick={() => setMode("genre")} className={tabClass("genre")}>
+                ジャンル
+              </button>
+              <button onClick={() => setMode("pref")} className={tabClass("pref")}>
+                都道府県
+              </button>
+            </div>
+
+            {mode === "genre"
+              ? GENRE_GROUPS.map((g) => (
+                  <div key={g.genre} className="px-1 py-1">
+                    <div className="px-1 pb-1 text-xs font-semibold text-zinc-400">
+                      {g.genre}
+                    </div>
+                    <div className="flex flex-wrap gap-1">
+                      {g.items.map((s) => (
                         <button
                           key={s.slug}
-                          onClick={() => choose(s.slug)}
-                          className={`rounded-full px-3 py-1 text-sm transition-colors ${
-                            active
-                              ? "bg-rose-600 text-white"
-                              : "bg-zinc-100 text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-200 dark:hover:bg-zinc-700"
-                          }`}
+                          onClick={() => choose({ mode: "genre", key: s.slug })}
+                          className={chipClass(isActive({ mode: "genre", key: s.slug }))}
                         >
                           {s.region || "全国"}
                         </button>
-                      );
-                    })}
+                      ))}
+                    </div>
                   </div>
-                </div>
-              );
-            })}
+                ))
+              : PREFECTURE_GROUPS_LIST.map((g) => (
+                  <div key={g.region} className="px-1 py-1">
+                    <div className="px-1 pb-1 text-xs font-semibold text-zinc-400">
+                      {g.region}
+                    </div>
+                    <div className="flex flex-wrap gap-1">
+                      {g.items.map((p) => (
+                        <button
+                          key={p.key}
+                          onClick={() => choose({ mode: "pref", key: p.key })}
+                          className={chipClass(isActive({ mode: "pref", key: p.key }))}
+                        >
+                          {p.ja}
+                          <span className="ml-1 opacity-60">{p.count}</span>
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+                ))}
           </div>
         )}
       </div>
