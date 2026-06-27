@@ -13,13 +13,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Foodie - Find awarded restaurants",
+  title: "Foodie - 受賞店を地図で探す",
   description:
-    "Explore Tabelog 百名店 award-winning restaurants on a map, by genre or prefecture.",
+    "食べログ百名店の受賞レストランを地図で探す。ジャンルや都道府県から絞り込めます。",
   openGraph: {
-    title: "Foodie - Find awarded restaurants",
+    title: "Foodie - 受賞店を地図で探す",
     description:
-      "Explore Tabelog 百名店 award-winning restaurants on a map, by genre or prefecture.",
+      "食べログ百名店の受賞レストランを地図で探す。ジャンルや都道府県から絞り込めます。",
     type: "website",
   },
 };
@@ -31,7 +31,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
+      lang="ja"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">{children}</body>

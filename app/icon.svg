@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- steam -->
+  <g stroke="#e11d48" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.55">
+    <path d="M12.5 3c1.6 1.3 1.6 2.5 0 3.8" />
+    <path d="M19.5 3c1.6 1.3 1.6 2.5 0 3.8" />
+  </g>
+  <!-- chopsticks -->
+  <g stroke="#881337" stroke-width="1.9" stroke-linecap="round">
+    <path d="M19 3.5 30.5 12" />
+    <path d="M22 2.5 31.5 13.5" />
+  </g>
+  <!-- bowl -->
+  <path d="M3 12.5 H29 A13 13 0 0 1 3 12.5 Z" fill="#e11d48" />
+  <!-- noodles -->
+  <path
+    d="M8 16c3 2.6 5 2.6 8 0s5-2.6 8 0"
+    stroke="#fff"
+    stroke-width="1.7"
+    fill="none"
+    stroke-linecap="round"
+  />
+</svg>
