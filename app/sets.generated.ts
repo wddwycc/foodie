@@ -9,6 +9,61 @@ export const GENERATED_SETS: AwardSet[] = [
     "genre": "カレー"
   },
   {
+    "slug": "curry_east",
+    "label": "カレー 東日本",
+    "genre": "カレー"
+  },
+  {
+    "slug": "curry_west",
+    "label": "カレー 西日本",
+    "genre": "カレー"
+  },
+  {
+    "slug": "asia_ethnic_tokyo",
+    "label": "アジア・エスニック 東京",
+    "genre": "アジア・エスニック"
+  },
+  {
+    "slug": "asia_ethnic_east",
+    "label": "アジア・エスニック 東日本",
+    "genre": "アジア・エスニック"
+  },
+  {
+    "slug": "asia_ethnic_west",
+    "label": "アジア・エスニック 西日本",
+    "genre": "アジア・エスニック"
+  },
+  {
+    "slug": "shokudo",
+    "label": "食堂",
+    "genre": "食堂"
+  },
+  {
+    "slug": "spanish",
+    "label": "スペイン料理",
+    "genre": "スペイン料理"
+  },
+  {
+    "slug": "chinese_tokyo",
+    "label": "中国料理 東京",
+    "genre": "中国料理"
+  },
+  {
+    "slug": "chinese_east",
+    "label": "中国料理 東日本",
+    "genre": "中国料理"
+  },
+  {
+    "slug": "chinese_west",
+    "label": "中国料理 西日本",
+    "genre": "中国料理"
+  },
+  {
+    "slug": "hamburger",
+    "label": "ハンバーガー",
+    "genre": "ハンバーガー"
+  },
+  {
     "slug": "tonkatsu",
     "label": "とんかつ",
     "genre": "とんかつ"
@@ -24,9 +79,89 @@ export const GENERATED_SETS: AwardSet[] = [
     "genre": "ラーメン"
   },
   {
+    "slug": "ramen_kanagawa",
+    "label": "ラーメン 神奈川",
+    "genre": "ラーメン"
+  },
+  {
+    "slug": "ramen_aichi",
+    "label": "ラーメン 愛知",
+    "genre": "ラーメン"
+  },
+  {
+    "slug": "ramen_osaka",
+    "label": "ラーメン 大阪",
+    "genre": "ラーメン"
+  },
+  {
+    "slug": "ramen_east",
+    "label": "ラーメン 東日本",
+    "genre": "ラーメン"
+  },
+  {
+    "slug": "ramen_west",
+    "label": "ラーメン 西日本",
+    "genre": "ラーメン"
+  },
+  {
+    "slug": "yakitori_east",
+    "label": "焼き鳥 東日本",
+    "genre": "焼き鳥"
+  },
+  {
+    "slug": "yakitori_west",
+    "label": "焼き鳥 西日本",
+    "genre": "焼き鳥"
+  },
+  {
+    "slug": "toriryori",
+    "label": "鳥料理",
+    "genre": "鳥料理"
+  },
+  {
     "slug": "yakiniku_tokyo",
     "label": "焼肉 東京",
     "genre": "焼肉"
+  },
+  {
+    "slug": "yakiniku_east",
+    "label": "焼肉 東日本",
+    "genre": "焼肉"
+  },
+  {
+    "slug": "yakiniku_west",
+    "label": "焼肉 西日本",
+    "genre": "焼肉"
+  },
+  {
+    "slug": "izakaya_east",
+    "label": "居酒屋 東日本",
+    "genre": "居酒屋"
+  },
+  {
+    "slug": "izakaya_west",
+    "label": "居酒屋 西日本",
+    "genre": "居酒屋"
+  },
+  {
+    "slug": "tachinomi",
+    "label": "立ち飲み",
+    "genre": "立ち飲み"
+  },
+  {
+    "slug": "okonomiyaki",
+    "label": "お好み焼き",
+    "genre": "お好み焼き"
+  },
+  {
+    "slug": "steak_east",
+    "label": "ステーキ・鉄板焼き 東日本",
+    "genre": "ステーキ・鉄板焼き"
+  },
+  {
+    "slug": "steak_west",
+    "label": "ステーキ・鉄板焼き 西日本",
+    "genre": "ステーキ・鉄板焼き"
   },
   {
     "slug": "soba_east",
@@ -34,14 +169,84 @@ export const GENERATED_SETS: AwardSet[] = [
     "genre": "そば"
   },
   {
+    "slug": "soba_west",
+    "label": "そば 西日本",
+    "genre": "そば"
+  },
+  {
+    "slug": "cafe_east",
+    "label": "カフェ 東日本",
+    "genre": "カフェ"
+  },
+  {
+    "slug": "cafe_west",
+    "label": "カフェ 西日本",
+    "genre": "カフェ"
+  },
+  {
+    "slug": "yoshoku_east",
+    "label": "洋食 東日本",
+    "genre": "洋食"
+  },
+  {
+    "slug": "yoshoku_west",
+    "label": "洋食 西日本",
+    "genre": "洋食"
+  },
+  {
     "slug": "french_tokyo",
     "label": "フレンチ 東京",
     "genre": "フレンチ"
   },
   {
+    "slug": "french_east",
+    "label": "フレンチ 東日本",
+    "genre": "フレンチ"
+  },
+  {
+    "slug": "french_west",
+    "label": "フレンチ 西日本",
+    "genre": "フレンチ"
+  },
+  {
+    "slug": "creative_innovative",
+    "label": "創作料理・イノベーティブ",
+    "genre": "創作料理・イノベーティブ"
+  },
+  {
     "slug": "italian_tokyo",
     "label": "イタリアン 東京",
     "genre": "イタリアン"
+  },
+  {
+    "slug": "italian_east",
+    "label": "イタリアン 東日本",
+    "genre": "イタリアン"
+  },
+  {
+    "slug": "italian_west",
+    "label": "イタリアン 西日本",
+    "genre": "イタリアン"
+  },
+  {
+    "slug": "pizza",
+    "label": "ピザ",
+    "genre": "ピザ"
+  },
+  {
+    "slug": "japanese_tokyo",
+    "label": "日本料理 東京",
+    "genre": "日本料理"
+  },
+  {
+    "slug": "japanese_east",
+    "label": "日本料理 東日本",
+    "genre": "日本料理"
+  },
+  {
+    "slug": "japanese_west",
+    "label": "日本料理 西日本",
+    "genre": "日本料理"
   },
   {
     "slug": "tempura",
@@ -59,8 +264,93 @@ export const GENERATED_SETS: AwardSet[] = [
     "genre": "寿司"
   },
   {
+    "slug": "sushi_west",
+    "label": "寿司 西日本",
+    "genre": "寿司"
+  },
+  {
+    "slug": "sukiyaki_shabushabu",
+    "label": "すき焼き・しゃぶしゃぶ",
+    "genre": "すき焼き・しゃぶしゃぶ"
+  },
+  {
     "slug": "unagi",
     "label": "うなぎ",
     "genre": "うなぎ"
+  },
+  {
+    "slug": "gyoza",
+    "label": "餃子",
+    "genre": "餃子"
+  },
+  {
+    "slug": "udon_kagawa",
+    "label": "うどん 香川",
+    "genre": "うどん"
+  },
+  {
+    "slug": "udon_east",
+    "label": "うどん 東日本",
+    "genre": "うどん"
+  },
+  {
+    "slug": "udon_west",
+    "label": "うどん 西日本",
+    "genre": "うどん"
+  },
+  {
+    "slug": "wagashi_tokyo",
+    "label": "和菓子・甘味処 東京",
+    "genre": "和菓子・甘味処"
+  },
+  {
+    "slug": "wagashi_east",
+    "label": "和菓子・甘味処 東日本",
+    "genre": "和菓子・甘味処"
+  },
+  {
+    "slug": "wagashi_west",
+    "label": "和菓子・甘味処 西日本",
+    "genre": "和菓子・甘味処"
+  },
+  {
+    "slug": "sweets_tokyo",
+    "label": "スイーツ 東京",
+    "genre": "スイーツ"
+  },
+  {
+    "slug": "sweets_east",
+    "label": "スイーツ 東日本",
+    "genre": "スイーツ"
+  },
+  {
+    "slug": "sweets_west",
+    "label": "スイーツ 西日本",
+    "genre": "スイーツ"
+  },
+  {
+    "slug": "ice_gelato",
+    "label": "アイス・ジェラート",
+    "genre": "アイス・ジェラート"
+  },
+  {
+    "slug": "bar",
+    "label": "バー",
+    "genre": "バー"
+  },
+  {
+    "slug": "bread_tokyo",
+    "label": "パン 東京",
+    "genre": "パン"
+  },
+  {
+    "slug": "bread_east",
+    "label": "パン 東日本",
+    "genre": "パン"
+  },
+  {
+    "slug": "bread_west",
+    "label": "パン 西日本",
+    "genre": "パン"
   }
 ];
