@@ -105,7 +105,7 @@ export default function RestaurantMap() {
   const [loading, setLoading] = useState(false);
   const [mapReady, setMapReady] = useState(false);
   const [open, setOpen] = useState(false);
-  const [mode, setMode] = useState<Mode>("genre");
+  const [mode, setMode] = useState<Mode>("pref");
   const pickerRef = useRef<HTMLDivElement>(null);
 
   const selectedLabel = selected ? selectionLabel(selected) : undefined;
@@ -386,36 +386,34 @@ export default function RestaurantMap() {
 
       <div
         ref={pickerRef}
-        className="absolute left-3 top-3 z-10 w-60 max-w-[calc(100vw-1.5rem)]"
+        className="absolute left-3 top-3 z-10 w-80 max-w-[calc(100vw-1.5rem)]"
       >
         <button
           onClick={() => setOpen((o) => !o)}
           className="flex w-full items-center gap-2 rounded-xl bg-white/90 px-4 py-2.5 text-left shadow-lg backdrop-blur dark:bg-zinc-900/90"
         >
-          <span className="truncate text-sm font-semibold text-zinc-800 dark:text-zinc-100">
+          <span className="min-w-0 flex-1 truncate text-sm font-semibold text-zinc-800 dark:text-zinc-100">
             {selectedLabel ?? "百名店を選ぶ"}
           </span>
-          {loading ? (
-            <span className="ml-auto text-xs text-zinc-400">読み込み中…</span>
-          ) : (
-            selected &&
-            restaurants.length > 0 && (
-              <span className="ml-auto text-xs text-zinc-400">
-                {restaurants.length}店
-              </span>
-            )
-          )}
-          <span className="ml-auto text-xs text-zinc-400">▾</span>
+          <span className="flex shrink-0 items-center gap-2 text-xs text-zinc-400">
+            {loading ? (
+              <span>読み込み中…</span>
+            ) : (
+              selected &&
+              restaurants.length > 0 && <span>{restaurants.length}店</span>
+            )}
+            <span>▾</span>
+          </span>
         </button>
 
         {open && (
           <div className="mt-2 max-h-[70vh] overflow-y-auto rounded-xl bg-white/95 p-2 shadow-xl backdrop-blur dark:bg-zinc-900/95">
             <div className="mb-1 flex gap-1 rounded-lg bg-zinc-100 p-1 dark:bg-zinc-800">
-              <button onClick={() => setMode("genre")} className={tabClass("genre")}>
-                ジャンル
-              </button>
               <button onClick={() => setMode("pref")} className={tabClass("pref")}>
                 都道府県
+              </button>
+              <button onClick={() => setMode("genre")} className={tabClass("genre")}>
+                ジャンル
               </button>
             </div>
 
