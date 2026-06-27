@@ -20,7 +20,8 @@ export type Restaurant = {
   lng: number;
 };
 
-export const SETS: AwardSet[] = [
-  { slug: "ramen_hokkaido", label: "ラーメン 北海道", genre: "ラーメン" },
-  { slug: "sushi_east", label: "寿司 東日本", genre: "寿司" },
-];
+// The registry is generated from the index + scraped data files.
+// Run `node scripts/gen-sets.mjs` (or scripts/scrape-all.mjs) to update it.
+import { GENERATED_SETS } from "./sets.generated";
+
+export const SETS: AwardSet[] = GENERATED_SETS;

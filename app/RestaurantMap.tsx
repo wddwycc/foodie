@@ -3,11 +3,27 @@
 import { useEffect, useRef, useState } from "react";
 import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
-import { SETS, type Restaurant } from "./sets";
+import { SETS, type AwardSet, type Restaurant } from "./sets";
 
 const SAPPORO: [number, number] = [141.3545, 43.0618];
 const SOURCE_ID = "restaurants";
 const ROSE = "#e11d48";
+
+// Group sets by genre for the picker. `region` is the label with the genre
+// prefix stripped (e.g. "ラーメン 北海道" → "北海道"); empty for national sets.
+type GroupedSet = AwardSet & { region: string };
+const GENRE_GROUPS: { genre: string; items: GroupedSet[] }[] = (() => {
+  const groups: { genre: string; items: GroupedSet[] }[] = [];
+  for (const s of SETS) {
+    const region = s.label.startsWith(s.genre)
+      ? s.label.slice(s.genre.length).trim()
+      : s.label;
+    let g = groups.find((x) => x.genre === s.genre);
+    if (!g) groups.push((g = { genre: s.genre, items: [] }));
+    g.items.push({ ...s, region });
+  }
+  return groups;
+})();
 
 function toGeoJSON(
   restaurants: Restaurant[],
@@ -57,6 +73,22 @@ export default function RestaurantMap() {
   const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
   const [loading, setLoading] = useState(false);
   const [mapReady, setMapReady] = useState(false);
+  const [open, setOpen] = useState(false);
+  const pickerRef = useRef<HTMLDivElement>(null);
+
+  const selectedLabel = SETS.find((s) => s.slug === selected)?.label;
+
+  // Close the picker when clicking outside it.
+  useEffect(() => {
+    if (!open) return;
+    const onDown = (e: MouseEvent) => {
+      if (pickerRef.current && !pickerRef.current.contains(e.target as Node)) {
+        setOpen(false);
+      }
+    };
+    document.addEventListener("mousedown", onDown);
+    return () => document.removeEventListener("mousedown", onDown);
+  }, [open]);
 
   // Pick up ?set=<slug> from the URL after hydration (client-only).
   useEffect(() => {
@@ -242,30 +274,80 @@ export default function RestaurantMap() {
     <div className="relative h-dvh w-full">
       <div ref={containerRef} className="h-full w-full" />
 
-      <div className="absolute left-3 top-3 z-10 flex flex-wrap gap-2 rounded-xl bg-white/90 p-3 shadow-lg backdrop-blur dark:bg-zinc-900/90">
-        <span className="self-center pr-1 text-sm font-semibold text-zinc-700 dark:text-zinc-200">
-          百名店
-        </span>
-        {SETS.map((s) => (
-          <button
-            key={s.slug}
-            onClick={() => setSelected(s.slug)}
-            className={`rounded-full px-3 py-1 text-sm transition-colors ${
-              selected === s.slug
-                ? "bg-rose-600 text-white"
-                : "bg-zinc-100 text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-200 dark:hover:bg-zinc-700"
-            }`}
-          >
-            {s.label}
-          </button>
-        ))}
-        {loading && (
-          <span className="self-center text-sm text-zinc-500">読み込み中…</span>
-        )}
-        {!loading && restaurants.length > 0 && (
-          <span className="self-center text-sm text-zinc-500">
-            {restaurants.length}店
+      <div ref={pickerRef} className="absolute left-3 top-3 z-10 w-56 max-w-[calc(100vw-1.5rem)]">
+        <button
+          onClick={() => setOpen((o) => !o)}
+          className="flex w-full items-center gap-2 rounded-xl bg-white/90 px-4 py-2.5 text-left shadow-lg backdrop-blur dark:bg-zinc-900/90"
+        >
+          <span className="truncate text-sm font-semibold text-zinc-800 dark:text-zinc-100">
+            {selectedLabel ?? "百名店を選ぶ"}
           </span>
+          {loading ? (
+            <span className="ml-auto text-xs text-zinc-400">読み込み中…</span>
+          ) : (
+            !loading &&
+            selected &&
+            restaurants.length > 0 && (
+              <span className="ml-auto text-xs text-zinc-400">
+                {restaurants.length}店
+              </span>
+            )
+          )}
+          <span className="ml-auto text-xs text-zinc-400">▾</span>
+        </button>
+
+        {open && (
+          <div className="mt-2 max-h-[70vh] overflow-y-auto rounded-xl bg-white/95 p-2 shadow-xl backdrop-blur dark:bg-zinc-900/95">
+            {GENRE_GROUPS.map((g) => {
+              const choose = (slug: string) => {
+                setSelected(slug);
+                setOpen(false);
+              };
+              const single = g.items.length === 1 && !g.items[0].region;
+              if (single) {
+                const s = g.items[0];
+                const active = selected === s.slug;
+                return (
+                  <button
+                    key={s.slug}
+                    onClick={() => choose(s.slug)}
+                    className={`block w-full rounded-lg px-2 py-1.5 text-left text-sm transition-colors ${
+                      active
+                        ? "bg-rose-600 text-white"
+                        : "text-zinc-700 hover:bg-zinc-100 dark:text-zinc-200 dark:hover:bg-zinc-800"
+                    }`}
+                  >
+                    {g.genre}
+                  </button>
+                );
+              }
+              return (
+                <div key={g.genre} className="px-1 py-1">
+                  <div className="px-1 pb-1 text-xs font-semibold text-zinc-400">
+                    {g.genre}
+                  </div>
+                  <div className="flex flex-wrap gap-1">
+                    {g.items.map((s) => {
+                      const active = selected === s.slug;
+                      return (
+                        <button
+                          key={s.slug}
+                          onClick={() => choose(s.slug)}
+                          className={`rounded-full px-3 py-1 text-sm transition-colors ${
+                            active
+                              ? "bg-rose-600 text-white"
+                              : "bg-zinc-100 text-zinc-700 hover:bg-zinc-200 dark:bg-zinc-800 dark:text-zinc-200 dark:hover:bg-zinc-700"
+                          }`}
+                        >
+                          {s.region}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+              );
+            })}
+          </div>
         )}
       </div>
     </div>
