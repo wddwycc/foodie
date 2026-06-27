@@ -189,7 +189,8 @@ export default function RestaurantMap() {
       // Click a cluster → zoom in to expand it.
       map.on("click", "clusters", (e) => {
         const feature = e.features?.[0];
-        const clusterId = feature?.properties?.cluster_id;
+        if (!feature) return;
+        const clusterId = feature.properties?.cluster_id;
         if (clusterId == null) return;
         const source = map.getSource(SOURCE_ID) as maplibregl.GeoJSONSource;
         source.getClusterExpansionZoom(clusterId).then((zoom) => {
