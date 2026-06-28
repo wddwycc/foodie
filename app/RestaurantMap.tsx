@@ -263,6 +263,15 @@ export default function RestaurantMap() {
     map.addControl(geolocate, "top-right");
 
     map.on("load", () => {
+      // Hide the base map's own POI symbols (shops/restaurants) so only our
+      // award markers show. In the OpenMapTiles schema POIs live in the "poi"
+      // source-layer.
+      for (const layer of map.getStyle().layers) {
+        if ("source-layer" in layer && layer["source-layer"] === "poi") {
+          map.setLayoutProperty(layer.id, "visibility", "none");
+        }
+      }
+
       // One-time recenter on the user's location, but only if nothing has been
       // picked yet — otherwise a slow geolocation fix (notably in Safari)
       // overrides the selection and makes the camera jump back.
