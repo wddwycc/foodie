@@ -1,10 +1,12 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import Link from "next/link";
 import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
 import { SETS, type AwardSet, type Restaurant } from "./sets";
 import { PREFECTURE_GROUPS_LIST } from "./prefectures";
+import { isClosedToday, loadSettings } from "./settings";
 
 const SAPPORO: [number, number] = [141.3545, 43.0618];
 const SOURCE_ID = "restaurants";
@@ -192,6 +194,7 @@ export default function RestaurantMap() {
 
   const [selected, setSelected] = useState<Selection | null>(null);
   const [restaurants, setRestaurants] = useState<Restaurant[]>([]);
+  const [hideClosedToday, setHideClosedToday] = useState(false);
   const [loading, setLoading] = useState(false);
   const [mapReady, setMapReady] = useState(false);
   const [open, setOpen] = useState(false);
@@ -199,6 +202,16 @@ export default function RestaurantMap() {
   const pickerRef = useRef<HTMLDivElement>(null);
 
   const selectedLabel = selected ? selectionLabel(selected) : undefined;
+
+  // Apply the "hide today's closed" setting. Re-read on focus/storage so
+  // toggling it on the settings page takes effect when returning to the map.
+  const visible = useMemo(
+    () =>
+      hideClosedToday
+        ? restaurants.filter((r) => !isClosedToday(r.closed))
+        : restaurants,
+    [restaurants, hideClosedToday],
+  );
 
   const choose = (sel: Selection) => {
     setSelected(sel);
@@ -218,6 +231,19 @@ export default function RestaurantMap() {
     document.addEventListener("mousedown", onDown);
     return () => document.removeEventListener("mousedown", onDown);
   }, [open]);
+
+  // Load the setting on mount, and refresh it when coming back from the
+  // settings page (focus / cross-tab storage events).
+  useEffect(() => {
+    const refresh = () => setHideClosedToday(loadSettings().hideClosedToday);
+    refresh();
+    window.addEventListener("focus", refresh);
+    window.addEventListener("storage", refresh);
+    return () => {
+      window.removeEventListener("focus", refresh);
+      window.removeEventListener("storage", refresh);
+    };
+  }, []);
 
   // Sync selection from the URL: on load and on browser back/forward.
   useEffect(() => {
@@ -469,13 +495,13 @@ export default function RestaurantMap() {
       | maplibregl.GeoJSONSource
       | undefined;
     if (!source) return;
-    source.setData(toGeoJSON(restaurants));
+    source.setData(toGeoJSON(visible));
 
-    if (restaurants.length === 0) return;
+    if (visible.length === 0) return;
     const bounds = new maplibregl.LngLatBounds();
-    for (const r of restaurants) bounds.extend([r.lng, r.lat]);
+    for (const r of visible) bounds.extend([r.lng, r.lat]);
     map.fitBounds(bounds, { padding: 60, maxZoom: 14 });
-  }, [restaurants, mapReady]);
+  }, [visible, mapReady]);
 
   const tabClass = (m: Mode) =>
     `flex-1 rounded-lg px-2 py-1 text-sm font-medium transition-colors ${
@@ -510,7 +536,7 @@ export default function RestaurantMap() {
               <span>読み込み中…</span>
             ) : (
               selected &&
-              restaurants.length > 0 && <span>{restaurants.length}店</span>
+              visible.length > 0 && <span>{visible.length}店</span>
             )}
             <span>▾</span>
           </span>
@@ -568,6 +594,14 @@ export default function RestaurantMap() {
           </div>
         )}
       </div>
+
+      <Link
+        href="/settings"
+        aria-label="設定"
+        className="absolute bottom-4 left-3 z-10 flex h-11 w-11 items-center justify-center rounded-full bg-white/90 text-lg shadow-lg backdrop-blur hover:bg-white dark:bg-zinc-900/90 dark:hover:bg-zinc-900"
+      >
+        ⚙️
+      </Link>
     </div>
   );
 }
