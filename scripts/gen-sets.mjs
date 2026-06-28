@@ -1,5 +1,5 @@
 // Generate app/sets.generated.ts from the index catalog, including only the
-// sets that have actually been scraped (a public/data/v2/<slug>.json exists).
+// sets that have actually been scraped (a public/data/v3/<slug>.json exists).
 // Re-run this after scraping more sets.
 //
 //   node scripts/gen-sets.mjs
@@ -8,7 +8,7 @@ import { readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { loadSetCatalog } from "./lib/catalog.mjs";
 
-const DATA_DIR = path.join(process.cwd(), "public", "data", "v2");
+const DATA_DIR = path.join(process.cwd(), "public", "data", "v3");
 const OUT_FILE = path.join(process.cwd(), "app", "sets.generated.ts");
 
 const catalog = await loadSetCatalog();

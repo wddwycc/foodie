@@ -5,7 +5,7 @@
 //
 //   node scripts/gen-awards.mjs
 //
-// Rewrites public/data/v2/<slug>.json in place. Run gen-prefectures.mjs afterward
+// Rewrites public/data/v3/<slug>.json in place. Run gen-prefectures.mjs afterward
 // to propagate the award into the per-prefecture files.
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -13,7 +13,7 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import { loadSetCatalog } from "./lib/catalog.mjs";
 
-const DATA_DIR = path.join(process.cwd(), "public", "data", "v2");
+const DATA_DIR = path.join(process.cwd(), "public", "data", "v3");
 const CACHE_DIR = path.join(process.cwd(), ".scrape-cache");
 
 function awardLabel(year, genre, region) {
@@ -43,6 +43,7 @@ for (const { slug, genre, region } of catalog) {
   for (const r of rows) {
     r.year = year;
     r.award = label;
+    r.genre = genre;
   }
   await writeFile(dataFile, JSON.stringify(rows, null, 2));
   stamped += rows.length;

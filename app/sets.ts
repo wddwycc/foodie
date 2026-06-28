@@ -1,5 +1,5 @@
 // Registry of available 百名店 award sets. Each entry maps to a scraped
-// /public/data/v2/<slug>.json file. Add more as they're scraped.
+// /public/data/v3/<slug>.json file. Add more as they're scraped.
 
 export type AwardSet = {
   slug: string;

@@ -5,7 +5,7 @@
 // Pulls the restaurant list from the award set page, then visits each Tabelog
 // detail page to read its JSON-LD (name, address, coordinates, rating).
 // Raw HTML is cached under .scrape-cache/ so reruns are free and interrupted
-// runs resume. Output: public/data/v2/<set>.json
+// runs resume. Output: public/data/v3/<set>.json
 //
 // Note: Tabelog's ToS restricts scraping. Keep the delay generous and the
 // volume low; this is meant for a one-time, low-frequency collection.
@@ -20,7 +20,7 @@ const UA =
   "(KHTML, like Gecko) Chrome/120 Safari/537.36";
 const DELAY_MS = 1500;
 const CACHE_DIR = path.join(process.cwd(), ".scrape-cache", SET);
-const OUT_DIR = path.join(process.cwd(), "public", "data", "v2");
+const OUT_DIR = path.join(process.cwd(), "public", "data", "v3");
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 

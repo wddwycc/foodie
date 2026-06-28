@@ -33,8 +33,70 @@ const PREF_JA = new Map(
   PREFECTURE_GROUPS_LIST.flatMap((g) => g.items).map((p) => [p.key, p.ja]),
 );
 
+// One emoji per genre, drawn into the map markers so each restaurant shows
+// what kind of food it is (especially useful in prefecture view).
+const GENRE_EMOJI: Record<string, string> = {
+  ラーメン: "🍜",
+  寿司: "🍣",
+  焼肉: "🥩",
+  焼き鳥: "🍗",
+  鳥料理: "🐓",
+  天ぷら: "🍤",
+  うなぎ: "🍱",
+  餃子: "🥟",
+  カレー: "🍛",
+  とんかつ: "🍖",
+  そば: "🍜",
+  うどん: "🍲",
+  パン: "🍞",
+  スイーツ: "🍰",
+  "和菓子・甘味処": "🍡",
+  "アイス・ジェラート": "🍨",
+  バー: "🍸",
+  立ち飲み: "🍶",
+  居酒屋: "🏮",
+  カフェ: "☕",
+  喫茶店: "☕",
+  フレンチ: "🍷",
+  イタリアン: "🍝",
+  ピザ: "🍕",
+  中国料理: "🀄",
+  スペイン料理: "🥘",
+  ハンバーガー: "🍔",
+  日本料理: "🍱",
+  "創作料理・イノベーティブ": "✨",
+  食堂: "🍚",
+  お好み焼き: "🍳",
+  "すき焼き・しゃぶしゃぶ": "🍲",
+  "ステーキ・鉄板焼き": "🥩",
+  "アジア・エスニック": "🍲",
+  洋食: "🍽️",
+};
+const DEFAULT_EMOJI = "🍴";
+const ICON_DEFAULT = "genre-default";
+
+// Render an emoji onto a white disc as a map image (ImageData).
+function genreIconData(emoji: string, size = 64): ImageData {
+  const canvas = document.createElement("canvas");
+  canvas.width = canvas.height = size;
+  const ctx = canvas.getContext("2d")!;
+  const c = size / 2;
+  ctx.beginPath();
+  ctx.arc(c, c, c - 3, 0, Math.PI * 2);
+  ctx.fillStyle = "#fff";
+  ctx.fill();
+  ctx.lineWidth = 3;
+  ctx.strokeStyle = ROSE;
+  ctx.stroke();
+  ctx.font = `${Math.round(size * 0.5)}px "Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",sans-serif`;
+  ctx.textAlign = "center";
+  ctx.textBaseline = "middle";
+  ctx.fillText(emoji, c, c + size * 0.04);
+  return ctx.getImageData(0, 0, size, size);
+}
+
 // Versioned path so a CDN doesn't serve stale JSON after the data changes.
-const DATA_BASE = "/data/v2";
+const DATA_BASE = "/data/v3";
 
 function dataUrl(sel: Selection): string {
   return sel.mode === "pref"
@@ -64,6 +126,7 @@ function toGeoJSON(
         rating: r.rating,
         ratingCount: r.ratingCount,
         award: r.award ?? null,
+        genre: r.genre ?? null,
       },
     })),
   };
@@ -215,6 +278,14 @@ export default function RestaurantMap() {
         { enableHighAccuracy: true, timeout: 8000 },
       );
 
+      // Register a marker image per genre (emoji on a white disc).
+      for (const genre of new Set(SETS.map((s) => s.genre))) {
+        map.addImage(`genre-${genre}`, genreIconData(GENRE_EMOJI[genre] ?? DEFAULT_EMOJI), {
+          pixelRatio: 2,
+        });
+      }
+      map.addImage(ICON_DEFAULT, genreIconData(DEFAULT_EMOJI), { pixelRatio: 2 });
+
       map.addSource(SOURCE_ID, {
         type: "geojson",
         data: { type: "FeatureCollection", features: [] },
@@ -267,17 +338,20 @@ export default function RestaurantMap() {
         paint: { "text-color": "#fff" },
       });
 
-      // Individual restaurants.
+      // Individual restaurants — a genre emoji marker.
       map.addLayer({
         id: "unclustered-point",
-        type: "circle",
+        type: "symbol",
         source: SOURCE_ID,
         filter: ["!", ["has", "point_count"]],
-        paint: {
-          "circle-color": ROSE,
-          "circle-radius": 7,
-          "circle-stroke-width": 2,
-          "circle-stroke-color": "#fff",
+        layout: {
+          "icon-image": [
+            "coalesce",
+            ["image", ["concat", "genre-", ["get", "genre"]]],
+            ["image", ICON_DEFAULT],
+          ],
+          "icon-size": 1.4,
+          "icon-allow-overlap": true,
         },
       });
 
