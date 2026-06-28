@@ -1,5 +1,5 @@
 // Registry of available 百名店 award sets. Each entry maps to a scraped
-// /public/data/<slug>.json file. Add more as they're scraped.
+// /public/data/v2/<slug>.json file. Add more as they're scraped.
 
 export type AwardSet = {
   slug: string;
@@ -19,6 +19,8 @@ export type Restaurant = {
   lat: number;
   lng: number;
   genre?: string; // present in prefecture-aggregated data
+  year?: number; // award year
+  award?: string; // e.g. "2025 ・ 百名店 ラーメン 東日本"
 };
 
 // The registry is generated from the index + scraped data files.

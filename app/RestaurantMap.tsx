@@ -33,10 +33,13 @@ const PREF_JA = new Map(
   PREFECTURE_GROUPS_LIST.flatMap((g) => g.items).map((p) => [p.key, p.ja]),
 );
 
+// Versioned path so a CDN doesn't serve stale JSON after the data changes.
+const DATA_BASE = "/data/v2";
+
 function dataUrl(sel: Selection): string {
   return sel.mode === "pref"
-    ? `/data/pref/${sel.key}.json`
-    : `/data/${sel.key}.json`;
+    ? `${DATA_BASE}/pref/${sel.key}.json`
+    : `${DATA_BASE}/${sel.key}.json`;
 }
 
 function selectionLabel(sel: Selection): string | undefined {
@@ -60,7 +63,7 @@ function toGeoJSON(
         address: r.address,
         rating: r.rating,
         ratingCount: r.ratingCount,
-        genre: r.genre ?? null,
+        award: r.award ?? null,
       },
     })),
   };
@@ -74,16 +77,15 @@ function popupHtml(p: Record<string, unknown>): string {
           ? ` <span style="color:#888">(${p.ratingCount})</span>`
           : "")
       : "";
-  // In prefecture view, lead with the genre; in a genre set, lead with rank.
-  const lead = p.genre
-    ? `<span style="background:#fce7ef;color:${ROSE};border-radius:4px;padding:0 5px;font-size:11px;margin-right:4px">${p.genre}</span>`
-    : `${p.rank}. `;
+  const award = p.award
+    ? `<div style="display:inline-block;background:#fce7ef;color:${ROSE};border-radius:4px;padding:1px 6px;font-size:11px;margin-bottom:4px">${p.award}</div>`
+    : "";
   return `
-    <div style="font-size:13px;line-height:1.4;max-width:200px">
+    <div style="font-size:13px;line-height:1.4;max-width:220px">
+      ${award}
       <div style="font-weight:600;margin-bottom:2px">
-        ${p.genre ? lead + "<br/>" : ""}
         <a href="${p.url}" target="_blank" rel="noopener" style="color:#111;text-decoration:none">
-          ${p.genre ? "" : lead}${p.name}
+          ${p.rank}. ${p.name}
         </a>
       </div>
       <div>${rating}</div>

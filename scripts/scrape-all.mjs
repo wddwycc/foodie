@@ -1,5 +1,5 @@
 // Scrape every 百名店 set, sequentially and resumably. Sets that already have
-// a public/data/<slug>.json are skipped, so this can be re-run / resumed any
+// a public/data/v2/<slug>.json are skipped, so this can be re-run / resumed any
 // time. Regenerates app/sets.generated.ts when done.
 //
 //   node scripts/scrape-all.mjs
@@ -12,7 +12,7 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import { loadSetCatalog } from "./lib/catalog.mjs";
 
-const DATA_DIR = path.join(process.cwd(), "public", "data");
+const DATA_DIR = path.join(process.cwd(), "public", "data", "v2");
 
 function run(cmd, args) {
   return new Promise((resolve, reject) => {
