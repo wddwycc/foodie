@@ -12,7 +12,16 @@
     "lng": 139.04625576750468,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第３水曜"
+    }
   },
   {
     "rank": 2,
@@ -27,7 +36,12 @@
     "lng": 139.73410168380028,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 3,
@@ -42,7 +56,15 @@
     "lng": 139.037393543824,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "GW期間中 ラストオーダー. 17:30"
+    }
   },
   {
     "rank": 4,
@@ -57,7 +79,12 @@
     "lng": 139.75368351459724,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 5,
@@ -72,7 +99,15 @@
     "lng": 140.3619734012419,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3水曜日"
+    }
   },
   {
     "rank": 6,
@@ -87,7 +122,15 @@
     "lng": 139.7293480044634,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 7,
@@ -102,7 +145,16 @@
     "lng": 139.76782465592828,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "夏季休暇（8月中旬・HPに記載）・年末年始（12/28～1/5までお休みさせて頂きます。） 正月三箇日 ※スタッフ不足により、当面の間【一日30食限定】でのご提供とさせていただきます。完売次第終了となります。 お客様にはご不便をおかけいたしますが、何卒ご理解賜りますようお願い申し上げます。"
+    }
   },
   {
     "rank": 8,
@@ -117,7 +169,15 @@
     "lng": 139.70211195415567,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 9,
@@ -132,7 +192,14 @@
     "lng": 130.36907087968126,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休（SNS等で告知）"
+    }
   },
   {
     "rank": 10,
@@ -147,7 +214,14 @@
     "lng": 141.32032577793362,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -162,7 +236,15 @@
     "lng": 130.3814779098417,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -177,7 +259,14 @@
     "lng": 130.46000008930892,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 13,
@@ -192,7 +281,15 @@
     "lng": 139.59414335751225,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 14,
@@ -207,7 +304,15 @@
     "lng": 140.08909371847145,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第1・3日曜日"
+    }
   },
   {
     "rank": 15,
@@ -222,7 +327,14 @@
     "lng": 139.7171301890327,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 16,
@@ -237,7 +349,16 @@
     "lng": 127.65992178648848,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "最終月曜日ディナー休"
+    }
   },
   {
     "rank": 17,
@@ -252,7 +373,14 @@
     "lng": 136.26708409379134,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -267,7 +395,15 @@
     "lng": 139.11675031700324,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 19,
@@ -282,7 +418,14 @@
     "lng": 135.47742293625893,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 20,
@@ -297,7 +440,15 @@
     "lng": 130.35578040180667,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -327,7 +478,14 @@
     "lng": 139.58238854471224,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -342,7 +500,15 @@
     "lng": 139.6930201442697,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 24,
@@ -357,7 +523,14 @@
     "lng": 130.4123457686277,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -372,7 +545,15 @@
     "lng": 138.55239987933632,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "金"
+      ],
+      "irregular": false,
+      "note": "月曜日と金曜日 平日は７席です。申し訳ありませんが５名様以上はお受けできない時もあります。"
+    }
   },
   {
     "rank": 26,
@@ -387,7 +568,14 @@
     "lng": 145.1793514146719,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +590,14 @@
     "lng": 136.91237525145712,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -417,7 +612,12 @@
     "lng": 140.726563245237,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 29,
@@ -432,7 +632,14 @@
     "lng": 138.26077889802716,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 30,
@@ -447,7 +654,14 @@
     "lng": 130.3977572197819,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": "毎週水曜日（祝祭日の場合は営業し、翌日休み） ※月１回連休あり 5月の連休…5/12(火)、13(水) ※5月6日(水)は営業し、5/7(木)が店休日となります。"
+    }
   },
   {
     "rank": 31,
@@ -462,7 +676,15 @@
     "lng": 139.25593888734224,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "水曜日（祝日の場合は営業）"
+    }
   },
   {
     "rank": 32,
@@ -477,7 +699,12 @@
     "lng": 139.8731472441536,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 33,
@@ -492,7 +719,14 @@
     "lng": 130.40445326861695,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -507,7 +741,14 @@
     "lng": 130.02495800598726,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +763,16 @@
     "lng": 139.70404201484797,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -537,7 +787,16 @@
     "lng": 139.7229528438412,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 37,
@@ -552,7 +811,16 @@
     "lng": 135.5815871372851,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 38,
@@ -567,7 +835,14 @@
     "lng": 130.39063626863557,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 39,
@@ -582,7 +857,12 @@
     "lng": 130.55322064951784,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 40,
@@ -597,7 +877,15 @@
     "lng": 139.65335220407286,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -612,7 +900,15 @@
     "lng": 130.68823594779133,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 42,
@@ -627,7 +923,14 @@
     "lng": 137.12964672279728,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -642,7 +945,15 @@
     "lng": 135.51068682753586,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 44,
@@ -657,7 +968,15 @@
     "lng": 133.76907086766093,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -672,7 +991,14 @@
     "lng": 137.2544030212563,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1013,15 @@
     "lng": 139.9093215842553,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1036,12 @@
     "lng": 140.91338582282228,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "11月～４月中旬まで冬季休業"
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1056,15 @@
     "lng": 127.6793677961032,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1079,14 @@
     "lng": 137.19092838728682,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1101,15 @@
     "lng": 139.65048888510046,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1124,12 @@
     "lng": 135.16086467688905,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1144,14 @@
     "lng": 140.11064980669133,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1166,15 @@
     "lng": 141.52895373090345,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1189,15 @@
     "lng": 139.76969780422445,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1212,14 @@
     "lng": 130.31406699062853,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1234,14 @@
     "lng": 136.91849709391008,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1256,14 @@
     "lng": 138.21974401823292,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1278,16 @@
     "lng": 139.78193564929543,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "夏季休暇・年末年始(12/28～1/3)"
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1302,16 @@
     "lng": 135.51769870740839,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1326,14 @@
     "lng": 139.71302671911104,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1348,14 @@
     "lng": 141.01495577982456,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1370,14 @@
     "lng": 136.8803433794935,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1392,12 @@
     "lng": 134.53632712334945,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1412,15 @@
     "lng": 139.77248859565583,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1435,14 @@
     "lng": 139.9393848065611,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1457,15 @@
     "lng": 139.68586358420256,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1480,15 @@
     "lng": 133.45666212625306,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1503,15 @@
     "lng": 140.99892521953163,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "第2第4の水・木曜ですが 月によって変動するので Instagramで確認するか 直接店へ確認して下さい。"
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1526,14 @@
     "lng": 139.61521768650204,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1548,16 @@
     "lng": 130.56656427946305,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "鹿児島市中央卸売市場魚類市場の休市日は休み魚類市場休開市日カレンダーに準じます（月に1〜2回水曜休み）"
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1572,16 @@
     "lng": 139.7231898820448,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1596,15 @@
     "lng": 132.56692916463862,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1619,16 @@
     "lng": 131.59971538545787,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1643,14 @@
     "lng": 130.39303256867964,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1665,14 @@
     "lng": 131.03920314873105,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1687,14 @@
     "lng": 131.67064045882637,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1709,15 @@
     "lng": 140.54382413410917,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "金",
+        "土"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1732,14 @@
     "lng": 130.87779940241018,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1754,14 @@
     "lng": 132.62901248686555,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1776,16 @@
     "lng": 139.78276930440225,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1800,15 @@
     "lng": 139.78210604400422,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1823,14 @@
     "lng": 130.54293741943488,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1845,14 @@
     "lng": 130.30969315647462,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1867,14 @@
     "lng": 135.7634510604629,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1889,15 @@
     "lng": 139.82285737796192,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(木曜日)"
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1912,14 @@
     "lng": 136.99109998786165,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1934,16 @@
     "lng": 124.24486051085024,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "水曜日木曜日、それ以外に研修やイベントなどで臨時休業の場合あり 必ず事前予約の上、ご来店くださいますようお願いいたします。"
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1958,15 @@
     "lng": 140.8382961641639,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜日 ※祝日の場合は営業"
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1981,16 @@
     "lng": 136.7202371245407,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日 (※祝祭日の場合は営業し、翌日の火曜日を休業)"
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +2005,14 @@
     "lng": 139.70920648292628,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始 お盆休みあり"
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2027,12 @@
     "lng": 135.1903648776644,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2047,14 @@
     "lng": 140.45837915452879,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2069,15 @@
     "lng": 139.8056249834497,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2092,14 @@
     "lng": 135.75846892017356,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "ジェイアール京都伊勢丹に準じる ※当店では、整理券の発行を行っております。席数上限に達した場合、当日のご案内を締め切る場合がございます。予めご了承くださいませ。"
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2114,18 @@
     "lng": 139.7434802371793,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2140,14 @@
     "lng": 139.78140281449438,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2162,16 @@
     "lng": 135.49998667714266,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2186,14 @@
     "lng": 136.62184950335356,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2208,15 @@
     "lng": 139.65813397437424,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2231,13 @@
     "lng": 125.28054592479592,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   }
 ]

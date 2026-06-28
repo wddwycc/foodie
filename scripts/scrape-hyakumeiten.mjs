@@ -13,6 +13,7 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
+import { extractClosed } from "./lib/closed.mjs";
 
 const SET = process.argv[2] || "ramen_hokkaido";
 const UA =
@@ -89,6 +90,7 @@ function parseRestaurant(html, url) {
         ratingCount: r ? Number(r.ratingCount) : null,
         lat: node.geo ? Number(node.geo.latitude) : null,
         lng: node.geo ? Number(node.geo.longitude) : null,
+        closed: extractClosed(html),
       };
     }
   }

@@ -12,7 +12,12 @@
     "lng": 135.7670375791521,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 2,
@@ -27,7 +32,15 @@
     "lng": 135.51151461734497,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休（SNSのチェックをお願い致します）"
+    }
   },
   {
     "rank": 3,
@@ -42,7 +55,12 @@
     "lng": 135.499921127495,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休（ＨＥＰ ＮＡＶＩＯに準ずる） 12/31,1/1は定休日"
+    }
   },
   {
     "rank": 4,
@@ -57,7 +75,14 @@
     "lng": 135.50138739728934,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -72,7 +97,12 @@
     "lng": 135.49401529736153,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 6,
@@ -87,7 +117,16 @@
     "lng": 135.5094052880004,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 7,
@@ -102,7 +141,14 @@
     "lng": 135.5133226573171,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -117,7 +163,14 @@
     "lng": 135.74790713032172,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 9,
@@ -132,7 +185,15 @@
     "lng": 135.50216987612382,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -147,7 +208,14 @@
     "lng": 135.5060168371865,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -162,7 +230,12 @@
     "lng": 135.49979302779784,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 12,
@@ -177,7 +250,14 @@
     "lng": 135.49627688750016,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(ルクア大阪に準ずる)"
+    }
   },
   {
     "rank": 13,
@@ -192,7 +272,16 @@
     "lng": 135.51273900729572,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 14,
@@ -207,7 +296,14 @@
     "lng": 135.50450998719705,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 15,
@@ -222,7 +318,14 @@
     "lng": 135.51301309729567,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 16,
@@ -237,7 +340,12 @@
     "lng": 135.82900587587721,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 17,
@@ -252,7 +360,14 @@
     "lng": 135.5016166072367,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -267,7 +382,12 @@
     "lng": 135.4162964344079,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 19,
@@ -282,7 +402,15 @@
     "lng": 135.50298019742164,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 20,
@@ -297,7 +425,16 @@
     "lng": 135.48859127611573,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -312,7 +449,15 @@
     "lng": 135.50111820728662,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 22,
@@ -327,7 +472,15 @@
     "lng": 135.4888366873508,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -342,7 +495,15 @@
     "lng": 135.49108944711352,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 24,
@@ -357,7 +518,15 @@
     "lng": 135.20068371759308,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "日曜日、祝日 2025/12/28-1/5臨時休業"
+    }
   },
   {
     "rank": 25,
@@ -372,7 +541,16 @@
     "lng": 135.51523332718722,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": "月曜日祝日は営業、翌水曜日振替定休日"
+    }
   },
   {
     "rank": 26,
@@ -387,7 +565,14 @@
     "lng": 135.48420718750097,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +587,12 @@
     "lng": 135.51240627633516,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休。ツイッターにてご確認を。@curryharmonia"
+    }
   },
   {
     "rank": 28,
@@ -417,7 +607,12 @@
     "lng": 135.5072723074483,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 29,
@@ -432,7 +627,15 @@
     "lng": 130.29898896535164,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月曜日（祝日の場合は翌日）"
+    }
   },
   {
     "rank": 30,
@@ -447,7 +650,14 @@
     "lng": 135.49446656722924,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 31,
@@ -462,7 +672,14 @@
     "lng": 135.48906629724036,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 32,
@@ -477,7 +694,12 @@
     "lng": 135.51101402750962,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 33,
@@ -492,7 +714,12 @@
     "lng": 135.50665604705364,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 34,
@@ -507,7 +734,14 @@
     "lng": 127.68416135719237,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +756,16 @@
     "lng": 135.49690201135638,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -537,7 +780,16 @@
     "lng": 135.51106679292832,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月・火（祝日の場合は営業）"
+    }
   },
   {
     "rank": 37,
@@ -552,7 +804,15 @@
     "lng": 135.49807891749754,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 38,
@@ -567,7 +827,15 @@
     "lng": 135.7580579303368,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 39,
@@ -582,7 +850,12 @@
     "lng": 135.61579937775906,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 40,
@@ -597,7 +870,15 @@
     "lng": 135.50610998750088,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -612,7 +893,18 @@
     "lng": 135.4761728924807,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "水",
+        "木",
+        "金",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3水曜"
+    }
   },
   {
     "rank": 42,
@@ -627,7 +919,12 @@
     "lng": 135.4989550761652,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休、現在週1日〜2日営業※営業日、休業日はツイッターやインスタグラムでお知らせしています。"
+    }
   },
   {
     "rank": 43,
@@ -642,7 +939,14 @@
     "lng": 135.18424133755752,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 44,
@@ -657,7 +961,12 @@
     "lng": 135.49838637631555,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 45,
@@ -672,7 +981,15 @@
     "lng": 135.5089388760704,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1004,12 @@
     "lng": 135.19277860759746,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1024,14 @@
     "lng": 135.7392264144203,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休（サイトに営業日カレンダーあり）"
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1046,16 @@
     "lng": 135.49940636733234,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1070,17 @@
     "lng": 135.47326747823456,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1095,14 @@
     "lng": 135.5114672075453,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1117,14 @@
     "lng": 135.4959085761904,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1139,14 @@
     "lng": 135.4919690754785,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1161,16 @@
     "lng": 135.51010015735093,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1185,15 @@
     "lng": 135.778645410493,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "金",
+        "土"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1208,14 @@
     "lng": 135.49483370744707,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "土"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1230,15 @@
     "lng": 135.49407795729385,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1253,15 @@
     "lng": 135.5282156774651,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1276,14 @@
     "lng": 135.1817945543036,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1298,12 @@
     "lng": 135.5141521758501,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1318,15 @@
     "lng": 135.5123519971809,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1341,15 @@
     "lng": 135.49913977641245,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1364,14 @@
     "lng": 135.48657331741933,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1386,15 @@
     "lng": 135.5127754874543,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1409,15 @@
     "lng": 135.49530797617615,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1432,15 @@
     "lng": 135.50261007607722,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(詳細はSNSにて要確認)"
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1455,15 @@
     "lng": 135.51004955734624,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1478,17 @@
     "lng": 135.50546634527382,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "金",
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1503,15 @@
     "lng": 135.75666310049823,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1526,15 @@
     "lng": 135.50451621130458,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1549,14 @@
     "lng": 135.5105696572482,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1571,12 @@
     "lng": 135.72945107915623,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1591,15 @@
     "lng": 135.51255740739512,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": "月（祝日の場合は営業）＋不定休"
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1614,12 @@
     "lng": 135.4990700375004,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1634,14 @@
     "lng": 135.50723082550488,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1656,15 @@
     "lng": 135.4958219472349,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": true,
+      "note": "不定休（お手数ですが、お電話でお問い合わせ下さい）"
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1679,15 @@
     "lng": 135.4927995174004,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1702,16 @@
     "lng": 135.50938512754962,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "営業日はXかinstagramをご確認下さい。"
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1726,12 @@
     "lng": 135.49541838928386,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休（Twitterで確認）"
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1746,16 @@
     "lng": 135.5056812673524,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1770,16 @@
     "lng": 135.5051058474277,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月、日・祝（営業する場合あり）"
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1794,14 @@
     "lng": 135.37634227395822,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1816,18 @@
     "lng": 135.511700587411,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "火",
+        "木",
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "火・木・土･日･祝日"
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1842,15 @@
     "lng": 130.4067913685692,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1865,16 @@
     "lng": 135.5086238073387,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1889,15 @@
     "lng": 130.37384615977055,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1912,14 @@
     "lng": 135.50738294726585,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1934,16 @@
     "lng": 135.49571521723493,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "臨時休業たまにあり"
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1958,14 @@
     "lng": 135.49411291723393,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1980,14 @@
     "lng": 130.4028270686454,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +2002,12 @@
     "lng": 135.50655423753366,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2022,14 @@
     "lng": 135.5147029761329,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2044,15 @@
     "lng": 135.50838150730118,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2067,14 @@
     "lng": 130.38936203975967,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2089,14 @@
     "lng": 135.49431967604158,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2111,12 @@
     "lng": 135.51469427627012,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2131,16 @@
     "lng": 135.49155569730482,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2155,17 @@
     "lng": 135.54891435767007,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第2・4火曜日"
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2180,15 @@
     "lng": 135.51142086746052,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2203,14 @@
     "lng": 135.7331137303657,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "日曜日 不定休（月３～４回）フェイスブック・X ・インスタグラムにて営業日公開"
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2225,13 @@
     "lng": 135.76123439039714,
     "year": 2026,
     "award": "2026 ・ 百名店 カレー 西日本",
-    "genre": "カレー"
+    "genre": "カレー",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   }
 ]

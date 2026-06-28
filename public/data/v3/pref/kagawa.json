@@ -12,7 +12,15 @@
     "lng": 134.05299064487937,
     "year": 2025,
     "award": "2025 ・ 百名店 イタリアン 西日本",
-    "genre": "イタリアン"
+    "genre": "イタリアン",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": true,
+      "note": "水曜日＋不定休 （ランチ営業は日曜日） ご予約はHPより受け付けております"
+    }
   },
   {
     "rank": 63,
@@ -27,7 +35,16 @@
     "lng": 133.76956039337512,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "臨時休業有り"
+    }
   },
   {
     "rank": 13,
@@ -42,7 +59,12 @@
     "lng": 134.05102050487727,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -57,7 +79,16 @@
     "lng": 133.91488409458472,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休あり（公式HPをご覧ください）"
+    }
   },
   {
     "rank": 16,
@@ -72,7 +103,15 @@
     "lng": 134.12281767488375,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -87,7 +126,14 @@
     "lng": 134.0548192737348,
     "year": 2025,
     "award": "2025 ・ 百名店 創作料理・イノベーティブ",
-    "genre": "創作料理・イノベーティブ"
+    "genre": "創作料理・イノベーティブ",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -102,7 +148,16 @@
     "lng": 134.10066148415856,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "最終週の火曜日"
+    }
   },
   {
     "rank": 83,
@@ -117,7 +172,12 @@
     "lng": 133.85017186468454,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 28,
@@ -132,7 +192,15 @@
     "lng": 133.7488735333521,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "火曜日 (祝日の場合は営業翌日休み)"
+    }
   },
   {
     "rank": 38,
@@ -147,7 +215,15 @@
     "lng": 133.7796427841331,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -162,7 +238,14 @@
     "lng": 133.97636724258606,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -177,7 +260,15 @@
     "lng": 133.92821841377554,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始は休業 大型連休後（ＧＷ・ＳＷなど）やお盆期間後の平日に臨時休業することあり ※ＨＰで要確認"
+    }
   },
   {
     "rank": 43,
@@ -192,7 +283,14 @@
     "lng": 133.90482832385865,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 4,
@@ -207,7 +305,14 @@
     "lng": 134.0465162878561,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -222,7 +327,15 @@
     "lng": 134.09446627478582,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": "日曜日、祝日、第３土曜日"
+    }
   },
   {
     "rank": 82,
@@ -237,7 +350,15 @@
     "lng": 133.82975886294818,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 84,
@@ -252,7 +373,15 @@
     "lng": 133.93532319418185,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -267,7 +396,15 @@
     "lng": 134.0151588849628,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 98,
@@ -282,7 +419,14 @@
     "lng": 133.67665866548913,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -297,7 +441,14 @@
     "lng": 134.05157421484327,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休 ■クレジットカード可 ■pocket conciergeから予約可"
+    }
   },
   {
     "rank": 53,
@@ -312,7 +463,14 @@
     "lng": 133.80737735461398,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 14,
@@ -327,7 +485,14 @@
     "lng": 134.02715280421717,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 44,
@@ -342,7 +507,15 @@
     "lng": 133.6923284335021,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -357,7 +530,14 @@
     "lng": 133.838623524242,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -372,7 +552,15 @@
     "lng": 134.06032757375345,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "木曜日 ※（土・日・祝）臨時休業の場合はInstagramにて告知しています。"
+    }
   },
   {
     "rank": 36,
@@ -387,7 +575,16 @@
     "lng": 134.04162887368602,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "祝日不定休 ■土曜日 不定休、営業日もあり。詳細はSNSにて。"
+    }
   },
   {
     "rank": 46,
@@ -402,7 +599,12 @@
     "lng": 134.058546184805,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 70,
@@ -417,7 +619,16 @@
     "lng": 133.82100496469423,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "毎週月曜、火曜（祝日の場合は営業）"
+    }
   },
   {
     "rank": 91,
@@ -432,7 +643,14 @@
     "lng": 133.97532716457337,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 19,
@@ -447,7 +665,14 @@
     "lng": 133.61890887103485,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -462,7 +687,14 @@
     "lng": 133.9983711444141,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -477,7 +709,14 @@
     "lng": 134.02920149024908,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 72,
@@ -492,7 +731,15 @@
     "lng": 133.79616791458054,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 93,
@@ -507,7 +754,14 @@
     "lng": 134.045393614717,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 15,
@@ -522,7 +776,15 @@
     "lng": 134.05150749382932,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 17,
@@ -537,7 +799,15 @@
     "lng": 134.08855396434151,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -552,7 +822,16 @@
     "lng": 133.81773081389431,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜日（祝日の場合営業、翌水曜日休）"
+    }
   },
   {
     "rank": 41,
@@ -567,7 +846,15 @@
     "lng": 133.9613585829058,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "金",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -582,7 +869,16 @@
     "lng": 133.83576063419048,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜日と第2第4水曜日、5月の第1日曜日"
+    }
   },
   {
     "rank": 1,
@@ -597,7 +893,15 @@
     "lng": 134.04854645482894,
     "year": 2025,
     "award": "2025 ・ 百名店 居酒屋 西日本",
-    "genre": "居酒屋"
+    "genre": "居酒屋",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 13,
@@ -612,7 +916,14 @@
     "lng": 134.0509478844682,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 20,
@@ -627,7 +938,14 @@
     "lng": 134.04185769446832,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "正月1日～4日"
+    }
   },
   {
     "rank": 42,
@@ -642,7 +960,14 @@
     "lng": 134.01063508500835,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休（元日のみ）"
+    }
   },
   {
     "rank": 64,
@@ -657,7 +982,15 @@
     "lng": 133.91971750452964,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 76,
@@ -672,7 +1005,15 @@
     "lng": 134.3396930337373,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -687,7 +1028,15 @@
     "lng": 134.05240500486627,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -702,7 +1051,14 @@
     "lng": 134.0354006742747,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -717,7 +1073,14 @@
     "lng": 134.04491692479712,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -732,7 +1095,14 @@
     "lng": 133.7719466239422,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 61,
@@ -747,7 +1117,16 @@
     "lng": 134.06899409435266,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -762,7 +1141,15 @@
     "lng": 133.8575503734143,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 97,
@@ -777,7 +1164,14 @@
     "lng": 134.10796097511096,
     "year": 2026,
     "award": "2026 ・ 百名店 中国料理 西日本",
-    "genre": "中国料理"
+    "genre": "中国料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -792,7 +1186,12 @@
     "lng": 134.1082431348409,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 22,
@@ -807,7 +1206,14 @@
     "lng": 133.98915798463747,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -822,7 +1228,14 @@
     "lng": 134.12976378492004,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 52,
@@ -837,7 +1250,15 @@
     "lng": 134.05757977497672,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 87,
@@ -852,7 +1273,15 @@
     "lng": 134.0474591271397,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 1,
@@ -867,7 +1296,15 @@
     "lng": 134.02465656391374,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -882,7 +1319,15 @@
     "lng": 134.00983857455716,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -897,7 +1342,14 @@
     "lng": 133.8024321938495,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 88,
@@ -912,7 +1364,16 @@
     "lng": 134.05113890035713,
     "year": 2025,
     "award": "2025 ・ 百名店 イタリアン 西日本",
-    "genre": "イタリアン"
+    "genre": "イタリアン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 7,
@@ -927,7 +1388,16 @@
     "lng": 133.870854744253,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜（祝祭日の場合は火曜日）"
+    }
   },
   {
     "rank": 8,
@@ -942,7 +1412,14 @@
     "lng": 134.01077390442248,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休有り 5/25.5/26は臨時休業"
+    }
   },
   {
     "rank": 9,
@@ -957,7 +1434,14 @@
     "lng": 134.01140131435946,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -972,7 +1456,16 @@
     "lng": 133.84337698483137,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -987,7 +1480,14 @@
     "lng": 133.74461223436566,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -1002,7 +1502,16 @@
     "lng": 133.98191807230876,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第2水曜日"
+    }
   },
   {
     "rank": 95,
@@ -1017,7 +1526,14 @@
     "lng": 134.04624110051444,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -1032,7 +1548,15 @@
     "lng": 134.04934810483684,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1047,7 +1571,16 @@
     "lng": 133.83328214423256,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 74,
@@ -1062,7 +1595,14 @@
     "lng": 133.88250863390718,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 88,
@@ -1077,7 +1617,14 @@
     "lng": 133.8430858548085,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "第2、第4日曜日"
+    }
   },
   {
     "rank": 89,
@@ -1092,7 +1639,14 @@
     "lng": 133.81056768459388,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1107,7 +1661,12 @@
     "lng": 134.0519798737093,
     "year": 2025,
     "award": "2025 ・ 百名店 焼き鳥 西日本",
-    "genre": "焼き鳥"
+    "genre": "焼き鳥",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 2,
@@ -1122,7 +1681,14 @@
     "lng": 133.66713116296054,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 39,
@@ -1137,7 +1703,15 @@
     "lng": 133.84179719390258,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -1152,7 +1726,14 @@
     "lng": 134.09143250453965,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -1167,7 +1748,15 @@
     "lng": 133.83629152423674,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 80,
@@ -1182,7 +1771,16 @@
     "lng": 134.21847917306192,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "水曜日(※水曜日が祝祭日の時は翌木曜日が振替休日）"
+    }
   },
   {
     "rank": 56,
@@ -1197,7 +1795,14 @@
     "lng": 133.71532060377538,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 西日本",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -1212,7 +1817,14 @@
     "lng": 134.04863021487583,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -1227,7 +1839,15 @@
     "lng": 133.68610241292097,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 32,
@@ -1242,7 +1862,15 @@
     "lng": 134.0442651248313,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1257,7 +1885,14 @@
     "lng": 134.19562953455392,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 97,
@@ -1272,7 +1907,14 @@
     "lng": 133.97644064363112,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 1,
@@ -1287,7 +1929,14 @@
     "lng": 134.05278097487135,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 24,
@@ -1302,7 +1951,15 @@
     "lng": 134.04886667487315,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -1317,7 +1974,15 @@
     "lng": 133.85900575341586,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1332,7 +1997,14 @@
     "lng": 133.77660657449542,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年中無休（ただし、１月１日は休業）"
+    }
   },
   {
     "rank": 78,
@@ -1347,7 +2019,14 @@
     "lng": 133.85406414440274,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 32,
@@ -1362,7 +2041,15 @@
     "lng": 134.09167254459803,
     "year": 2023,
     "award": "2023 ・ 百名店 和菓子・甘味処 西日本",
-    "genre": "和菓子・甘味処"
+    "genre": "和菓子・甘味処",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "水曜日(祝日の場合は翌日) ※公式サイトに営業日カレンダーあり"
+    }
   },
   {
     "rank": 66,
@@ -1377,7 +2064,14 @@
     "lng": 134.05184967372557,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 29,
@@ -1392,7 +2086,14 @@
     "lng": 134.07067795460517,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 30,
@@ -1407,7 +2108,14 @@
     "lng": 133.7188885928847,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 31,
@@ -1422,7 +2130,15 @@
     "lng": 134.12204499437755,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -1437,7 +2153,14 @@
     "lng": 134.05195832489198,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -1452,7 +2175,15 @@
     "lng": 133.82869649348265,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -1467,7 +2198,14 @@
     "lng": 133.794617334546,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -1482,7 +2220,15 @@
     "lng": 134.05548358472487,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜日 ※祝日の場合翌日"
+    }
   },
   {
     "rank": 37,
@@ -1497,7 +2243,14 @@
     "lng": 134.08947240492355,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -1512,7 +2265,15 @@
     "lng": 134.13881365390208,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日（祝日の場合は翌日休）"
+    }
   },
   {
     "rank": 75,
@@ -1527,7 +2288,16 @@
     "lng": 134.06090287476678,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1542,7 +2312,14 @@
     "lng": 134.05031227491332,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -1557,7 +2334,14 @@
     "lng": 134.02950152373478,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年中無休"
+    }
   },
   {
     "rank": 35,
@@ -1572,7 +2356,14 @@
     "lng": 134.12452372411295,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 54,
@@ -1587,7 +2378,14 @@
     "lng": 134.0415145148111,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -1602,7 +2400,15 @@
     "lng": 134.05190265486425,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -1617,7 +2423,16 @@
     "lng": 133.82772568440294,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "第4火曜"
+    }
   },
   {
     "rank": 68,
@@ -1647,7 +2462,14 @@
     "lng": 134.04231687366843,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1662,7 +2484,16 @@
     "lng": 134.04933107371335,
     "year": 2025,
     "award": "2025 ・ 百名店 ステーキ・鉄板焼き 西日本",
-    "genre": "ステーキ・鉄板焼き"
+    "genre": "ステーキ・鉄板焼き",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第1火曜日"
+    }
   },
   {
     "rank": 3,
@@ -1677,7 +2508,16 @@
     "lng": 134.35017687252525,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第2火曜日（祝日の場合は、1日後へづれます）"
+    }
   },
   {
     "rank": 33,
@@ -1692,7 +2532,16 @@
     "lng": 134.07339510467477,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木",
+        "金",
+        "日"
+      ],
+      "irregular": false,
+      "note": "木曜日(祝日の場合は営業、翌金曜日が休み)"
+    }
   },
   {
     "rank": 69,
@@ -1707,7 +2556,12 @@
     "lng": 134.0528385948522,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "年中無休"
+    }
   },
   {
     "rank": 81,
@@ -1722,7 +2576,14 @@
     "lng": 134.0491248736649,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 香川",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -1737,7 +2598,15 @@
     "lng": 133.8119461722644,
     "year": 2025,
     "award": "2025 ・ 百名店 カフェ 西日本",
-    "genre": "カフェ"
+    "genre": "カフェ",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": true,
+      "note": "神椿では、レストラン営業とカフェ営業が異なりますのでご注意ください。 *レストラン 火曜定休（祝祭日は営業） *カフェ 不定休 ※休館日有り（大変お手数をお掛けしますが、公式サイトの営業カレンダーよりご確認ください。）"
+    }
   },
   {
     "rank": 81,
@@ -1752,7 +2621,16 @@
     "lng": 133.820133693471,
     "year": 2025,
     "award": "2025 ・ 百名店 洋食 西日本",
-    "genre": "洋食"
+    "genre": "洋食",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜日、水曜日(祝日の場合は営業）"
+    }
   },
   {
     "rank": 4,
@@ -1767,7 +2645,15 @@
     "lng": 134.05074435484917,
     "year": 2025,
     "award": "2025 ・ 百名店 お好み焼き",
-    "genre": "お好み焼き"
+    "genre": "お好み焼き",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 78,
@@ -1782,6 +2668,14 @@
     "lng": 134.17609597625236,
     "year": 2025,
     "award": "2025 ・ 百名店 ピザ",
-    "genre": "ピザ"
+    "genre": "ピザ",
+    "closed": {
+      "days": [
+        "月",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   }
 ]

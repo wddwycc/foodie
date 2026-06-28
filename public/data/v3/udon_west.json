@@ -12,7 +12,14 @@
     "lng": 135.54812062534657,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 2,
@@ -27,7 +34,15 @@
     "lng": 135.43214688781367,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 3,
@@ -42,7 +57,14 @@
     "lng": 135.58281587658715,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 4,
@@ -57,7 +79,15 @@
     "lng": 135.17297442735804,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -72,7 +102,15 @@
     "lng": 135.52269538711462,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -87,7 +125,14 @@
     "lng": 135.72208142577117,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 7,
@@ -102,7 +147,15 @@
     "lng": 135.49089873697895,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -117,7 +170,14 @@
     "lng": 131.42150555102822,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 9,
@@ -132,7 +192,15 @@
     "lng": 135.49925883744893,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -147,7 +215,15 @@
     "lng": 135.62826737705845,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -162,7 +238,16 @@
     "lng": 135.50775167577987,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -177,7 +262,15 @@
     "lng": 135.79364916045375,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": "第１・第３月曜日（祝日の場合翌日） ※7・8・12月は不定休"
+    }
   },
   {
     "rank": 13,
@@ -192,7 +285,15 @@
     "lng": 135.50148878755735,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 14,
@@ -207,7 +308,14 @@
     "lng": 135.41131216773292,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 15,
@@ -222,7 +330,16 @@
     "lng": 135.51124364747363,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 16,
@@ -237,7 +354,14 @@
     "lng": 135.55921902764416,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 17,
@@ -252,7 +376,15 @@
     "lng": 135.49804377633725,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -267,7 +399,15 @@
     "lng": 135.51471757613996,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "土"
+      ],
+      "irregular": false,
+      "note": "は火・土曜日です。 ■ うどん店としての営業は本年8/13をもって終了となります。"
+    }
   },
   {
     "rank": 19,
@@ -282,7 +422,15 @@
     "lng": 135.55695915770198,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "第2、第4、第5日曜日"
+    }
   },
   {
     "rank": 20,
@@ -297,7 +445,14 @@
     "lng": 135.19849400763454,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "土"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -312,7 +467,15 @@
     "lng": 135.67502041836693,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 22,
@@ -327,7 +490,14 @@
     "lng": 135.48697397625594,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -342,7 +512,16 @@
     "lng": 135.4973533384259,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "日曜。月曜日の祝日は休みです。 年末年始 GW お盆 等お休みをいただく場合があります。"
+    }
   },
   {
     "rank": 24,
@@ -357,7 +536,15 @@
     "lng": 130.42465410974484,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "※お盆休み・正月休みあり"
+    }
   },
   {
     "rank": 25,
@@ -372,7 +559,16 @@
     "lng": 134.89159127695007,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -387,7 +583,15 @@
     "lng": 135.50434600708442,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +606,15 @@
     "lng": 135.5687632478381,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜が祝日の場合は営業、翌日に代休 臨時休業は公式サイトまたは公式Facebookにて要確認"
+    }
   },
   {
     "rank": 28,
@@ -417,7 +629,16 @@
     "lng": 130.55231942698904,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3水曜日 ※営業日時変更の場合はSNSにて告知"
+    }
   },
   {
     "rank": 29,
@@ -432,7 +653,15 @@
     "lng": 135.49903910700783,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 30,
@@ -447,7 +676,15 @@
     "lng": 135.50277809733467,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 31,
@@ -462,7 +699,16 @@
     "lng": 135.54353157649095,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": true,
+      "note": "木曜日＋不定休 ※営業時間は毎日Xにてポストされるので要確認"
+    }
   },
   {
     "rank": 32,
@@ -477,7 +723,14 @@
     "lng": 135.49840307618055,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -492,7 +745,14 @@
     "lng": 135.49362907608284,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "日曜日（祝日は不定休）"
+    }
   },
   {
     "rank": 34,
@@ -507,7 +767,15 @@
     "lng": 130.41604991974663,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +790,16 @@
     "lng": 135.5204219566539,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -537,7 +814,15 @@
     "lng": 135.51695267611694,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 37,
@@ -552,7 +837,14 @@
     "lng": 135.52475370692264,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 38,
@@ -567,7 +859,16 @@
     "lng": 135.4737119766434,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "※他夏期休暇あり"
+    }
   },
   {
     "rank": 39,
@@ -582,7 +883,15 @@
     "lng": 135.4998452475889,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -597,7 +906,14 @@
     "lng": 130.92513487074444,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -612,7 +928,15 @@
     "lng": 135.41648306831468,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 42,
@@ -627,7 +951,15 @@
     "lng": 135.4911623866349,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -642,7 +974,15 @@
     "lng": 135.46339247718373,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日（祝日の場合もお休みです）"
+    }
   },
   {
     "rank": 44,
@@ -657,7 +997,14 @@
     "lng": 135.23743869900386,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -672,7 +1019,16 @@
     "lng": 135.55672714770668,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "金",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "臨時休業・営業時間変更あり（Facebookで告知）"
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1043,14 @@
     "lng": 135.33707937676274,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1065,14 @@
     "lng": 130.87652625209452,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1087,14 @@
     "lng": 135.3510117767819,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1109,15 @@
     "lng": 135.50238151723946,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1132,14 @@
     "lng": 132.76962192065182,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1154,14 @@
     "lng": 135.4931621761976,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1176,14 @@
     "lng": 134.47101739248689,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1198,14 @@
     "lng": 135.5336598271804,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(年末年始は休みあり)"
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1220,17 @@
     "lng": 135.76467833988391,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1245,14 @@
     "lng": 137.21136077624308,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1267,16 @@
     "lng": 132.76942501065474,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1291,14 @@
     "lng": 135.56287087587282,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1313,14 @@
     "lng": 135.49037341673053,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1335,14 @@
     "lng": 135.62398458720952,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1357,14 @@
     "lng": 130.41104465984355,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1379,14 @@
     "lng": 135.50401069709818,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1401,16 @@
     "lng": 135.49804247668425,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1425,14 @@
     "lng": 135.48336737553285,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1447,16 @@
     "lng": 135.51728146662012,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3月曜日"
+    }
   },
   {
     "rank": 65,
@@ -987,7 +1486,12 @@
     "lng": 135.3773365526453,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1506,12 @@
     "lng": 135.49952161749584,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休(ホワイティうめだに準ずる) ラストオーダー:閉店30分前 15時〜17時30分は営業休止中"
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1526,15 @@
     "lng": 135.50256885726878,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1549,15 @@
     "lng": 135.50437548725694,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1572,15 @@
     "lng": 133.81654307683777,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日（祝日の場合は翌日がお休み）"
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1595,15 @@
     "lng": 130.41070120990364,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1618,16 @@
     "lng": 135.6398370765322,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1642,15 @@
     "lng": 135.51526778718514,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1665,14 @@
     "lng": 135.59081457676288,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1687,14 @@
     "lng": 135.5060773763281,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1709,15 @@
     "lng": 135.78481643043853,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": "木曜・第４水曜（※祝日の場合は翌日が定休）"
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1732,17 @@
     "lng": 135.58231078633364,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水",
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "店主体調不良のためしばらくの間お休みが多いですがご了承ください"
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1757,14 @@
     "lng": 135.535487284829,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1779,12 @@
     "lng": 130.39157080979047,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1799,14 @@
     "lng": 135.49809947635146,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": "元旦と、2月,5月,9月,11月の第3水曜"
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1821,14 @@
     "lng": 133.91617938805837,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1843,15 @@
     "lng": 135.50071607656218,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1866,14 @@
     "lng": 135.50201717712343,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1888,15 @@
     "lng": 135.49950707629273,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休（※公式HPで毎月告知されます）"
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1911,15 @@
     "lng": 135.4725497181177,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1934,12 @@
     "lng": 135.41040411925601,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1954,12 @@
     "lng": 135.41644878804541,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1974,14 @@
     "lng": 135.48204290616638,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1996,14 @@
     "lng": 135.53557527605406,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +2018,14 @@
     "lng": 135.62359169805222,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2040,14 @@
     "lng": 135.513752196526,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2062,12 @@
     "lng": 135.37606082515904,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2082,15 @@
     "lng": 135.49332263736352,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2105,14 @@
     "lng": 135.57421282641798,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2127,15 @@
     "lng": 135.48262885622407,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2150,15 @@
     "lng": 135.65535293869146,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2173,15 @@
     "lng": 134.88647874038594,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "元旦・2日"
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2196,15 @@
     "lng": 135.43543624499966,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2219,14 @@
     "lng": 134.59260034259464,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2241,14 @@
     "lng": 135.78481367043912,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   }
 ]

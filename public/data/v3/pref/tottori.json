@@ -12,7 +12,12 @@
     "lng": 134.22997522639903,
     "year": 2025,
     "award": "2025 ・ 百名店 日本料理 西日本",
-    "genre": "日本料理"
+    "genre": "日本料理",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -27,7 +32,15 @@
     "lng": 134.2382775763388,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 西日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 3,
@@ -42,6 +55,13 @@
     "lng": 134.23052324039548,
     "year": 2025,
     "award": "2025 ・ 百名店 ステーキ・鉄板焼き 西日本",
-    "genre": "ステーキ・鉄板焼き"
+    "genre": "ステーキ・鉄板焼き",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   }
 ]

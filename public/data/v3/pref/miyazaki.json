@@ -12,7 +12,16 @@
     "lng": 131.43603065095397,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "第一火曜日 祝日除く"
+    }
   },
   {
     "rank": 79,
@@ -27,7 +36,14 @@
     "lng": 131.67010848879693,
     "year": 2025,
     "award": "2025 ・ 百名店 イタリアン 西日本",
-    "genre": "イタリアン"
+    "genre": "イタリアン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -42,7 +58,15 @@
     "lng": 131.42328955103181,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": "第1,第3火曜日と毎週水曜日"
+    }
   },
   {
     "rank": 44,
@@ -57,7 +81,14 @@
     "lng": 131.42068305102,
     "year": 2025,
     "award": "2025 ・ 百名店 洋食 西日本",
-    "genre": "洋食"
+    "genre": "洋食",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -72,7 +103,14 @@
     "lng": 131.42401812218816,
     "year": 2025,
     "award": "2025 ・ 百名店 洋食 西日本",
-    "genre": "洋食"
+    "genre": "洋食",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -87,7 +125,14 @@
     "lng": 131.66730285873493,
     "year": 2025,
     "award": "2025 ・ 百名店 日本料理 西日本",
-    "genre": "日本料理"
+    "genre": "日本料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -102,7 +147,15 @@
     "lng": 131.42440165103193,
     "year": 2025,
     "award": "2025 ・ 百名店 イタリアン 西日本",
-    "genre": "イタリアン"
+    "genre": "イタリアン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -117,7 +170,15 @@
     "lng": 131.4208922510328,
     "year": 2025,
     "award": "2025 ・ 百名店 洋食 西日本",
-    "genre": "洋食"
+    "genre": "洋食",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -132,7 +193,14 @@
     "lng": 131.52698881491443,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 西日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -147,7 +215,14 @@
     "lng": 131.42577325093416,
     "year": 2025,
     "award": "2025 ・ 百名店 ステーキ・鉄板焼き 西日本",
-    "genre": "ステーキ・鉄板焼き"
+    "genre": "ステーキ・鉄板焼き",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -162,7 +237,14 @@
     "lng": 131.4194354621791,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -177,7 +259,14 @@
     "lng": 131.42420915103463,
     "year": 2025,
     "award": "2025 ・ 百名店 日本料理 西日本",
-    "genre": "日本料理"
+    "genre": "日本料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 81,
@@ -192,7 +281,14 @@
     "lng": 131.30598065911704,
     "year": 2025,
     "award": "2025 ・ 百名店 ステーキ・鉄板焼き 西日本",
-    "genre": "ステーキ・鉄板焼き"
+    "genre": "ステーキ・鉄板焼き",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -207,7 +303,15 @@
     "lng": 131.42148985102358,
     "year": 2025,
     "award": "2025 ・ 百名店 居酒屋 西日本",
-    "genre": "居酒屋"
+    "genre": "居酒屋",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 76,
@@ -222,7 +326,14 @@
     "lng": 131.67064045882637,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -237,7 +348,14 @@
     "lng": 130.9745106035963,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 西日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 38,
@@ -252,7 +370,14 @@
     "lng": 131.422587013515,
     "year": 2025,
     "award": "2025 ・ 百名店 焼き鳥 西日本",
-    "genre": "焼き鳥"
+    "genre": "焼き鳥",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -267,7 +392,14 @@
     "lng": 131.42534928127682,
     "year": 2025,
     "award": "2025 ・ 百名店 フレンチ 西日本",
-    "genre": "フレンチ"
+    "genre": "フレンチ",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 4,
@@ -282,7 +414,14 @@
     "lng": 131.4245538510329,
     "year": 2026,
     "award": "2026 ・ 百名店 アジア・エスニック 西日本",
-    "genre": "アジア・エスニック"
+    "genre": "アジア・エスニック",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 78,
@@ -297,7 +436,15 @@
     "lng": 131.42096798217617,
     "year": 2022,
     "award": "2022 ・ 百名店 バー",
-    "genre": "バー"
+    "genre": "バー",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -312,7 +459,12 @@
     "lng": 131.4212062589162,
     "year": 2025,
     "award": "2025 ・ 百名店 イタリアン 西日本",
-    "genre": "イタリアン"
+    "genre": "イタリアン",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": ".不定休"
+    }
   },
   {
     "rank": 38,
@@ -327,7 +479,16 @@
     "lng": 131.42320055217021,
     "year": 2025,
     "award": "2025 ・ 百名店 そば 西日本",
-    "genre": "そば"
+    "genre": "そば",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 42,
@@ -342,7 +503,16 @@
     "lng": 131.42151333216998,
     "year": 2025,
     "award": "2025 ・ 百名店 焼き鳥 西日本",
-    "genre": "焼き鳥"
+    "genre": "焼き鳥",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -357,7 +527,14 @@
     "lng": 131.41604870236324,
     "year": 2025,
     "award": "2025 ・ 百名店 フレンチ 西日本",
-    "genre": "フレンチ"
+    "genre": "フレンチ",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -372,7 +549,14 @@
     "lng": 131.42186371218642,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -387,7 +571,14 @@
     "lng": 131.421264192181,
     "year": 2022,
     "award": "2022 ・ 百名店 バー",
-    "genre": "バー"
+    "genre": "バー",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -402,7 +593,15 @@
     "lng": 131.46802167230118,
     "year": 2026,
     "award": "2026 ・ 百名店 ハンバーガー",
-    "genre": "ハンバーガー"
+    "genre": "ハンバーガー",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -417,7 +616,15 @@
     "lng": 131.40033864160068,
     "year": 2025,
     "award": "2025 ・ 百名店 お好み焼き",
-    "genre": "お好み焼き"
+    "genre": "お好み焼き",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第2、第4月曜日、他"
+    }
   },
   {
     "rank": 22,
@@ -432,7 +639,14 @@
     "lng": 131.44283885254367,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 西日本",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -447,7 +661,14 @@
     "lng": 131.42150555102822,
     "year": 2024,
     "award": "2024 ・ 百名店 うどん 西日本",
-    "genre": "うどん"
+    "genre": "うどん",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -462,7 +683,12 @@
     "lng": 131.45951374222219,
     "year": 2025,
     "award": "2025 ・ 百名店 ステーキ・鉄板焼き 西日本",
-    "genre": "ステーキ・鉄板焼き"
+    "genre": "ステーキ・鉄板焼き",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 14,
@@ -477,7 +703,15 @@
     "lng": 131.47319210158565,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -492,7 +726,16 @@
     "lng": 131.42462995102565,
     "year": 2025,
     "award": "2025 ・ 百名店 フレンチ 西日本",
-    "genre": "フレンチ"
+    "genre": "フレンチ",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -507,7 +750,14 @@
     "lng": 131.42917825102256,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -522,7 +772,12 @@
     "lng": 131.42031695218716,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -537,7 +792,12 @@
     "lng": 130.9362745332311,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 100,
@@ -552,7 +812,14 @@
     "lng": 131.4242228192862,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "毎週日曜日(※その他不定休)予約可能人数は4名以上"
+    }
   },
   {
     "rank": 45,
@@ -567,7 +834,12 @@
     "lng": 131.46997635143867,
     "year": 2025,
     "award": "2025 ・ 百名店 ステーキ・鉄板焼き 西日本",
-    "genre": "ステーキ・鉄板焼き"
+    "genre": "ステーキ・鉄板焼き",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 87,
@@ -582,7 +854,15 @@
     "lng": 131.0581230300983,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜（祝日の場合は翌日）"
+    }
   },
   {
     "rank": 1,
@@ -597,7 +877,14 @@
     "lng": 131.42359386219977,
     "year": 2025,
     "award": "2025 ・ 百名店 そば 西日本",
-    "genre": "そば"
+    "genre": "そば",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -612,7 +899,15 @@
     "lng": 131.27125816306665,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -627,7 +922,12 @@
     "lng": 131.4245244221192,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -642,7 +942,12 @@
     "lng": 131.45395849884864,
     "year": 2025,
     "award": "2025 ・ 百名店 洋食 西日本",
-    "genre": "洋食"
+    "genre": "洋食",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 29,
@@ -657,7 +962,14 @@
     "lng": 131.42370218219898,
     "year": 2025,
     "award": "2025 ・ 百名店 洋食 西日本",
-    "genre": "洋食"
+    "genre": "洋食",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -672,7 +984,15 @@
     "lng": 131.66963235874104,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 22,
@@ -687,6 +1007,13 @@
     "lng": 131.42479385100955,
     "year": 2024,
     "award": "2024 ・ 百名店 すき焼き・しゃぶしゃぶ",
-    "genre": "すき焼き・しゃぶしゃぶ"
+    "genre": "すき焼き・しゃぶしゃぶ",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   }
 ]

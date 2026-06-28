@@ -12,7 +12,14 @@
     "lng": 130.87984287128285,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 3,
@@ -27,7 +34,16 @@
     "lng": 130.87986243245004,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 4,
@@ -42,7 +58,14 @@
     "lng": 134.89575728521828,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -57,7 +80,15 @@
     "lng": 135.4993091874207,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -72,7 +103,15 @@
     "lng": 131.42328955103181,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": "第1,第3火曜日と毎週水曜日"
+    }
   },
   {
     "rank": 7,
@@ -87,7 +126,16 @@
     "lng": 136.2679899826393,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "毎週火曜日、第3水曜日（祝日と重なったり、正月、GW、お盆などは休みが不規則になる場合がございますのでお電話にてご確認下さい） ■ 営業時間 ※20:00最終入店 ※カウンター席、要ご予約 ※ご予約やご注文の都合で開店時間が変更する場合があり。予めお電話にてご確認もしくはご予約いただけると幸いです。 ※忙しい時間帯はお電話がつながりにくい場合がございます。 ※休業日はお電話繋がりません。ご不便をおかけ致しますが予めご了承下さい。"
+    }
   },
   {
     "rank": 8,
@@ -102,7 +150,14 @@
     "lng": 137.40687364998666,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 9,
@@ -117,7 +172,16 @@
     "lng": 130.88442917130766,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日 火曜日 第1・第3日曜日"
+    }
   },
   {
     "rank": 10,
@@ -132,7 +196,15 @@
     "lng": 135.50998897556502,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -147,7 +219,15 @@
     "lng": 135.7440564841839,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -162,7 +242,14 @@
     "lng": 134.05157421484327,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休 ■クレジットカード可 ■pocket conciergeから予約可"
+    }
   },
   {
     "rank": 13,
@@ -177,7 +264,12 @@
     "lng": 134.05102050487727,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 14,
@@ -192,7 +284,15 @@
     "lng": 131.47319210158565,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 15,
@@ -207,7 +307,14 @@
     "lng": 136.9671957701166,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 16,
@@ -237,7 +344,14 @@
     "lng": 130.4055326435287,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "土"
+      ],
+      "irregular": false,
+      "note": "日・月・祝"
+    }
   },
   {
     "rank": 18,
@@ -252,7 +366,14 @@
     "lng": 136.2036114108761,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 19,
@@ -267,7 +388,14 @@
     "lng": 137.23484269504726,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 20,
@@ -282,7 +410,12 @@
     "lng": 135.50301482742165,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 21,
@@ -297,7 +430,14 @@
     "lng": 132.46157071649893,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 22,
@@ -312,7 +452,15 @@
     "lng": 135.53364334745018,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": "第３火曜日"
+    }
   },
   {
     "rank": 23,
@@ -327,7 +475,12 @@
     "lng": 135.50384138825308,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 24,
@@ -342,7 +495,14 @@
     "lng": 136.64810165560212,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -372,7 +532,12 @@
     "lng": 134.0255118781167,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -387,7 +552,15 @@
     "lng": 134.60578362280677,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -402,7 +575,14 @@
     "lng": 135.49817881762485,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 29,
@@ -417,7 +597,15 @@
     "lng": 130.38708109972154,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 30,
@@ -432,7 +620,14 @@
     "lng": 130.41875846855226,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 31,
@@ -447,7 +642,12 @@
     "lng": 137.2181885862412,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 32,
@@ -462,7 +662,14 @@
     "lng": 130.40557680983125,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "土"
+      ],
+      "irregular": false,
+      "note": "日・月・祝"
+    }
   },
   {
     "rank": 33,
@@ -477,7 +684,14 @@
     "lng": 135.49781267744365,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -492,7 +706,16 @@
     "lng": 136.6020519250907,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -507,7 +730,14 @@
     "lng": 130.5583913094902,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -522,7 +752,15 @@
     "lng": 130.5155591657809,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 37,
@@ -537,7 +775,14 @@
     "lng": 135.30599682789935,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 38,
@@ -552,7 +797,16 @@
     "lng": 131.43603065095397,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "第一火曜日 祝日除く"
+    }
   },
   {
     "rank": 39,
@@ -567,7 +821,15 @@
     "lng": 130.4063664685652,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -582,7 +844,12 @@
     "lng": 136.65355809428223,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -597,7 +864,14 @@
     "lng": 130.40117976856664,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 42,
@@ -612,7 +886,14 @@
     "lng": 132.7723154890699,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -627,7 +908,16 @@
     "lng": 130.20139416845433,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日が祝日の場合営業。翌火曜日が休みとなります。"
+    }
   },
   {
     "rank": 44,
@@ -642,7 +932,15 @@
     "lng": 135.49791985743576,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -657,7 +955,12 @@
     "lng": 130.7009901616366,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 46,
@@ -672,7 +975,12 @@
     "lng": 135.19215777651976,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -687,7 +995,14 @@
     "lng": 135.5020966171763,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -702,7 +1017,14 @@
     "lng": 130.19371293847766,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -717,7 +1039,14 @@
     "lng": 135.4981921814987,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -732,7 +1061,14 @@
     "lng": 130.47376646796155,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -747,7 +1083,14 @@
     "lng": 130.40552126983098,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "土"
+      ],
+      "irregular": false,
+      "note": "日・月・祝"
+    }
   },
   {
     "rank": 52,
@@ -762,7 +1105,15 @@
     "lng": 130.37795526868743,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 53,
@@ -777,7 +1128,14 @@
     "lng": 136.69596482031662,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 54,
@@ -792,7 +1150,16 @@
     "lng": 130.3902977686218,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "日祝日、第2.4月曜日"
+    }
   },
   {
     "rank": 55,
@@ -807,7 +1174,12 @@
     "lng": 137.22871911660633,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休 キャンセルポリシー : 無断キャンセル100% 当日 100% 前日 100% 前々日 70% 4日前 50%"
+    }
   },
   {
     "rank": 56,
@@ -822,7 +1194,14 @@
     "lng": 136.66191069440376,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "(加えて不定休あり)"
+    }
   },
   {
     "rank": 57,
@@ -837,7 +1216,16 @@
     "lng": 136.6546089755096,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "（祝日の場合営業していることもあり） (お盆、ゴールデンウィーク、年末など営業)"
+    }
   },
   {
     "rank": 58,
@@ -852,7 +1240,15 @@
     "lng": 130.40817889554987,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -867,7 +1263,12 @@
     "lng": 135.4728642623126,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -882,7 +1283,12 @@
     "lng": 135.7625561791733,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 61,
@@ -897,7 +1303,14 @@
     "lng": 135.50565686031706,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -912,7 +1325,14 @@
     "lng": 132.77240546953934,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -927,7 +1347,15 @@
     "lng": 130.3934246097385,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月に一度連休有り(連休日不定)"
+    }
   },
   {
     "rank": 64,
@@ -942,7 +1370,15 @@
     "lng": 137.22347987636118,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -957,7 +1393,14 @@
     "lng": 137.21296139518765,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -972,7 +1415,15 @@
     "lng": 135.4977489874252,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": "水曜・木曜（祝日により変更あり）"
+    }
   },
   {
     "rank": 67,
@@ -987,7 +1438,15 @@
     "lng": 130.39664926939363,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": "水曜日・木曜日 ※2025/11より水曜日・木曜日を定休日とさせていただきます。"
+    }
   },
   {
     "rank": 68,
@@ -1002,7 +1461,12 @@
     "lng": 135.18756707645485,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 69,
@@ -1017,7 +1481,14 @@
     "lng": 129.9701207586966,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1032,7 +1503,14 @@
     "lng": 133.92417863820643,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -1047,7 +1525,14 @@
     "lng": 130.3877680097434,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 72,
@@ -1062,7 +1547,15 @@
     "lng": 136.64990971561198,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1077,7 +1570,12 @@
     "lng": 135.48208704747785,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 74,
@@ -1092,7 +1590,15 @@
     "lng": 135.4946364468261,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 75,
@@ -1107,7 +1613,16 @@
     "lng": 136.71522997337573,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "木",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 76,
@@ -1122,7 +1637,14 @@
     "lng": 130.75793875453988,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1137,7 +1659,14 @@
     "lng": 135.77457471033668,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 78,
@@ -1152,7 +1681,15 @@
     "lng": 130.7101805551846,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1167,7 +1704,15 @@
     "lng": 135.32403648806903,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日（祝日の場合は翌日)"
+    }
   },
   {
     "rank": 80,
@@ -1182,7 +1727,15 @@
     "lng": 130.3764099686915,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 81,
@@ -1197,7 +1750,15 @@
     "lng": 135.4973176574429,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1212,7 +1773,14 @@
     "lng": 130.41244926977907,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 83,
@@ -1227,7 +1795,15 @@
     "lng": 130.39970815975437,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 84,
@@ -1242,7 +1818,14 @@
     "lng": 130.3968455685813,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "その他に不定期で連休あり 8名様以上のご予約はお電話にてお問い合わせください。"
+    }
   },
   {
     "rank": 85,
@@ -1257,7 +1840,16 @@
     "lng": 130.89840312229373,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第１火曜"
+    }
   },
   {
     "rank": 86,
@@ -1272,7 +1864,12 @@
     "lng": 130.83059817135813,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 87,
@@ -1287,7 +1884,14 @@
     "lng": 132.77347125069846,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 88,
@@ -1302,7 +1906,15 @@
     "lng": 135.51987607590613,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 89,
@@ -1317,7 +1929,14 @@
     "lng": 135.774435550336,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -1332,7 +1951,15 @@
     "lng": 135.49857826742993,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 91,
@@ -1347,7 +1974,15 @@
     "lng": 136.6227243655365,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1362,7 +1997,12 @@
     "lng": 135.5182926760685,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "不定期"
+    }
   },
   {
     "rank": 93,
@@ -1377,7 +2017,16 @@
     "lng": 136.65170195545875,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -1392,7 +2041,16 @@
     "lng": 130.53742858109686,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": "水・木"
+    }
   },
   {
     "rank": 95,
@@ -1407,7 +2065,15 @@
     "lng": 135.47264872623407,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "他、お盆・年末年始"
+    }
   },
   {
     "rank": 96,
@@ -1422,7 +2088,16 @@
     "lng": 134.96466337748063,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第1・第3水曜日"
+    }
   },
   {
     "rank": 97,
@@ -1437,7 +2112,12 @@
     "lng": 130.55838062010437,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 98,
@@ -1452,7 +2132,15 @@
     "lng": 133.1010902044055,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1467,7 +2155,16 @@
     "lng": 135.51341307626066,
     "year": 2025,
     "award": "2025 ・ 百名店 寿司 西日本",
-    "genre": "寿司"
+    "genre": "寿司",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,

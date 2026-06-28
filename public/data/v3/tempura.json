@@ -12,7 +12,14 @@
     "lng": 139.68261898316044,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 2,
@@ -27,7 +34,15 @@
     "lng": 135.77444407916357,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 3,
@@ -42,7 +57,15 @@
     "lng": 139.77461398321458,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 4,
@@ -57,7 +80,15 @@
     "lng": 139.7720314542134,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -72,7 +103,14 @@
     "lng": 139.78402343442193,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -87,7 +125,14 @@
     "lng": 135.7593556457697,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 7,
@@ -102,7 +147,15 @@
     "lng": 139.63322080209423,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -117,7 +170,14 @@
     "lng": 135.49093538765823,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 9,
@@ -132,7 +192,14 @@
     "lng": 140.46863680366818,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -147,7 +214,15 @@
     "lng": 135.499241517441,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -162,7 +237,16 @@
     "lng": 136.89953473941196,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -177,7 +261,14 @@
     "lng": 135.69052387923898,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 13,
@@ -192,7 +283,14 @@
     "lng": 136.8154299227906,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 14,
@@ -222,7 +320,12 @@
     "lng": 139.70643958300644,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "日月定休日"
+    }
   },
   {
     "rank": 16,
@@ -237,7 +340,15 @@
     "lng": 139.6159274416176,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 17,
@@ -267,7 +378,17 @@
     "lng": 140.12526018224412,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "水",
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": "水曜終日 ・木曜終日 月曜昼・金曜昼"
+    }
   },
   {
     "rank": 19,
@@ -282,7 +403,14 @@
     "lng": 130.42711789910473,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 20,
@@ -297,7 +425,16 @@
     "lng": 139.72322088281095,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -312,7 +449,14 @@
     "lng": 139.76215208312473,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": "水曜日 ※現在お昼（ランチ）営業はお休み中ですが、将来的な再開を予定しております。"
+    }
   },
   {
     "rank": 22,
@@ -327,7 +471,15 @@
     "lng": 139.76110924427616,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -342,7 +494,14 @@
     "lng": 130.70559986047147,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 24,
@@ -357,7 +516,14 @@
     "lng": 139.76149982939424,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 25,
@@ -372,7 +538,14 @@
     "lng": 139.74105471729612,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -387,7 +560,16 @@
     "lng": 139.4751465445007,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "基本的に毎週水曜日、木曜日のランチは定休日です。 木曜日のディナーは営業します。 その他臨時休業あり(お電話にて、ご確認ください)"
+    }
   },
   {
     "rank": 27,
@@ -402,7 +584,12 @@
     "lng": 135.50420797599753,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -417,7 +604,15 @@
     "lng": 136.6527679854209,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 29,
@@ -432,7 +627,14 @@
     "lng": 139.77818905425906,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 31,
@@ -447,7 +649,14 @@
     "lng": 130.3926475686011,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 32,
@@ -462,7 +671,15 @@
     "lng": 137.38371698678833,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -477,7 +694,14 @@
     "lng": 139.77060828308356,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -492,7 +716,15 @@
     "lng": 135.50887887623935,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -507,7 +739,14 @@
     "lng": 130.40227983983576,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(主に年末年始)"
+    }
   },
   {
     "rank": 36,
@@ -522,7 +761,18 @@
     "lng": 140.31444448956233,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 37,
@@ -537,7 +787,14 @@
     "lng": 139.73272288300106,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休ビルの定休日に準ずる 営業時間外のお電話でのキャンセルは受け付けておりません。 We do not accept cancellations by phone outside of business hours."
+    }
   },
   {
     "rank": 38,
@@ -552,7 +809,15 @@
     "lng": 130.39429737981902,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜(12/31～1/2休み)"
+    }
   },
   {
     "rank": 39,
@@ -567,7 +832,15 @@
     "lng": 135.7648069749281,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": "火曜・水曜（シーズンにより営業する場合もございます）。最新の状況は予約カレンダーをご確認いただくか、直接お問い合わせください。 ※大晦日・元旦は、天ぷらカウンターの営業をお休みさせていただきます。 お電話にて、個室は6か月先のご予約まで承っております。なお、団体様のご利用や、定休日（火・水曜）のご予約につきましても、可能な限り調整いたしますのでお気軽にご相談ください。"
+    }
   },
   {
     "rank": 40,
@@ -582,7 +855,15 @@
     "lng": 139.72107277461822,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -597,7 +878,15 @@
     "lng": 135.48799687630387,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月曜日 祝日の場合は翌日"
+    }
   },
   {
     "rank": 42,
@@ -612,7 +901,15 @@
     "lng": 136.91277129141358,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": "第1・3火曜日"
+    }
   },
   {
     "rank": 43,
@@ -642,7 +939,14 @@
     "lng": 135.5042763763769,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -657,7 +961,16 @@
     "lng": 139.08854981068012,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日（祝日の場合、翌日の火曜日が休日）"
+    }
   },
   {
     "rank": 46,
@@ -672,7 +985,12 @@
     "lng": 139.629387681076,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休 ＊休業日、短縮営業日につきましては、店舗迄お問い合わせください。"
+    }
   },
   {
     "rank": 47,
@@ -687,7 +1005,16 @@
     "lng": 139.78535568344157,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -702,7 +1029,14 @@
     "lng": 135.74180577947996,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -717,7 +1051,15 @@
     "lng": 135.49466207620966,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1089,14 @@
     "lng": 139.77125478306874,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 52,
@@ -762,7 +1111,14 @@
     "lng": 135.7756621458044,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 53,
@@ -777,7 +1133,14 @@
     "lng": 133.92571947706887,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 54,
@@ -792,7 +1155,14 @@
     "lng": 139.73251329416345,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -807,7 +1177,14 @@
     "lng": 136.2162625507449,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -822,7 +1199,12 @@
     "lng": 139.73477658298594,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -837,7 +1219,14 @@
     "lng": 135.3071027767366,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -852,7 +1241,15 @@
     "lng": 139.7292395822795,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -867,7 +1264,15 @@
     "lng": 130.71193856050567,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "日曜日、祝日、年末年始、夏期不定休"
+    }
   },
   {
     "rank": 60,
@@ -882,7 +1287,12 @@
     "lng": 135.5117428760974,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 61,
@@ -897,7 +1307,14 @@
     "lng": 139.78399229441627,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -912,7 +1329,14 @@
     "lng": 139.77043996433338,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -927,7 +1351,14 @@
     "lng": 139.75151538309075,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 64,
@@ -942,7 +1373,12 @@
     "lng": 139.78454698442235,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 65,
@@ -957,7 +1393,14 @@
     "lng": 139.7732709644255,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "日本橋三越に準ずる"
+    }
   },
   {
     "rank": 66,
@@ -972,7 +1415,14 @@
     "lng": 137.2137160953348,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -987,7 +1437,14 @@
     "lng": 141.35358914772866,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1002,7 +1459,14 @@
     "lng": 139.7672542836054,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": "月曜日 臨時休業あり"
+    }
   },
   {
     "rank": 69,
@@ -1017,7 +1481,14 @@
     "lng": 138.37617094832657,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1032,7 +1503,14 @@
     "lng": 139.63509708094938,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年始"
+    }
   },
   {
     "rank": 71,
@@ -1047,7 +1525,14 @@
     "lng": 141.35266694478656,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 72,
@@ -1062,7 +1547,15 @@
     "lng": 139.05888376470008,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1077,7 +1570,14 @@
     "lng": 139.7339051541487,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 74,
@@ -1092,7 +1592,12 @@
     "lng": 135.50383551458395,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 75,
@@ -1107,7 +1612,15 @@
     "lng": 139.45859317126494,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 76,
@@ -1122,7 +1635,12 @@
     "lng": 139.75126093425067,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 77,
@@ -1137,7 +1655,14 @@
     "lng": 140.58293058841576,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休（ホームページ要確認）"
+    }
   },
   {
     "rank": 78,
@@ -1152,7 +1677,14 @@
     "lng": 135.5112386344674,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1167,7 +1699,15 @@
     "lng": 140.11409972490225,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "他、臨時休業あります。ホームページをご覧ください。"
+    }
   },
   {
     "rank": 80,
@@ -1182,7 +1722,14 @@
     "lng": 139.70756071410563,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 81,
@@ -1197,7 +1744,16 @@
     "lng": 139.7631874831234,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "水",
+        "日"
+      ],
+      "irregular": true,
+      "note": "日曜（月曜が祝日の場合休） 水曜が月一程度で不定休になります"
+    }
   },
   {
     "rank": 82,
@@ -1212,7 +1768,12 @@
     "lng": 135.51674737710402,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 83,
@@ -1227,7 +1788,14 @@
     "lng": 130.45656939972483,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 84,
@@ -1242,7 +1810,14 @@
     "lng": 139.7641690831033,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休(GINZA SIX 休館日は休業となります)"
+    }
   },
   {
     "rank": 85,
@@ -1257,7 +1832,14 @@
     "lng": 130.39489304170502,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -1272,7 +1854,15 @@
     "lng": 135.49776744122536,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "年末年始 ランチは5/8〜の営業になります。"
+    }
   },
   {
     "rank": 87,
@@ -1287,7 +1877,14 @@
     "lng": 140.46440251485262,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 88,
@@ -1302,7 +1899,14 @@
     "lng": 139.69729483559908,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 89,
@@ -1317,7 +1921,15 @@
     "lng": 139.77360710446032,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -1332,7 +1944,14 @@
     "lng": 139.72806755050678,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 91,
@@ -1347,7 +1966,15 @@
     "lng": 137.73051889597792,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1362,7 +1989,16 @@
     "lng": 139.7612907831028,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "＊定休日以外の祝祭日はランチタイムのみ営業"
+    }
   },
   {
     "rank": 93,
@@ -1377,7 +2013,14 @@
     "lng": 135.5112539105033,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": true,
+      "note": "月曜日（不定休あり）"
+    }
   },
   {
     "rank": 94,
@@ -1392,7 +2035,14 @@
     "lng": 139.7930795743075,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1407,7 +2057,12 @@
     "lng": 139.71716618339522,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "水～土"
+    }
   },
   {
     "rank": 96,
@@ -1422,7 +2077,16 @@
     "lng": 140.3654767915036,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日が祝日の場合は翌、火曜日も休業"
+    }
   },
   {
     "rank": 97,
@@ -1437,7 +2101,16 @@
     "lng": 135.72022987882372,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "第3水曜日"
+    }
   },
   {
     "rank": 98,
@@ -1452,7 +2125,14 @@
     "lng": 136.945798571551,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1467,7 +2147,16 @@
     "lng": 136.8544620798753,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "日",
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -1482,6 +2171,14 @@
     "lng": 139.59010488240233,
     "year": 2025,
     "award": "2025 ・ 百名店 天ぷら",
-    "genre": "天ぷら"
+    "genre": "天ぷら",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   }
 ]

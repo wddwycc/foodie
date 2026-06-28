@@ -12,7 +12,14 @@
     "lng": 131.83657097847254,
     "year": 2025,
     "award": "2025 ・ 百名店 日本料理 西日本",
-    "genre": "日本料理"
+    "genre": "日本料理",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": "毎週月曜日、8月14日～16日"
+    }
   },
   {
     "rank": 79,
@@ -27,7 +34,14 @@
     "lng": 132.62901248686555,
     "year": 2026,
     "award": "2026 ・ 百名店 食堂",
-    "genre": "食堂"
+    "genre": "食堂",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -42,7 +56,14 @@
     "lng": 133.04840864705415,
     "year": 2025,
     "award": "2025 ・ 百名店 そば 西日本",
-    "genre": "そば"
+    "genre": "そば",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -57,7 +78,14 @@
     "lng": 131.8346920197882,
     "year": 2025,
     "award": "2025 ・ 百名店 居酒屋 西日本",
-    "genre": "居酒屋"
+    "genre": "居酒屋",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -72,7 +100,14 @@
     "lng": 133.0449593369858,
     "year": 2025,
     "award": "2025 ・ 百名店 そば 西日本",
-    "genre": "そば"
+    "genre": "そば",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 46,
@@ -87,7 +122,16 @@
     "lng": 133.0866079239467,
     "year": 2025,
     "award": "2025 ・ 百名店 そば 西日本",
-    "genre": "そば"
+    "genre": "そば",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "木曜（祝日は営業）、最終の水曜"
+    }
   },
   {
     "rank": 91,
@@ -102,7 +146,12 @@
     "lng": 132.76082116609507,
     "year": 2025,
     "award": "2025 ・ 百名店 そば 西日本",
-    "genre": "そば"
+    "genre": "そば",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 37,
@@ -117,6 +166,15 @@
     "lng": 132.6867502864673,
     "year": 2025,
     "award": "2025 ・ 百名店 そば 西日本",
-    "genre": "そば"
+    "genre": "そば",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "第三月曜日"
+    }
   }
 ]

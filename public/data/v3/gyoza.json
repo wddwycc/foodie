@@ -12,7 +12,14 @@
     "lng": 134.05278097487135,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 2,
@@ -27,7 +34,15 @@
     "lng": 130.5819682297555,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 3,
@@ -42,7 +57,14 @@
     "lng": 139.883176292027,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "なし"
+    }
   },
   {
     "rank": 4,
@@ -57,7 +79,14 @@
     "lng": 139.72478578310367,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -72,7 +101,15 @@
     "lng": 137.7454056040436,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -87,7 +124,14 @@
     "lng": 133.5409293661933,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "日曜日（詳細は公式HPに記載）"
+    }
   },
   {
     "rank": 7,
@@ -102,7 +146,14 @@
     "lng": 135.7415511901182,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -117,7 +168,15 @@
     "lng": 139.88771889203062,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": "月に2回火・水曜連休あり（その他休みあり、正嗣HPで確認して下さい）"
+    }
   },
   {
     "rank": 9,
@@ -132,7 +191,15 @@
     "lng": 139.73913888195716,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -147,7 +214,14 @@
     "lng": 135.47874387713935,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "なし"
+    }
   },
   {
     "rank": 11,
@@ -162,7 +236,15 @@
     "lng": 139.56056230469565,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -177,7 +259,14 @@
     "lng": 135.18889800757842,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 13,
@@ -192,7 +281,15 @@
     "lng": 139.89708296316348,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜日(祝日の場合は営業有）"
+    }
   },
   {
     "rank": 14,
@@ -207,7 +304,14 @@
     "lng": 130.51490473695458,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 15,
@@ -222,7 +326,14 @@
     "lng": 135.1928139876426,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 16,
@@ -237,7 +348,14 @@
     "lng": 135.48984002750967,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "第４営業日・不定休 ※毎月の営業日は当店のHP、又はインスタグラムの投稿をご確認ください"
+    }
   },
   {
     "rank": 17,
@@ -252,7 +370,12 @@
     "lng": 130.36297536978924,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 18,
@@ -267,7 +390,16 @@
     "lng": 135.18730762756238,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月、火(祝日であってもお休みです。)"
+    }
   },
   {
     "rank": 19,
@@ -282,7 +414,14 @@
     "lng": 135.7641761903535,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 20,
@@ -297,7 +436,18 @@
     "lng": 139.71978483493513,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "水",
+        "木",
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -312,7 +462,12 @@
     "lng": 135.19088203759048,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 22,
@@ -327,7 +482,12 @@
     "lng": 137.68895853581378,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 23,
@@ -357,7 +517,15 @@
     "lng": 133.54401486617806,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "詳細は公式HPに記載"
+    }
   },
   {
     "rank": 25,
@@ -372,7 +540,14 @@
     "lng": 135.41553454832697,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 26,
@@ -387,7 +562,14 @@
     "lng": 134.69232208933138,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +584,15 @@
     "lng": 131.66963235874104,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -417,7 +607,12 @@
     "lng": 135.19186608760154,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 29,
@@ -432,7 +627,14 @@
     "lng": 131.5049443358995,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 30,
@@ -447,7 +649,15 @@
     "lng": 141.3494228377704,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "日曜日、第2月曜日"
+    }
   },
   {
     "rank": 31,
@@ -462,7 +672,16 @@
     "lng": 136.89591148038156,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第３水曜日"
+    }
   },
   {
     "rank": 32,
@@ -477,7 +696,14 @@
     "lng": 135.19094887643814,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -492,7 +718,14 @@
     "lng": 139.71690265394798,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -507,7 +740,14 @@
     "lng": 130.51416165694815,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +762,17 @@
     "lng": 131.5046413159116,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -537,7 +787,12 @@
     "lng": 139.6676392140697,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 37,
@@ -552,7 +807,14 @@
     "lng": 135.77529855629652,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 38,
@@ -567,7 +829,15 @@
     "lng": 139.6303381121289,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月曜日 （月曜祝日含む）"
+    }
   },
   {
     "rank": 39,
@@ -582,7 +852,16 @@
     "lng": 132.4664474850551,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -597,7 +876,15 @@
     "lng": 137.71961444593532,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -612,7 +899,15 @@
     "lng": 139.84202039225406,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 42,
@@ -627,7 +922,16 @@
     "lng": 139.61889559438555,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -642,7 +946,15 @@
     "lng": 135.49751893508991,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 44,
@@ -657,7 +969,14 @@
     "lng": 137.77549857576548,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -672,7 +991,15 @@
     "lng": 135.50539087600754,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1014,14 @@
     "lng": 141.35452195657896,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1036,15 @@
     "lng": 130.76428386234966,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1059,15 @@
     "lng": 139.63494588354965,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1082,12 @@
     "lng": 139.8979704531593,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1102,14 @@
     "lng": 139.8873770031924,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休 ※公式HPのお知らせをご確認ください。"
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1124,15 @@
     "lng": 135.50005075743874,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1147,16 @@
     "lng": 141.1161223308507,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1171,12 @@
     "lng": 130.3940615686238,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1191,14 @@
     "lng": 135.6245605481613,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1213,14 @@
     "lng": 139.79726974450176,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1235,15 @@
     "lng": 139.81146576846072,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1258,14 @@
     "lng": 129.87967920163223,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1280,15 @@
     "lng": 135.49726453744282,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1303,15 @@
     "lng": 137.73487005394387,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1326,14 @@
     "lng": 136.69849314454535,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1348,15 @@
     "lng": 135.77453191035414,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1371,16 @@
     "lng": 139.88547648593146,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第２・第４水曜日"
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1395,14 @@
     "lng": 135.56108506858118,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1417,14 @@
     "lng": 130.3782054685197,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": true,
+      "note": "不定休有"
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1439,14 @@
     "lng": 139.71470138289914,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休（詳細は公式HPに記載）"
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1461,14 @@
     "lng": 135.4130731376975,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1483,14 @@
     "lng": 130.51912905694437,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1505,14 @@
     "lng": 139.8262454856768,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1527,15 @@
     "lng": 139.7444985945782,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1550,14 @@
     "lng": 139.81318109448708,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1572,14 @@
     "lng": 130.41663744982097,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1594,16 @@
     "lng": 135.5163937367864,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1618,16 @@
     "lng": 136.93598337118627,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1642,15 @@
     "lng": 139.88240093320636,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜日（祝日は営業の場合有）"
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1665,16 @@
     "lng": 139.88749400276333,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "木",
+        "金",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "金曜日 ※月に1度木曜日が休みになります。(HPにて要確認)"
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1689,15 @@
     "lng": 130.8829677824498,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1712,14 @@
     "lng": 133.53566726617063,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休（詳細は公式HPに記載）"
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1734,14 @@
     "lng": 135.62264476748192,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1756,14 @@
     "lng": 139.79565646467617,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1778,14 @@
     "lng": 135.75547016211462,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1800,14 @@
     "lng": 129.8778176604667,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1822,14 @@
     "lng": 130.4140645298425,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1844,12 @@
     "lng": 140.18441635866304,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1864,14 @@
     "lng": 135.61894952741332,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1886,12 @@
     "lng": 139.68191168317455,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1906,14 @@
     "lng": 136.8983747800476,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1928,15 @@
     "lng": 139.5927644422233,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1951,14 @@
     "lng": 139.5619202841775,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1973,12 @@
     "lng": 130.40764326867708,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +1993,15 @@
     "lng": 136.90368188007858,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2016,15 @@
     "lng": 139.6783652843857,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2039,15 @@
     "lng": 136.92292879119634,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": "[月・火]"
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2062,14 @@
     "lng": 129.8777202516328,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2084,14 @@
     "lng": 135.1914487576413,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2106,14 @@
     "lng": 139.88928218373576,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2128,12 @@
     "lng": 139.74153918348875,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2148,12 @@
     "lng": 139.737342382694,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2168,14 @@
     "lng": 136.91248980120466,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2190,14 @@
     "lng": 139.65220148372518,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "なし"
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2212,14 @@
     "lng": 138.8560450780092,
     "year": 2024,
     "award": "2024 ・ 百名店 餃子",
-    "genre": "餃子"
+    "genre": "餃子",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": "月曜・第3火曜"
+    }
   }
 ]

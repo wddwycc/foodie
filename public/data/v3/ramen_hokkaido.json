@@ -12,7 +12,15 @@
     "lng": 142.3612049342367,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 2,
@@ -27,7 +35,15 @@
     "lng": 141.34956585780313,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 3,
@@ -42,7 +58,14 @@
     "lng": 141.39549711746852,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 4,
@@ -57,7 +80,14 @@
     "lng": 141.3001749284374,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -72,7 +102,14 @@
     "lng": 141.3074992880373,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -87,7 +124,12 @@
     "lng": 141.3495425979003,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "なし"
+    }
   },
   {
     "rank": 7,
@@ -102,7 +144,15 @@
     "lng": 141.35425017775677,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -117,7 +167,14 @@
     "lng": 144.37930855380117,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 9,
@@ -132,7 +189,12 @@
     "lng": 142.3632587042461,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 10,
@@ -147,7 +209,15 @@
     "lng": 142.3851685343218,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -162,7 +232,12 @@
     "lng": 141.68045675800008,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 12,
@@ -177,7 +252,15 @@
     "lng": 140.75325454428233,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第4水曜日（祝祭日の場合は翌平日が休み）"
+    }
   },
   {
     "rank": 13,
@@ -192,7 +275,12 @@
     "lng": 141.36392715635156,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 14,
@@ -207,7 +295,14 @@
     "lng": 140.9703161105746,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 15,
@@ -222,7 +317,15 @@
     "lng": 141.32023115916775,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "水曜日・他不定休あり"
+    }
   },
   {
     "rank": 16,
@@ -237,7 +340,15 @@
     "lng": 141.34437175781449,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 17,
@@ -252,7 +363,14 @@
     "lng": 141.3616296375227,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -267,7 +385,16 @@
     "lng": 141.35733315650376,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 19,
@@ -282,7 +409,15 @@
     "lng": 141.37286460798404,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 20,
@@ -297,7 +432,15 @@
     "lng": 141.33514478771016,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -312,7 +455,15 @@
     "lng": 141.35936245675364,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休あり(Instagramにて情報更新しております)"
+    }
   },
   {
     "rank": 22,
@@ -327,7 +478,12 @@
     "lng": 141.375090717807,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 23,
@@ -342,7 +498,14 @@
     "lng": 141.3705376757272,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休（※毎月1回の不定休あり）"
+    }
   },
   {
     "rank": 24,
@@ -357,7 +520,14 @@
     "lng": 141.33735176770048,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -372,7 +542,14 @@
     "lng": 141.57598368584772,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -387,7 +564,15 @@
     "lng": 141.36853228776013,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +587,12 @@
     "lng": 141.35448302774205,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 28,
@@ -417,7 +607,12 @@
     "lng": 141.3526902565658,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 29,
@@ -432,7 +627,14 @@
     "lng": 141.36692232739938,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 30,
@@ -447,7 +649,14 @@
     "lng": 141.35224616774494,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 31,
@@ -462,7 +671,14 @@
     "lng": 141.34688415777225,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 32,
@@ -477,7 +693,15 @@
     "lng": 141.34897775734078,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -492,7 +716,14 @@
     "lng": 140.72872894408547,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -507,7 +738,15 @@
     "lng": 141.3480898090373,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +761,14 @@
     "lng": 141.343903256724,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -537,7 +783,16 @@
     "lng": 142.36188336432258,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 37,
@@ -552,7 +807,14 @@
     "lng": 141.37118910746034,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "月1回程度不定休あり"
+    }
   },
   {
     "rank": 38,
@@ -567,7 +829,15 @@
     "lng": 141.34720625643388,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月1.2.回の月火の連休有り"
+    }
   },
   {
     "rank": 39,
@@ -582,7 +852,12 @@
     "lng": 141.4459605564716,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 40,
@@ -597,7 +872,16 @@
     "lng": 141.36309681795822,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -612,7 +896,14 @@
     "lng": 141.38195155753462,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 42,
@@ -627,7 +918,15 @@
     "lng": 144.3766151348184,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -642,7 +941,12 @@
     "lng": 141.35357885660554,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 44,
@@ -657,7 +961,12 @@
     "lng": 141.35471885658527,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 45,
@@ -672,7 +981,14 @@
     "lng": 141.28026490798624,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1003,16 @@
     "lng": 141.31382205730623,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "木曜日・第3水曜日"
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1027,14 @@
     "lng": 141.34591939771988,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1049,12 @@
     "lng": 141.34755134773062,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1069,15 @@
     "lng": 141.35447554775232,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "日曜日※月曜祭日の時は日曜日営業してます ※営業時間、電話で確認（2025/4/28現在）。 公式Instagram通りの時間では、 出来ていないとのこと。"
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1092,15 @@
     "lng": 141.4374463560744,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1115,15 @@
     "lng": 141.29340753818127,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休有り"
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1138,12 @@
     "lng": 141.70703847407287,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1158,15 @@
     "lng": 142.37923565419615,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月曜日（祝日の場合は翌日休み）"
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1181,14 @@
     "lng": 142.3591073242473,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1203,14 @@
     "lng": 141.37879331775792,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1225,15 @@
     "lng": 141.34900875814748,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1248,14 @@
     "lng": 142.37214333420673,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1270,15 @@
     "lng": 141.37690889773071,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "金",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1293,14 @@
     "lng": 141.32087285676377,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1315,16 @@
     "lng": 141.39757201757416,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3火曜日"
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1339,12 @@
     "lng": 141.3157307378037,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1359,14 @@
     "lng": 141.34923154777582,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1381,16 @@
     "lng": 140.73085750524172,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1405,15 @@
     "lng": 141.40367225670218,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": "月曜(祝日の場合翌日休み)他、不定休あり"
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1428,14 @@
     "lng": 141.36327752800037,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1450,14 @@
     "lng": 141.34361735699963,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1472,15 @@
     "lng": 141.00941332927752,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1495,14 @@
     "lng": 141.35402744946936,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1517,14 @@
     "lng": 141.35430005667712,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1539,12 @@
     "lng": 141.6801456048278,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1559,12 @@
     "lng": 141.68034939482484,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1579,14 @@
     "lng": 142.36072664426968,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1601,12 @@
     "lng": 141.34909997772797,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1621,15 @@
     "lng": 141.41087931751215,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1644,14 @@
     "lng": 141.65248235417954,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1666,12 @@
     "lng": 141.66010812532554,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1686,14 @@
     "lng": 141.35363629779238,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1708,14 @@
     "lng": 141.35465576838823,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1730,14 @@
     "lng": 141.345995838202,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1752,15 @@
     "lng": 141.3370689275582,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "毎週日曜日、月曜日"
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1775,14 @@
     "lng": 141.3663171274863,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1797,16 @@
     "lng": 141.4502515670733,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1821,14 @@
     "lng": 141.40952443751735,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1843,14 @@
     "lng": 141.33921785715287,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1865,16 @@
     "lng": 141.35425706775817,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1889,15 @@
     "lng": 141.3550167585166,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1912,12 @@
     "lng": 141.3454809565601,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1932,14 @@
     "lng": 141.47332916749693,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休（サンピアザに準ずる）"
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1954,14 @@
     "lng": 141.4202633672742,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +1976,16 @@
     "lng": 141.45602788741743,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月曜日(祝日の場合は翌日)"
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2000,15 @@
     "lng": 141.38152022631942,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2023,14 @@
     "lng": 141.01095280932725,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2045,16 @@
     "lng": 141.4604129868967,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "月曜日（祝祭日の場合、翌火曜日休み）・他不定休あり"
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2069,14 @@
     "lng": 141.35998289776282,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2091,14 @@
     "lng": 141.27089265707434,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2113,15 @@
     "lng": 141.35075781774802,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜祝日時は日曜営業の月曜定休)"
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2136,12 @@
     "lng": 141.68031567482643,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2156,14 @@
     "lng": 140.74173445842484,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2178,15 @@
     "lng": 141.35689562743278,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2201,13 @@
     "lng": 141.32457978046614,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 北海道",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   }
 ]

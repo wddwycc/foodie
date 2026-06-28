@@ -110,6 +110,26 @@ function selectionLabel(sel: Selection): string | undefined {
     : SETS.find((s) => s.slug === sel.key)?.label;
 }
 
+// Human-readable 定休日 label for the popup, e.g. "水曜・祝日"、"不定休"、"無休".
+const DAY_LABEL: Record<string, string> = {
+  月: "月曜",
+  火: "火曜",
+  水: "水曜",
+  木: "木曜",
+  金: "金曜",
+  土: "土曜",
+  日: "日曜",
+  祝: "祝日",
+};
+function formatClosed(c: Restaurant["closed"]): string | null {
+  if (!c) return null;
+  const parts = c.days.map((d) => DAY_LABEL[d] ?? d);
+  if (c.irregular) parts.push("不定休");
+  if (c.note && c.note !== "無休") parts.push(c.note);
+  if (parts.length === 0) return c.note; // e.g. "無休"
+  return parts.join("・");
+}
+
 function toGeoJSON(
   restaurants: Restaurant[],
 ): GeoJSON.FeatureCollection<GeoJSON.Point> {
@@ -127,6 +147,7 @@ function toGeoJSON(
         ratingCount: r.ratingCount,
         award: r.award ?? null,
         genre: r.genre ?? null,
+        closed: formatClosed(r.closed),
       },
     })),
   };
@@ -143,6 +164,9 @@ function popupHtml(p: Record<string, unknown>): string {
   const award = p.award
     ? `<div style="display:inline-block;background:#fce7ef;color:${ROSE};border-radius:4px;padding:1px 6px;font-size:11px;margin-bottom:4px">${p.award}</div>`
     : "";
+  const closed = p.closed
+    ? `<div style="color:#999;font-size:11px;margin-top:4px">定休日：${p.closed}</div>`
+    : "";
   return `
     <div style="font-size:13px;line-height:1.4;max-width:220px">
       ${award}
@@ -153,6 +177,7 @@ function popupHtml(p: Record<string, unknown>): string {
       </div>
       <div>${rating}</div>
       <div style="color:#666;margin-top:2px">${p.address}</div>
+      ${closed}
     </div>`;
 }
 

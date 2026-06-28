@@ -21,6 +21,10 @@ export type Restaurant = {
   genre?: string; // present in prefecture-aggregated data
   year?: number; // award year
   award?: string; // e.g. "2025 ・ 百名店 ラーメン 東日本"
+  // Regular closing days. `days` are canonical weekday chars (月火水木金土日,
+  // plus 祝 for holidays); `irregular` flags 不定休; `note` keeps free-text the
+  // weekday list can't capture. Open every day → { days: [], note: "無休" }.
+  closed?: { days: string[]; irregular: boolean; note: string | null };
 };
 
 // The registry is generated from the index + scraped data files.

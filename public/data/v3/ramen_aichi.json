@@ -12,7 +12,14 @@
     "lng": 136.9047018510503,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 2,
@@ -27,7 +34,15 @@
     "lng": 136.99371997917163,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "火曜日、祝日 昼 11am - 14pm 夜 18pm - 21pm"
+    }
   },
   {
     "rank": 3,
@@ -42,7 +57,14 @@
     "lng": 136.9284076801799,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 4,
@@ -57,7 +79,15 @@
     "lng": 136.90544184065791,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -72,7 +102,16 @@
     "lng": 136.88870237973697,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -87,7 +126,12 @@
     "lng": 136.90139127977736,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 7,
@@ -102,7 +146,12 @@
     "lng": 136.9825030221331,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 8,
@@ -117,7 +166,14 @@
     "lng": 136.87814746530898,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 9,
@@ -132,7 +188,12 @@
     "lng": 136.87936908012765,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 10,
@@ -147,7 +208,15 @@
     "lng": 137.37024931669222,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -162,7 +231,14 @@
     "lng": 136.95470468065065,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -177,7 +253,14 @@
     "lng": 136.81451432147878,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 13,
@@ -192,7 +275,14 @@
     "lng": 137.03395877804525,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 14,
@@ -207,7 +297,12 @@
     "lng": 136.90788132103512,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 15,
@@ -222,7 +317,14 @@
     "lng": 136.90442815125604,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 16,
@@ -237,7 +339,14 @@
     "lng": 136.85451465127002,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 17,
@@ -252,7 +361,14 @@
     "lng": 136.98272489079085,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -267,7 +383,14 @@
     "lng": 136.85202897985357,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 19,
@@ -282,7 +405,15 @@
     "lng": 136.92112254121474,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 20,
@@ -297,7 +428,14 @@
     "lng": 136.89507305118855,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -312,7 +450,14 @@
     "lng": 136.88600043123853,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 22,
@@ -327,7 +472,15 @@
     "lng": 136.89814220129009,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -342,7 +495,14 @@
     "lng": 136.8756179130509,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 24,
@@ -357,7 +517,16 @@
     "lng": 137.35883847530528,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -372,7 +541,14 @@
     "lng": 136.90155340806615,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -387,7 +563,14 @@
     "lng": 136.86969948006504,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +585,14 @@
     "lng": 136.9927502895141,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(詳しくは当社ホームページをご参考ください。）ご来店前に店舗にご確認ください。"
+    }
   },
   {
     "rank": 28,
@@ -417,7 +607,15 @@
     "lng": 136.91136298078376,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 29,
@@ -432,7 +630,14 @@
     "lng": 136.89831618007972,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "臨時休業、夏季休暇、X（Twitter）にて確認"
+    }
   },
   {
     "rank": 30,
@@ -447,7 +652,15 @@
     "lng": 136.96437319178366,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 31,
@@ -462,7 +675,15 @@
     "lng": 136.92267778148135,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "臨時休業あり"
+    }
   },
   {
     "rank": 32,
@@ -477,7 +698,15 @@
     "lng": 136.94381877546476,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -492,7 +721,14 @@
     "lng": 136.89859748004744,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -507,7 +743,14 @@
     "lng": 136.939660941107,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +765,15 @@
     "lng": 136.8083604311382,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -537,7 +788,12 @@
     "lng": 137.02141578011654,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 37,
@@ -552,7 +808,15 @@
     "lng": 136.9641499791957,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 38,
@@ -567,7 +831,14 @@
     "lng": 136.87643287124524,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 39,
@@ -582,7 +853,14 @@
     "lng": 136.91021278115792,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "土"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -597,7 +875,15 @@
     "lng": 136.86610538807756,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -612,7 +898,15 @@
     "lng": 137.0756426389558,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 42,
@@ -627,7 +921,14 @@
     "lng": 136.86138764113446,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -642,7 +943,12 @@
     "lng": 136.8025395626438,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 44,
@@ -657,7 +963,16 @@
     "lng": 137.22806032753573,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "他臨時休業有"
+    }
   },
   {
     "rank": 45,
@@ -672,7 +987,16 @@
     "lng": 136.9705653100871,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1011,16 @@
     "lng": 136.91026564098735,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "毎月第3月曜日 (祝日の場合は営業) 水曜夜は休み"
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1035,15 @@
     "lng": 136.88392508085758,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1058,14 @@
     "lng": 137.04924697003813,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1080,12 @@
     "lng": 136.80968369090132,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1100,12 @@
     "lng": 137.14270801862955,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1120,15 @@
     "lng": 136.91333048018816,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1143,17 @@
     "lng": 136.99265887955883,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日夜及び木曜日夜(祝日除く)"
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1168,15 @@
     "lng": 136.91002710927214,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "毎週日曜日、第１，３月曜日"
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1191,16 @@
     "lng": 137.0128084521357,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3水曜日"
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1215,15 @@
     "lng": 136.92661737091214,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1238,15 @@
     "lng": 136.92433997734665,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1261,14 @@
     "lng": 136.81228503103307,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1283,15 @@
     "lng": 136.95659637869366,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1306,14 @@
     "lng": 136.88492858009965,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1328,14 @@
     "lng": 137.15853045010434,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1350,12 @@
     "lng": 136.92168492062638,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1370,14 @@
     "lng": 136.91453508585536,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1392,12 @@
     "lng": 136.88418474128383,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1412,14 @@
     "lng": 136.90730398045616,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1434,15 @@
     "lng": 137.1533523780809,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1457,14 @@
     "lng": 136.93111758004088,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1479,15 @@
     "lng": 136.89817438011477,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1502,14 @@
     "lng": 136.81421628101333,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1524,14 @@
     "lng": 136.9115094800331,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1546,14 @@
     "lng": 137.4224105967982,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1568,12 @@
     "lng": 136.8874794833168,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1588,15 @@
     "lng": 136.95290275094106,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1611,15 @@
     "lng": 136.9393913912802,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1634,14 @@
     "lng": 136.89030375122604,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1656,14 @@
     "lng": 136.92568157957328,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1678,15 @@
     "lng": 136.93525298003433,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1701,15 @@
     "lng": 136.91379342129636,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日(祝日は営業)"
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1724,16 @@
     "lng": 137.06978867153896,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3木曜日"
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1748,16 @@
     "lng": 136.75661618241298,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火、水曜"
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1772,12 @@
     "lng": 136.88298028008654,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "年中無休"
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1792,14 @@
     "lng": 136.9175904799222,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無し。※年末年始に臨時休業をいただく場合がございます。"
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1814,15 @@
     "lng": 136.8795528796461,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1837,12 @@
     "lng": 136.93772938066866,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1857,14 @@
     "lng": 137.01444021002823,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1879,16 @@
     "lng": 136.94305261468375,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1903,14 @@
     "lng": 136.91499099120486,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1925,15 @@
     "lng": 136.9672934808278,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1948,16 @@
     "lng": 136.92003802101183,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第2木曜日"
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1972,15 @@
     "lng": 136.93517609969584,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +1995,14 @@
     "lng": 136.87320947973404,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2017,14 @@
     "lng": 136.90118430098858,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2039,15 @@
     "lng": 136.88844455123873,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2062,16 @@
     "lng": 136.96128543033095,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日・火曜日 (祝日でも月・火はお休みします） ■8月19日（水）休業 定休日と合わせて3連休いたします"
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2086,12 @@
     "lng": 136.89045277128307,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2106,14 @@
     "lng": 136.8786116800744,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2128,12 @@
     "lng": 136.9047815800476,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休 営業時間・定休日は変更となる場合がございますので、ご来店前に店舗にご確認ください。"
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2148,15 @@
     "lng": 136.90560717702348,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": "月曜日夜、火曜日夜(祝日休業の場合あり）"
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2171,14 @@
     "lng": 136.84473017207387,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2193,14 @@
     "lng": 136.8784819312614,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2215,14 @@
     "lng": 137.15033209855673,
     "year": 2025,
     "award": "2025 ・ 百名店 ラーメン 愛知",
-    "genre": "ラーメン"
+    "genre": "ラーメン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   }
 ]

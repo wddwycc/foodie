@@ -12,7 +12,14 @@
     "lng": 139.72426518335806,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 2,
@@ -27,7 +34,16 @@
     "lng": 132.67074619708876,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "火曜日 （月末は火・水曜日と連休）"
+    }
   },
   {
     "rank": 3,
@@ -42,7 +58,17 @@
     "lng": 135.91822255151672,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": true,
+      "note": "(火・水・木) ■その他不定休あり（お店のホームページを確認してください）"
+    }
   },
   {
     "rank": 4,
@@ -57,7 +83,14 @@
     "lng": 135.50110036830358,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -72,7 +105,14 @@
     "lng": 139.69918055406282,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 6,
@@ -87,7 +127,12 @@
     "lng": 139.70799958290874,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 7,
@@ -102,7 +147,16 @@
     "lng": 136.55702819523546,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -117,7 +171,15 @@
     "lng": 135.75776063119613,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "毎週月曜日（祝日の場合は営業）"
+    }
   },
   {
     "rank": 9,
@@ -132,7 +194,15 @@
     "lng": 139.04943820757651,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -147,7 +217,12 @@
     "lng": 135.51187657632107,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 11,
@@ -162,7 +237,14 @@
     "lng": 136.25140373270597,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": true,
+      "note": "桜・紅葉シーズンは不定休"
+    }
   },
   {
     "rank": 12,
@@ -177,7 +259,15 @@
     "lng": 139.7727071846099,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 13,
@@ -192,7 +282,12 @@
     "lng": 130.55343760951104,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 14,
@@ -207,7 +302,14 @@
     "lng": 140.55934242018674,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 15,
@@ -222,7 +324,14 @@
     "lng": 135.5948991761073,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 16,
@@ -237,7 +346,14 @@
     "lng": 139.72071788269687,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 17,
@@ -252,7 +368,14 @@
     "lng": 139.73365578247672,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "日曜日・祝日+不定休"
+    }
   },
   {
     "rank": 18,
@@ -267,7 +390,15 @@
     "lng": 130.54081885947687,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "日曜日（月曜日祝日の場合日曜営業、月曜定休）"
+    }
   },
   {
     "rank": 19,
@@ -282,7 +413,14 @@
     "lng": 139.67934487557312,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "他"
+    }
   },
   {
     "rank": 20,
@@ -297,7 +435,14 @@
     "lng": 135.19451767646754,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -312,7 +457,15 @@
     "lng": 135.49721778743245,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 22,
@@ -327,7 +480,14 @@
     "lng": 141.33927765662565,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -342,7 +502,16 @@
     "lng": 142.44344756305833,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜と第1・第3月曜日"
+    }
   },
   {
     "rank": 24,
@@ -357,7 +526,15 @@
     "lng": 137.73007937477175,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -372,7 +549,14 @@
     "lng": 139.7143534145048,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -387,7 +571,14 @@
     "lng": 136.65353848563606,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +593,14 @@
     "lng": 131.42917825102256,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -417,7 +615,14 @@
     "lng": 131.4194354621791,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 29,
@@ -432,7 +637,12 @@
     "lng": 136.9123930838692,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 30,
@@ -447,7 +657,15 @@
     "lng": 130.5539638594853,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "※月曜祝日の場合は日曜営業 ※年末年始のお休みは31日〜1月5日"
+    }
   },
   {
     "rank": 31,
@@ -462,7 +680,16 @@
     "lng": 135.51760487613737,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 32,
@@ -477,7 +704,15 @@
     "lng": 130.74946030485452,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -492,7 +727,12 @@
     "lng": 131.42031695218716,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -507,7 +747,16 @@
     "lng": 140.35508546497377,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +771,14 @@
     "lng": 141.35707600776627,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -537,7 +793,16 @@
     "lng": 136.62338494936722,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3月曜日"
+    }
   },
   {
     "rank": 37,
@@ -552,7 +817,15 @@
     "lng": 139.7711782081182,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "［日曜,月曜］ 両日は電話でのお問い合わせには対応致しかねます。ご了承くださいませ。"
+    }
   },
   {
     "rank": 38,
@@ -567,7 +840,12 @@
     "lng": 139.74041370365435,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 39,
@@ -582,7 +860,15 @@
     "lng": 139.72139119386398,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -597,7 +883,15 @@
     "lng": 140.56803251936134,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "日曜日(臨時営業あり)・祝日休みの場合あり"
+    }
   },
   {
     "rank": 41,
@@ -612,7 +906,16 @@
     "lng": 138.37088317718653,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3水曜日"
+    }
   },
   {
     "rank": 42,
@@ -627,7 +930,14 @@
     "lng": 135.57338772731308,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -642,7 +952,14 @@
     "lng": 134.04863021487583,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 44,
@@ -657,7 +974,16 @@
     "lng": 130.87158303214895,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -672,7 +998,14 @@
     "lng": 136.91734243649546,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1020,14 @@
     "lng": 130.55142406791032,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1042,14 @@
     "lng": 135.12163940379904,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "無し"
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1064,12 @@
     "lng": 130.29698139896234,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "年末年始・不定休"
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1084,14 @@
     "lng": 139.79506665465948,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1106,14 @@
     "lng": 131.13699811166657,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1128,14 @@
     "lng": 136.76037528260244,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1150,12 @@
     "lng": 130.92106212087523,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1170,12 @@
     "lng": 135.51426777959168,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1190,16 @@
     "lng": 130.41146236873774,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1214,15 @@
     "lng": 140.06756162986014,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "水曜日（祝日の場合は営業）"
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1237,16 @@
     "lng": 135.77247710436703,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日が祝日の場合は営業し、翌火曜日を振替休日に致します"
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1261,14 @@
     "lng": 130.40879186868372,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1283,14 @@
     "lng": 135.29265818790122,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1305,12 @@
     "lng": 131.4245244221192,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1325,16 @@
     "lng": 139.7870548833253,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "土曜日（12月・1月のみ営業）・日曜日・祝日（夏季休業等あり）"
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1349,14 @@
     "lng": 130.87957757247895,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1371,15 @@
     "lng": 139.6722637937171,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1394,12 @@
     "lng": 136.91633872305601,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1414,16 @@
     "lng": 139.70437259421774,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1438,15 @@
     "lng": 136.47705035506897,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1461,14 @@
     "lng": 134.05184967372557,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1483,14 @@
     "lng": 139.71695285541247,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "3月29日は店舗メンテナンスのため 21時ラストオーダー 21時30分閉店とさせていただきます。 不定休"
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1505,16 @@
     "lng": 139.7073898340635,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1529,14 @@
     "lng": 137.5693703319164,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1551,14 @@
     "lng": 130.74043399500084,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1573,14 @@
     "lng": 132.9962553426245,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1595,15 @@
     "lng": 139.7341112778886,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1618,14 @@
     "lng": 131.42186371218642,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1640,15 @@
     "lng": 139.71833155321863,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1663,12 @@
     "lng": 139.7278017448198,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1683,15 @@
     "lng": 135.50447938716593,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1706,16 @@
     "lng": 138.91410218931657,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3月曜"
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1730,15 @@
     "lng": 139.7704205042284,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1753,15 @@
     "lng": 139.71561008287966,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1776,14 @@
     "lng": 135.126012882655,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "年末年始 ディナー12月31日～1月4日休み ランチ 12月28日~1月5日休み（変更の場合あり）"
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1798,14 @@
     "lng": 130.65744518423608,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1820,15 @@
     "lng": 131.27125816306665,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1843,14 @@
     "lng": 135.77237883328326,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1865,15 @@
     "lng": 136.91624461126588,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第2・第4月曜日"
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1888,14 @@
     "lng": 133.794617334546,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1910,14 @@
     "lng": 136.91826782130465,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1932,15 @@
     "lng": 131.0581230300983,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜（祝日の場合は翌日）"
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1955,14 @@
     "lng": 134.55186093176388,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1977,12 @@
     "lng": 140.31504838382264,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "無休（年末年始、G.W.、お盆等は不定休あり）"
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +1997,15 @@
     "lng": 138.97065060485733,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2020,14 @@
     "lng": 130.39298326865256,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2042,15 @@
     "lng": 139.73625736192923,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2065,14 @@
     "lng": 140.341240089966,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2087,15 @@
     "lng": 139.72137835915916,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2110,15 @@
     "lng": 135.4949631762781,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "(日曜日、祝日) 事前のご予約に限り営業いたします"
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2133,14 @@
     "lng": 130.9332951166992,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2155,15 @@
     "lng": 139.78248565399838,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "豊洲市場の休市日に準ずる"
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2178,14 @@
     "lng": 131.24369807172636,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2200,12 @@
     "lng": 130.9362745332311,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2220,13 @@
     "lng": 131.4242228192862,
     "year": 2025,
     "award": "2025 ・ 百名店 鳥料理",
-    "genre": "鳥料理"
+    "genre": "鳥料理",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "毎週日曜日(※その他不定休)予約可能人数は4名以上"
+    }
   }
 ]

@@ -12,7 +12,12 @@
     "lng": 139.01654823137233,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "なし 年末年始の休み：12/31(水)、1/1(木)、1/2(金) 団体様や貸切は、お電話にてご相談くださいませ。 食べログからお席ご案内できない場合でも、お電話からご予約をお受けできる場合もあります。 お席は食べログシステム上、自動的に振り分けられるため、ご予約確認時に表示されるお席タイプではない場合もあります。 ※食べログからご予約されるお客様は、キャンセルもお客様自身が食べログから操作される必要があります。 ※予約経路と異なる経路でのキャンセルはお受け致しかねます。"
+    }
   },
   {
     "rank": 2,
@@ -27,7 +32,14 @@
     "lng": 139.04537965756248,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 3,
@@ -42,7 +54,14 @@
     "lng": 136.75565902634844,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "年末年始 (別館 火・水 定休)"
+    }
   },
   {
     "rank": 4,
@@ -57,7 +76,14 @@
     "lng": 140.11751539024723,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 5,
@@ -72,7 +98,14 @@
     "lng": 137.0641077778996,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -87,7 +120,15 @@
     "lng": 141.35370524776687,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 7,
@@ -102,7 +143,14 @@
     "lng": 136.7583303826288,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -117,7 +165,12 @@
     "lng": 136.90331600616264,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 9,
@@ -132,7 +185,14 @@
     "lng": 141.1424082383251,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": true,
+      "note": "不定休（第2、4月曜日休みが多い傾向、ホームページ要確認）。"
+    }
   },
   {
     "rank": 10,
@@ -147,7 +207,16 @@
     "lng": 136.89759682184965,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月曜・火曜（祝日は営業)"
+    }
   },
   {
     "rank": 11,
@@ -162,7 +231,14 @@
     "lng": 140.11185100554337,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -177,7 +253,14 @@
     "lng": 139.62009658560638,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休 その他夏季休暇、冬期休暇、その他不定休有り"
+    }
   },
   {
     "rank": 13,
@@ -192,7 +275,16 @@
     "lng": 140.1411524334233,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月曜日が祝日の場合、翌火曜日、年末年始"
+    }
   },
   {
     "rank": 14,
@@ -207,7 +299,14 @@
     "lng": 136.75992684267607,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年中無休"
+    }
   },
   {
     "rank": 15,
@@ -222,7 +321,12 @@
     "lng": 141.3479389565802,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 16,
@@ -237,7 +341,15 @@
     "lng": 140.12643038664567,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": "基本日曜(連休中の場合は月曜)他不定休有り"
+    }
   },
   {
     "rank": 17,
@@ -252,7 +364,14 @@
     "lng": 140.1224148822818,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -267,7 +386,12 @@
     "lng": 141.35352388624491,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 19,
@@ -282,7 +406,12 @@
     "lng": 140.1261232648942,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 20,
@@ -297,7 +426,16 @@
     "lng": 139.95904570454545,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3火曜日"
+    }
   },
   {
     "rank": 21,
@@ -312,7 +450,12 @@
     "lng": 136.8871777801117,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 22,
@@ -327,7 +470,14 @@
     "lng": 136.88784199153127,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -342,7 +492,12 @@
     "lng": 141.33813876789077,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 24,
@@ -357,7 +512,14 @@
     "lng": 139.64877353613062,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 25,
@@ -372,7 +534,14 @@
     "lng": 136.886155480088,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 26,
@@ -387,7 +556,14 @@
     "lng": 136.80203081270813,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +578,14 @@
     "lng": 136.920485551191,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -417,7 +600,15 @@
     "lng": 137.03063391122302,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 29,
@@ -432,7 +623,15 @@
     "lng": 139.08213570800206,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 30,
@@ -447,7 +646,15 @@
     "lng": 139.69228820283757,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 31,
@@ -462,7 +669,12 @@
     "lng": 136.91707877993713,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 32,
@@ -477,7 +689,12 @@
     "lng": 141.35353715658,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -492,7 +709,14 @@
     "lng": 139.3639278810825,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -507,7 +731,14 @@
     "lng": 140.75955163446883,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +753,15 @@
     "lng": 139.07881103803228,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 36,
@@ -537,7 +776,14 @@
     "lng": 136.91508869127094,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 37,
@@ -552,7 +798,14 @@
     "lng": 139.55967008233918,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 38,
@@ -567,7 +820,16 @@
     "lng": 136.88631850136628,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第３水曜"
+    }
   },
   {
     "rank": 39,
@@ -582,7 +844,15 @@
     "lng": 136.9141155509641,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "土",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -597,7 +867,14 @@
     "lng": 137.06368387714866,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -612,7 +889,15 @@
     "lng": 141.1380837505377,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 42,
@@ -627,7 +912,14 @@
     "lng": 136.90383568003892,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -642,7 +934,14 @@
     "lng": 140.33567641998195,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 44,
@@ -657,7 +956,14 @@
     "lng": 136.8854849800899,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -672,7 +978,12 @@
     "lng": 136.9198427800865,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 46,
@@ -687,7 +998,14 @@
     "lng": 136.88778978008025,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1020,14 @@
     "lng": 136.91574858005316,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1042,15 @@
     "lng": 139.6316099823428,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1065,14 @@
     "lng": 140.8750469296642,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1087,15 @@
     "lng": 140.5853602241649,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1110,14 @@
     "lng": 139.01326309014937,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1132,12 @@
     "lng": 136.88884938014183,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1152,14 @@
     "lng": 136.7583232826043,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1174,14 @@
     "lng": 141.35187735773215,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "年末年始"
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1196,14 @@
     "lng": 139.00701519043804,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1218,12 @@
     "lng": 136.90571297980676,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1238,12 @@
     "lng": 140.12664130486098,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1258,15 @@
     "lng": 140.87890338963882,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜祝日の場合、日曜営業、月曜定休"
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1281,14 @@
     "lng": 140.11618908488222,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1303,12 @@
     "lng": 141.1481968840427,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 61,
@@ -927,7 +1338,14 @@
     "lng": 136.89560313156124,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1360,14 @@
     "lng": 137.8234202740962,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休（月４回） 祝日も土日と同様の営業時間になります"
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1382,15 @@
     "lng": 138.9619378205887,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1405,14 @@
     "lng": 139.62754608561696,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1427,14 @@
     "lng": 136.90060287976723,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": "火曜日 (祝日の場合は営業） [インボイス対象店]"
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1449,15 @@
     "lng": 141.352772832164,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1472,12 @@
     "lng": 139.6230515900571,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1492,16 @@
     "lng": 141.02556019010652,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "※月曜祝日の場合は日曜営業、月曜、火曜定休。"
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1516,12 @@
     "lng": 141.13660710404594,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1536,14 @@
     "lng": 139.90259770312903,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1558,14 @@
     "lng": 141.35482805320174,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "6月： 6/7（日）、6/22（月）"
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1580,14 @@
     "lng": 136.88808478007078,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休 12/31、1/1休業日"
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1602,15 @@
     "lng": 137.12058078169298,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月曜日 ※月曜祝の場合翌日休み"
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1625,16 @@
     "lng": 136.8489674108349,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "毎週月曜日 第三火曜日 祝日の場合は営業"
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1649,15 @@
     "lng": 139.6946461228566,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1672,12 @@
     "lng": 136.92362197465116,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1692,15 @@
     "lng": 140.8762521996202,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1715,14 @@
     "lng": 139.62206858118063,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休 ★GW期間（5/2〜5〜11）は市場がお休みの為、品薄もしくは品切れの商品がございます。ご迷惑をおかけ致しますが、ご理解の上お食事をお楽しみいただければと思います。"
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1737,14 @@
     "lng": 136.9130701801153,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1759,12 @@
     "lng": 136.88707687127055,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1779,15 @@
     "lng": 140.12817350487043,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第1第3月曜日"
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1802,14 @@
     "lng": 140.8803375496789,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(毎年元旦, 9月上旬に定休日有り)"
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1824,15 @@
     "lng": 136.94636138003722,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1847,14 @@
     "lng": 139.60315948104602,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1869,12 @@
     "lng": 139.15899889020284,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1889,14 @@
     "lng": 136.91588563162446,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1911,14 @@
     "lng": 137.01435622100706,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1933,15 @@
     "lng": 140.4794094921016,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +1956,12 @@
     "lng": 139.89740299202003,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +1976,14 @@
     "lng": 136.76316738303208,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +1998,16 @@
     "lng": 137.10812508163835,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日 月曜日が祝日の場合は火曜日がお休みになります"
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2022,15 @@
     "lng": 141.1531249740727,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2045,14 @@
     "lng": 140.1073056449116,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休（ホームページ等で確認お願いします。）"
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2067,14 @@
     "lng": 136.8178275803363,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2089,14 @@
     "lng": 139.41259588293283,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2111,14 @@
     "lng": 141.34354175777852,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2133,14 @@
     "lng": 139.62010467302161,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休（夏季休暇、冬期休暇、その他不定休有り）"
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2155,14 @@
     "lng": 136.94217567711536,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2177,15 @@
     "lng": 136.7619165138378,
     "year": 2025,
     "award": "2025 ・ 百名店 焼肉 東日本",
-    "genre": "焼肉"
+    "genre": "焼肉",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": true,
+      "note": "火曜日 祝日の月曜日 （他 不定休有り）"
+    }
   }
 ]

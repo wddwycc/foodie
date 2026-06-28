@@ -12,7 +12,17 @@
     "lng": 135.48897239719386,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 2,
@@ -27,7 +37,14 @@
     "lng": 132.45835677649512,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(HP・SNSでお知らせ)"
+    }
   },
   {
     "rank": 3,
@@ -42,7 +59,15 @@
     "lng": 135.4991968473303,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 4,
@@ -57,7 +82,16 @@
     "lng": 135.29201564790594,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 5,
@@ -72,7 +106,15 @@
     "lng": 135.51604953728602,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -87,7 +129,12 @@
     "lng": 135.4868720874314,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 7,
@@ -102,7 +149,15 @@
     "lng": 135.96465536009237,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 8,
@@ -117,7 +172,15 @@
     "lng": 135.41345518831372,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 9,
@@ -132,7 +195,15 @@
     "lng": 135.76107378030926,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -147,7 +218,15 @@
     "lng": 135.62256548885898,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -162,7 +241,12 @@
     "lng": 135.49995999737678,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 12,
@@ -177,7 +261,16 @@
     "lng": 135.17502977749865,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 13,
@@ -192,7 +285,12 @@
     "lng": 135.49712083758254,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 14,
@@ -207,7 +305,14 @@
     "lng": 135.77059586077488,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "1月1日のみ休業"
+    }
   },
   {
     "rank": 15,
@@ -222,7 +327,15 @@
     "lng": 135.5067892740986,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "金"
+      ],
+      "irregular": false,
+      "note": "火曜～金曜"
+    }
   },
   {
     "rank": 16,
@@ -237,7 +350,12 @@
     "lng": 135.4576034449858,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "2021/4より定休日 火・水 に変更されています"
+    }
   },
   {
     "rank": 17,
@@ -252,7 +370,16 @@
     "lng": 135.18834798764965,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -267,7 +394,16 @@
     "lng": 135.77105374070442,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 19,
@@ -282,7 +418,16 @@
     "lng": 135.51006833735642,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第3火曜"
+    }
   },
   {
     "rank": 20,
@@ -297,7 +442,15 @@
     "lng": 135.49928172742074,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 21,
@@ -312,7 +465,15 @@
     "lng": 135.76113431391911,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 22,
@@ -327,7 +488,14 @@
     "lng": 135.76723101060023,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 23,
@@ -342,7 +510,16 @@
     "lng": 135.80343137821163,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 24,
@@ -357,7 +534,15 @@
     "lng": 135.3075327979002,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -372,7 +557,16 @@
     "lng": 135.49255069740022,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(ブログ・インスタグラムにて告知）"
+    }
   },
   {
     "rank": 26,
@@ -387,7 +581,14 @@
     "lng": 135.77367337944554,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 27,
@@ -402,7 +603,15 @@
     "lng": 135.49147847720624,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -417,7 +626,15 @@
     "lng": 135.1868680275556,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 29,
@@ -432,7 +649,16 @@
     "lng": 135.30947294790417,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 30,
@@ -447,7 +673,17 @@
     "lng": 135.49111397617656,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "月1回水曜日不定休"
+    }
   },
   {
     "rank": 31,
@@ -462,7 +698,15 @@
     "lng": 135.76963059050874,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "８月"
+    }
   },
   {
     "rank": 32,
@@ -477,7 +721,14 @@
     "lng": 135.1919148676026,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -492,7 +743,15 @@
     "lng": 135.76588580037858,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 34,
@@ -507,7 +766,14 @@
     "lng": 135.51145604746927,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +788,12 @@
     "lng": 130.8810999124784,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 36,
@@ -537,7 +808,14 @@
     "lng": 135.49356590745896,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休（ハービスＰＬＡＺＡに準ずる）"
+    }
   },
   {
     "rank": 37,
@@ -552,7 +830,15 @@
     "lng": 135.3047920979257,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日が祝日の場合は翌日定休日"
+    }
   },
   {
     "rank": 38,
@@ -567,7 +853,15 @@
     "lng": 135.76884473643355,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 39,
@@ -582,7 +876,14 @@
     "lng": 136.2570567629537,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -597,7 +898,16 @@
     "lng": 135.7360720434089,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 41,
@@ -612,7 +922,14 @@
     "lng": 135.49767228750423,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "阪急三番街の定休日に準じる"
+    }
   },
   {
     "rank": 42,
@@ -627,7 +944,15 @@
     "lng": 130.42729885016396,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 43,
@@ -642,7 +967,14 @@
     "lng": 135.49855957633284,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(阪急うめだ本店に準ずる)"
+    }
   },
   {
     "rank": 44,
@@ -657,7 +989,12 @@
     "lng": 135.49565397635757,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休(HP要確認)"
+    }
   },
   {
     "rank": 45,
@@ -672,7 +1009,15 @@
     "lng": 135.76004845043641,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1032,15 @@
     "lng": 135.7431459903254,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1055,16 @@
     "lng": 135.7580165889823,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "ほか臨時休業有り"
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1079,12 @@
     "lng": 135.4954298763233,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1099,14 @@
     "lng": 135.74034145051306,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1121,12 @@
     "lng": 135.7582747304378,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1141,12 @@
     "lng": 135.7480166343864,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1161,16 @@
     "lng": 135.75520665178615,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1185,15 @@
     "lng": 135.7684371006019,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1208,12 @@
     "lng": 135.75706025042797,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1228,15 @@
     "lng": 135.53454922830636,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1251,15 @@
     "lng": 135.1951554795906,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "水曜日(祝日の場合翌日)"
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1274,16 @@
     "lng": 135.3249394881022,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1298,12 @@
     "lng": 135.50175200780788,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1318,15 @@
     "lng": 135.502697805968,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1341,16 @@
     "lng": 134.69198030044416,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "木",
+        "日"
+      ],
+      "irregular": true,
+      "note": "月曜日・木曜日(祝日を除く)、不定休(インスタグラムにて告知)"
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1365,15 @@
     "lng": 135.7640246608273,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1388,14 @@
     "lng": 135.76737247971798,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1410,15 @@
     "lng": 135.51764661702524,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1433,16 @@
     "lng": 135.55423257550683,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1457,15 @@
     "lng": 135.4971500073714,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1480,15 @@
     "lng": 135.3221513781163,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1503,16 @@
     "lng": 135.51721827917115,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1527,16 @@
     "lng": 135.7871584504604,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1551,16 @@
     "lng": 135.18247714988794,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "HP要確認（水曜日・火曜日の休みが多い）"
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1575,16 @@
     "lng": 129.8737371516993,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1599,16 @@
     "lng": 135.27519269791097,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "日",
+        "祝"
+      ],
+      "irregular": true,
+      "note": "第1・3水曜日、不定休(SNSにて告知)"
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1623,15 @@
     "lng": 135.514189887259,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1646,14 @@
     "lng": 135.7711664286206,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": "日・月曜日"
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1668,15 @@
     "lng": 135.55190745661912,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1691,14 @@
     "lng": 135.30188797679162,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "祝日は不定休"
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1713,16 @@
     "lng": 135.3277357480143,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1737,15 @@
     "lng": 135.4820496674364,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1760,15 @@
     "lng": 135.32881895800202,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1783,15 @@
     "lng": 131.0065124020111,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1806,12 @@
     "lng": 135.51243457688352,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1826,15 @@
     "lng": 135.33161532802242,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1849,16 @@
     "lng": 135.50380564670522,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(SNSにて告知)"
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1873,15 @@
     "lng": 135.18510083758395,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1896,12 @@
     "lng": 135.1959191976365,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1916,15 @@
     "lng": 136.6510620055084,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(SNSにて告知)"
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1939,12 @@
     "lng": 135.5055970654748,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 87,
@@ -1317,7 +1974,14 @@
     "lng": 135.7579228004041,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "2025/12/4から定休日がなくなりました。"
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1996,15 @@
     "lng": 135.74283743042892,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +2019,14 @@
     "lng": 130.4003238094876,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2041,16 @@
     "lng": 135.61753457773813,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第３火曜日"
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2065,12 @@
     "lng": 135.4873634762139,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2085,15 @@
     "lng": 135.32911229801306,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2108,14 @@
     "lng": 135.75024427380112,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2130,16 @@
     "lng": 135.80350370917657,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2154,16 @@
     "lng": 135.519228467209,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第１第３水曜"
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2178,18 @@
     "lng": 135.8409409574416,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "木",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休(SNSにて告知)"
+    }
   },
   {
     "rank": 98,
@@ -1482,7 +2219,15 @@
     "lng": 135.19663428760032,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2242,14 @@
     "lng": 135.76736133229488,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 西日本",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   }
 ]

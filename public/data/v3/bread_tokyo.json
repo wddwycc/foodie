@@ -12,7 +12,12 @@
     "lng": 139.76660347432687,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 2,
@@ -27,7 +32,14 @@
     "lng": 139.7333329439509,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "土"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 3,
@@ -42,7 +54,14 @@
     "lng": 139.6891154831507,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": "不定休 Instagramのカレンダー投稿をご参考に。"
+    }
   },
   {
     "rank": 4,
@@ -57,7 +76,17 @@
     "lng": 139.3789077139134,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休 (公式サイトにて告知)"
+    }
   },
   {
     "rank": 5,
@@ -72,7 +101,15 @@
     "lng": 139.87275988405182,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 6,
@@ -87,7 +124,12 @@
     "lng": 139.7650433761566,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 7,
@@ -102,7 +144,12 @@
     "lng": 139.766606283225,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 8,
@@ -117,7 +164,12 @@
     "lng": 139.69678531422772,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 9,
@@ -132,7 +184,16 @@
     "lng": 139.78238104447132,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 10,
@@ -147,7 +208,14 @@
     "lng": 139.7227816945328,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 11,
@@ -162,7 +230,12 @@
     "lng": 139.74354538335936,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 12,
@@ -177,7 +250,17 @@
     "lng": 139.33385609447905,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "臨時休業あります"
+    }
   },
   {
     "rank": 13,
@@ -192,7 +275,17 @@
     "lng": 139.59546778476798,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "土"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 14,
@@ -207,7 +300,15 @@
     "lng": 139.66332099392667,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 15,
@@ -222,7 +323,15 @@
     "lng": 139.73563494412736,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 16,
@@ -237,7 +346,15 @@
     "lng": 139.54658268474833,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 17,
@@ -252,7 +369,15 @@
     "lng": 139.68553256412702,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 18,
@@ -282,7 +407,14 @@
     "lng": 139.71453806402366,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休（恵比寿ガーデンプレイスに準ずる）"
+    }
   },
   {
     "rank": 20,
@@ -297,7 +429,12 @@
     "lng": 139.7651175832817,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": true,
+      "note": "不定休（東京ビルTOKIAに準ずる） ※2026年5月17日(日) TOKIA休館日のため休業"
+    }
   },
   {
     "rank": 21,
@@ -312,7 +449,15 @@
     "lng": 139.7060246539693,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 22,
@@ -327,7 +472,12 @@
     "lng": 139.67007046374795,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 23,
@@ -342,7 +492,14 @@
     "lng": 139.67108015504354,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 24,
@@ -357,7 +514,15 @@
     "lng": 139.7330587210535,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 25,
@@ -372,7 +537,12 @@
     "lng": 139.7383702830366,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 26,
@@ -387,7 +557,12 @@
     "lng": 139.7601125843091,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 27,
@@ -402,7 +577,16 @@
     "lng": 139.63486326394704,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 28,
@@ -417,7 +601,15 @@
     "lng": 139.67388937366383,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 29,
@@ -432,7 +624,14 @@
     "lng": 139.70959028407498,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休 (アトレ恵比寿に準ずる)"
+    }
   },
   {
     "rank": 30,
@@ -447,7 +646,12 @@
     "lng": 139.77417910898956,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 31,
@@ -462,7 +666,16 @@
     "lng": 139.6447397740025,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 32,
@@ -477,7 +690,15 @@
     "lng": 139.6851456339219,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 33,
@@ -492,7 +713,12 @@
     "lng": 139.76906876793402,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "大丸東京に準ずる"
+    }
   },
   {
     "rank": 34,
@@ -507,7 +733,17 @@
     "lng": 139.79778031472262,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 35,
@@ -522,7 +758,14 @@
     "lng": 139.70435608337618,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "伊勢丹新宿店に準ずる"
+    }
   },
   {
     "rank": 36,
@@ -537,7 +780,14 @@
     "lng": 139.68460680373323,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 37,
@@ -552,7 +802,15 @@
     "lng": 139.70529025380006,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 38,
@@ -567,7 +825,17 @@
     "lng": 139.6549060740844,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 39,
@@ -582,7 +850,16 @@
     "lng": 139.71094488343513,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 40,
@@ -597,7 +874,12 @@
     "lng": 139.69847311715077,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 41,
@@ -612,7 +894,16 @@
     "lng": 139.68579053430483,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "不定期に火曜日"
+    }
   },
   {
     "rank": 42,
@@ -627,7 +918,16 @@
     "lng": 139.66738548303388,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": "月曜日、火曜日、水曜日 8月18日(月)に建物取り壊しのため閉店予定"
+    }
   },
   {
     "rank": 43,
@@ -642,7 +942,14 @@
     "lng": 139.5806431447604,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "無休(除く年末年始)"
+    }
   },
   {
     "rank": 44,
@@ -657,7 +964,16 @@
     "lng": 139.67440540413466,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 45,
@@ -672,7 +988,12 @@
     "lng": 139.7033263642048,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 46,
@@ -687,7 +1008,12 @@
     "lng": 139.76702000438402,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 47,
@@ -702,7 +1028,14 @@
     "lng": 139.65302888255033,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 48,
@@ -717,7 +1050,14 @@
     "lng": 139.68609081368803,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 49,
@@ -732,7 +1072,16 @@
     "lng": 139.6489955835566,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 50,
@@ -747,7 +1096,12 @@
     "lng": 139.6618765825339,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 51,
@@ -762,7 +1116,19 @@
     "lng": 139.7906247748697,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "木",
+        "金",
+        "日"
+      ],
+      "irregular": true,
+      "note": "月曜日〜金曜日、他不定休 定休日は、HPをご確認ください。"
+    }
   },
   {
     "rank": 52,
@@ -777,7 +1143,12 @@
     "lng": 139.72938570419706,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 53,
@@ -792,7 +1163,15 @@
     "lng": 139.64557714690469,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 54,
@@ -807,7 +1186,17 @@
     "lng": 139.65995378290276,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "金",
+        "土",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 55,
@@ -822,7 +1211,15 @@
     "lng": 139.60685488355995,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "木"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 56,
@@ -837,7 +1234,12 @@
     "lng": 139.81395310425282,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 57,
@@ -852,7 +1254,14 @@
     "lng": 139.70011993410256,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 58,
@@ -867,7 +1276,14 @@
     "lng": 139.71239322423844,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 59,
@@ -882,7 +1298,14 @@
     "lng": 139.7132047740379,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": "不定休 （恵比寿ガーデンプレイスに準ずる） 1月1日"
+    }
   },
   {
     "rank": 60,
@@ -897,7 +1320,12 @@
     "lng": 139.76506218319884,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 61,
@@ -912,7 +1340,16 @@
     "lng": 139.66898205439114,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "火曜日、水曜日短縮営業"
+    }
   },
   {
     "rank": 62,
@@ -927,7 +1364,14 @@
     "lng": 139.67533288391576,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 63,
@@ -942,7 +1386,16 @@
     "lng": 139.68505769372317,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 64,
@@ -957,7 +1410,12 @@
     "lng": 139.622166883568,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 65,
@@ -972,7 +1430,15 @@
     "lng": 139.68134708317098,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 66,
@@ -987,7 +1453,14 @@
     "lng": 139.74174983444635,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "1/1のみ 2025年現在"
+    }
   },
   {
     "rank": 67,
@@ -1002,7 +1475,15 @@
     "lng": 139.5760852836112,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 68,
@@ -1017,7 +1498,18 @@
     "lng": 139.70651498410086,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "金",
+        "日"
+      ],
+      "irregular": true,
+      "note": "2024年3月も営業日以外は不定休"
+    }
   },
   {
     "rank": 69,
@@ -1032,7 +1524,15 @@
     "lng": 139.7054341732682,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "毎週日曜、月曜日"
+    }
   },
   {
     "rank": 70,
@@ -1047,7 +1547,15 @@
     "lng": 139.63637438342272,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 71,
@@ -1062,7 +1570,12 @@
     "lng": 139.773404324381,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 72,
@@ -1077,7 +1590,14 @@
     "lng": 139.70191077450846,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 73,
@@ -1092,7 +1612,15 @@
     "lng": 139.79135459464302,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "特別休業日（夏季・年末年始） ※他、HPに営業日カレンダーあり"
+    }
   },
   {
     "rank": 74,
@@ -1107,7 +1635,14 @@
     "lng": 139.57732458360425,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "無休(夏季 冬季 を除く) ※1月10日～12日は冬季休みとなります"
+    }
   },
   {
     "rank": 75,
@@ -1122,7 +1657,12 @@
     "lng": 139.76258431435838,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 76,
@@ -1137,7 +1677,16 @@
     "lng": 139.6820428143659,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "第1日曜日、第3日曜日、第5日曜日 第1火曜日、第3火曜日、第5火曜日"
+    }
   },
   {
     "rank": 77,
@@ -1152,7 +1701,17 @@
     "lng": 139.5961057647578,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "臨時休業あり"
+    }
   },
   {
     "rank": 78,
@@ -1167,7 +1726,14 @@
     "lng": 139.7196722493201,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 79,
@@ -1182,7 +1748,18 @@
     "lng": 139.79948398467567,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "水",
+        "木",
+        "金"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 80,
@@ -1197,7 +1774,14 @@
     "lng": 139.77493988422535,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": false,
+      "note": "なし（年末年始をのぞく）"
+    }
   },
   {
     "rank": 81,
@@ -1212,7 +1796,14 @@
     "lng": 139.7378813146459,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 82,
@@ -1227,7 +1818,15 @@
     "lng": 139.70286637380303,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "水曜日(祝日は営業)"
+    }
   },
   {
     "rank": 83,
@@ -1242,7 +1841,18 @@
     "lng": 139.7664565833219,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "土",
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": "月火土日祝"
+    }
   },
   {
     "rank": 84,
@@ -1257,7 +1867,14 @@
     "lng": 139.70925367423789,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日"
+      ],
+      "irregular": true,
+      "note": null
+    }
   },
   {
     "rank": 85,
@@ -1272,7 +1889,14 @@
     "lng": 139.66966209408866,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "水"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 86,
@@ -1287,7 +1911,14 @@
     "lng": 139.68877463390623,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 87,
@@ -1302,7 +1933,14 @@
     "lng": 139.7638716832356,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "祝"
+      ],
+      "irregular": false,
+      "note": "無休（新丸ビルに準ずる）年末年始は元旦のみお休みさせていただきます。"
+    }
   },
   {
     "rank": 88,
@@ -1317,7 +1955,15 @@
     "lng": 139.798196874421,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 89,
@@ -1332,7 +1978,12 @@
     "lng": 139.73152687421796,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 90,
@@ -1347,7 +1998,12 @@
     "lng": 139.66683166406762,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 91,
@@ -1362,7 +2018,12 @@
     "lng": 139.739234542353,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   },
   {
     "rank": 92,
@@ -1377,7 +2038,15 @@
     "lng": 139.68730148432618,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "日",
+        "祝"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 93,
@@ -1392,7 +2061,12 @@
     "lng": 139.69958220452776,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "京王百貨店新宿店に準ずる"
+    }
   },
   {
     "rank": 94,
@@ -1407,7 +2081,16 @@
     "lng": 139.7645378248941,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "火",
+        "日"
+      ],
+      "irregular": false,
+      "note": "夏休み"
+    }
   },
   {
     "rank": 95,
@@ -1422,7 +2105,16 @@
     "lng": 139.6057069740976,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "木",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 96,
@@ -1437,7 +2129,15 @@
     "lng": 139.72824818418863,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": "月曜日（祝日は営業します！）"
+    }
   },
   {
     "rank": 97,
@@ -1452,7 +2152,16 @@
     "lng": 139.72371888294816,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火",
+        "水",
+        "日"
+      ],
+      "irregular": false,
+      "note": "※火曜日が祝日の場合は営業、翌日 水曜日を定休日とさせていただきます"
+    }
   },
   {
     "rank": 98,
@@ -1467,7 +2176,15 @@
     "lng": 139.58298437430486,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "月",
+        "日"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 99,
@@ -1482,7 +2199,14 @@
     "lng": 139.66273598307038,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [
+        "火"
+      ],
+      "irregular": false,
+      "note": null
+    }
   },
   {
     "rank": 100,
@@ -1497,6 +2221,11 @@
     "lng": 139.7407258831041,
     "year": 2022,
     "award": "2022 ・ 百名店 パン 東京",
-    "genre": "パン"
+    "genre": "パン",
+    "closed": {
+      "days": [],
+      "irregular": false,
+      "note": "無休"
+    }
   }
 ]
