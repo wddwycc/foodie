@@ -98,7 +98,7 @@ function genreIconData(emoji: string, size = 64): ImageData {
 }
 
 // Versioned path so a CDN doesn't serve stale JSON after the data changes.
-const DATA_BASE = "/data/v3";
+const DATA_BASE = "/data/v4";
 
 function dataUrl(sel: Selection): string {
   return sel.mode === "pref"

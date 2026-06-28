@@ -1,11 +1,11 @@
 // Stamp each restaurant with its regular closing days (定休日), read from the
 // cached Tabelog detail page. Local only — no network. Use this to backfill
-// public/data/v3/<slug>.json files that were scraped before the scraper began
+// public/data/v4/<slug>.json files that were scraped before the scraper began
 // capturing `closed`. New scrapes pick it up directly in scrape-hyakumeiten.mjs.
 //
 //   node scripts/gen-closed.mjs
 //
-// Rewrites public/data/v3/<slug>.json in place. Run gen-prefectures.mjs
+// Rewrites public/data/v4/<slug>.json in place. Run gen-prefectures.mjs
 // afterward to propagate `closed` into the per-prefecture files.
 
 import { readFile, writeFile } from "node:fs/promises";
@@ -14,7 +14,7 @@ import path from "node:path";
 import { loadSetCatalog } from "./lib/catalog.mjs";
 import { extractClosed } from "./lib/closed.mjs";
 
-const DATA_DIR = path.join(process.cwd(), "public", "data", "v3");
+const DATA_DIR = path.join(process.cwd(), "public", "data", "v4");
 const CACHE_DIR = path.join(process.cwd(), ".scrape-cache");
 
 const catalog = await loadSetCatalog();

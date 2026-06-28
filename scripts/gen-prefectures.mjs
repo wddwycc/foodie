@@ -5,7 +5,7 @@
 //   node scripts/gen-prefectures.mjs
 //
 // Writes:
-//   public/data/v3/pref/<key>.json     restaurants in that prefecture (+ genre)
+//   public/data/v4/pref/<key>.json     restaurants in that prefecture (+ genre)
 //   app/prefectures.generated.ts    list of non-empty prefectures (+ counts)
 
 import { readdir, readFile, writeFile, mkdir, rm } from "node:fs/promises";
@@ -17,7 +17,7 @@ import {
   prefectureOf,
 } from "./lib/prefectures.mjs";
 
-const DATA_DIR = path.join(process.cwd(), "public", "data", "v3");
+const DATA_DIR = path.join(process.cwd(), "public", "data", "v4");
 const PREF_DIR = path.join(DATA_DIR, "pref");
 const OUT_FILE = path.join(process.cwd(), "app", "prefectures.generated.ts");
 
